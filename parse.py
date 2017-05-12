@@ -74,7 +74,7 @@ wl.output('tsv', filename='wordlist-short', prettify=False, ignore='all',
             p.startswith('Proto')])))
 
 try:
-    lex = LexStat('wordlist.bin.tsv')
+    lex = LexStat('wordlist.bin.tsv', segments='segments')
 except:
     lex = LexStat('wordlist-short.tsv', segments='segments')
     lex.get_scorer(runs=10000)
