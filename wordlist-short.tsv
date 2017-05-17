@@ -1,7 +1,5 @@
 ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1	Cebuano_outgroup	Cebuano	1pl incl		kita	kita	1pl incl-1	k i t a	2	k i t a
-2	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	1pl incl	67	k-ita	k-ita	1pl incl-1	k i t a	2	k i t a
-3	Proto_Malayo_Polynesian	PMP	1pl incl	68	kita	kita	1pl incl-1	k i t a	2	k i t a
 4	Wamesa	WAD	1pl incl	30	tata	tata	1pl incl-1	t a t a	2	t a t a
 5	Ambai	Ambai	1pl incl	31	tata	tata	1pl incl-1	t a t a	2	t a t a
 6	Ansus_PD	Ansus (P&D)	1pl incl	33	tata	tata	1pl incl-1	t a t a	2	t a t a
@@ -40,8 +38,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 39	Moor	Moor	1pl incl	50	í'a	í'a	1pl incl-1	í ʔ a	2	í ʔ a
 40	Warembori	Warembori	1pl incl	56	ki	ki	1pl incl-1	k i	2	k i
 41	Cebuano_outgroup	Cebuano	1plexcl		kami	kami	1plexcl-2	k a m i	8	k a m i
-42	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	1plexcl	67	kami	kami	1plexcl-1	k a m i	7	k a m i
-43	Proto_Malayo_Polynesian	PMP	1plexcl	68	kami	kami	1plexcl-1	k a m i	7	k a m i
 44	Wamesa	WAD	1plexcl	30	ama-	ama-	1plexcl-1	a m a	7	a m a
 45	Ambai	Ambai	1plexcl	31	amea	amea	1plexcl-1	a m e a	7	a m e a
 46	Ansus_PD	Ansus (P&D)	1plexcl	33	ama	ama	1plexcl-1	a m a	7	a m a
@@ -80,8 +76,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 79	Moor	Moor	1plexcl	50	áma	áma	1plexcl-1	á m a	7	á m a
 80	Warembori	Warembori	1plexcl	56	ami	ami	1plexcl-1	a m i	7	a m i
 81	Cebuano_outgroup	Cebuano	1sg		ako	ako	1sg-1	a k o	11	a k o
-82	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	1sg	67	i-aku	i-aku	1sg-1	i a k u	11	i a k u
-83	Proto_Malayo_Polynesian	PMP	1sg	68	i-aku	i-aku	1sg-1	i a k u	11	i a k u
 84	Wamesa	WAD	1sg	30	yau	yau	1sg-1	j a u	11	j a u
 85	Ambai	Ambai	1sg	31	yau	yau	1sg-1	j a u	11	j a u
 86	Ansus_PD	Ansus (P&D)	1sg	33	yau	yau	1sg-1	j a u	11	j a u
@@ -123,8 +117,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 122	Moor	Moor	1sg	50	ígwa	ígwa	1sg-1	í gʷ a	11	í gʷ a
 123	Warembori	Warembori	1sg	56	iwi	iwi	1sg-1	i w i	11	i w i
 124	Cebuano_outgroup	Cebuano	2pl		kamu	kamu	2pl-1	k a m u	14	k a m u
-125	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	2pl	67	kamiu	kamiu	2pl-1	k a m i u	14	k a m i u
-126	Proto_Malayo_Polynesian	PMP	2pl	68	kamiu	kamiu	2pl-1	k a m i u	14	k a m i u
 127	Wamesa	WAD	2pl	30	mia	mia	2pl-1	m i a	14	m i a
 128	Ambai	Ambai	2pl	31	mea	mea	2pl-1	m e a	14	m e a
 129	Ansus_PD	Ansus (P&D)	2pl	33	mia	mia	2pl-1	m i a	14	m i a
@@ -154,8 +146,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 153	Moor	Moor	2pl	50	amù, mu'ó	amù	2pl-1	a m ù	14	a m ù
 154	Warembori	Warembori	2pl	56	mi	mi	2pl-1	m i	14	m i
 155	Cebuano_outgroup	Cebuano	2sg		ikáw	ikáw	2sg-1	i k á w	17	i k á w
-156	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	2sg	67	i-kau	i-kau	2sg-1	i k a u	17	i k a u
-157	Proto_Malayo_Polynesian	PMP	2sg	68	i-kahu	i-kahu	2sg-1	i k a h u	17	i k a h u
 158	Wamesa	WAD	2sg	30	au	au	2sg-1	a u	17	a u
 159	Ambai	Ambai	2sg	31	wau	wau	2sg-1	w a u	17	w a u
 160	Ansus_PD	Ansus (P&D)	2sg	33	au	au	2sg-1	a u	17	a u
@@ -194,8 +184,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 193	Moor	Moor	2sg	50	á	á	2sg-1	á	17	á
 194	Warembori	Warembori	2sg	56	awi	awi	2sg-1	a w i	17	a w i
 195	Cebuano_outgroup	Cebuano	3pl		sila	sila	3pl-1	s i l a	19	s i l a
-196	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	3pl	67	sida	sida	3pl-1	s i d a	19	s i d a
-197	Proto_Malayo_Polynesian	PMP	3pl	68	si-ida	si-ida	3pl-1	s i i d a	19	s i i d a
 198	Wamesa	WAD	3pl	30	sia	sia	3pl-1	s i a	19	s i a
 199	Ambai	Ambai	3pl	31	ea	ea	3pl-1	e a	19	e a
 200	Ansus_PD	Ansus (P&D)	3pl	33	ya	ya	3pl-1	j a	19	j a
@@ -233,7 +221,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 232	Moor	Moor	3pl	50	ti'ó	ti'ó	3pl-1	t i ʔ ó	19	t i ʔ ó
 233	Warembori	Warembori	3pl	56	ti	ti	3pl-1	t i	19	t i
 234	Cebuano_outgroup	Cebuano	3sg		siya	siya	3sg-1	s i j a	23	s i j a
-235	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	3sg	67	s-ia	s-ia	3sg-2	s i a	24	s i a
 236	Wamesa	WAD	3sg	30	andi, i	andi	3sg-1	a n d i	23	a n d i
 237	Wamesa	WAD	3sg	30	andi, i	i	3sg-2	_ i	24	_ i
 238	Ambai	Ambai	3sg	31	i	i	3sg-2	i	24	i
@@ -269,8 +256,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 268	Warembori	Warembori	3sg	56	yi	yi	3sg-2	j i	24	j i
 269	Cebuano_outgroup	Cebuano	above		sa itaʔas, ibabaw	sa itaʔas	above-1	s a _ i t a ʔ a s	29	s a _ i t a ʔ a s
 270	Cebuano_outgroup	Cebuano	above		sa itaʔas, ibabaw	ibabaw	above-2	_ i b a b a w	30	_ i b a b a w
-271	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	above	67	bobo	bobo	above-1	b o b o	29	b o b o
-272	Proto_Malayo_Polynesian	PMP	above	68	bawbaw	bawbaw	above-1	b a w b a w	29	b a w b a w
 273	Wamesa	WAD	above	30	vavo	vavo	above-1	β a β o	29	β a β o
 274	Ambai	Ambai	above	31	aiayi	aiayi	above-31	a i a j i	31	a i a j i
 275	Ansus_PD	Ansus (P&D)	above	33	yei	yei	above-33	j e i	33	j e i
@@ -311,8 +296,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 310	Yerisiam	Yerisiam	adik	60	ráaó	ráaó	adik-2	r á a ó	42	r á a ó
 311	Moor	Moor	adik	50	raróti	raróti	adik-2	r a r ó t i	42	r a r ó t i
 312	Cebuano_outgroup	Cebuano	afraid, fear		mahádlok	mahádlok	afraid, fear-16	m a h á d l o k	48	m a h á d l o k
-313	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	afraid, fear	67	ma-takut	ma-takut	afraid, fear-1	m a t a k u t	47	m a t a k u t
-314	Proto_Malayo_Polynesian	PMP	afraid, fear	68	ma-takut	ma-takut	afraid, fear-1	m a t a k u t	47	m a t a k u t
 315	Wamesa	WAD	afraid, fear	30	matai	matai	afraid, fear-1	m a t a i	47	m a t a i
 316	Ambai	Ambai	afraid, fear	31	matai	matai	afraid, fear-1	m a t a i	47	m a t a i
 317	Ansus_PD	Ansus (P&D)	afraid, fear	33	matai	matai	afraid, fear-1	m a t a i	47	m a t a i
@@ -337,7 +320,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 336	Moor	Moor	afraid, fear	50	muká'a	muká'a	afraid, fear-1	m u k á ʔ a	47	m u k á ʔ a
 337	Warembori	Warembori	afraid, fear	56	avori-o	avori-o	afraid, fear-	a β o r i o	46	a β o r i o
 338	Cebuano_outgroup	Cebuano	all		tanán	tanán	all-24	t a n á n	54	t a n á n
-339	Proto_Malayo_Polynesian	PMP	all	68	temu	temu	all-1	t e m u	52	t e m u
 340	Wamesa	WAD	all	30	vura	vura	all-30	β u r a	56	β u r a
 341	Ambai	Ambai	all	31	tafau	tafau	all-31	t a ɸ a u	57	t a ɸ a u
 342	Ansus_PD	Ansus (P&D)	all	33	kuira	kuira	all-33	k u i r a	59	k u i r a
@@ -370,7 +352,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 369	Moor	Moor	all	50	anu'ío	anu'ío	all-50	a n u ʔ í o	65	a n u ʔ í o
 370	Warembori	Warembori	all	56	pasi	pasi	all-56	p a s i	68	p a s i
 371	Cebuano_outgroup	Cebuano	alone		inusara	inusara	alone-	i n u s a r a	72	i n u s a r a
-372	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	alone	67	kese	kese	alone-	k e s e	72	k e s e
 373	Wamesa	WAD	alone	30	mesari	mesari	alone-1	m e s a r i	73	m e s a r i
 374	Ambai	Ambai	alone	31	mesiri	mesiri	alone-1	m e s i r i	73	m e s i r i
 375	Ansus_EG	Ansus (EG)	alone		mieri	mieri	alone-	m i e r i	72	m i e r i
@@ -406,8 +387,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 405	Moor	Moor	anchor	50	kamitúa	kamitúa	anchor-1	k a m i t ú a	85	k a m i t ú a
 406	Warembori	Warembori	anchor	56	avori-o	avori-o	anchor-56	a β o r i o	87	a β o r i o
 407	Cebuano_outgroup	Cebuano	and		ug	ug	and-25	u g	90	u g
-408	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	and	67	ma	ma	and-1	m a	89	m a
-409	Proto_Malayo_Polynesian	PMP	and	68	ma	ma	and-1	m a	89	m a
 410	Wamesa	WAD	and	30	ma	ma	and-1	m a	89	m a
 411	Ambai	Ambai	and	31	mae	mae	and-1	m a e	89	m a e
 412	Ansus_EG	Ansus (EG)	and		ko	ko	and-	k o	88	k o
@@ -462,8 +441,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 461	Yerisiam	Yerisiam	ant	60	ánííní	ánííní	ant-1	á n íː n í	106	á n íː n í
 462	Moor	Moor	ant	50	rìrama	rìrama	ant-50	r ì r a m a	109	r ì r a m a
 463	Cebuano_outgroup	Cebuano	ash		ágiw	ágiw	ash-1	á g i w	113	á g i w
-464	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	ash	67	qabu	qabu	ash-1	ʔ a b u	113	ʔ a b u
-465	Proto_Malayo_Polynesian	PMP	ash	68	qabu	qabu	ash-1	ʔ a b u	113	ʔ a b u
 466	Wamesa	WAD	ash	30	wabu	wabu	ash-1	w a b u	113	w a b u
 467	Ambai	Ambai	ash	31	kaŋgana	kaŋgana	ash-31	k a ŋ g a n a	114	k a ŋ g a n a
 468	Ansus_PD	Ansus (P&D)	ash	33	wawu	wawu	ash-1	w a w u	113	w a w u
@@ -502,7 +479,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 501	Moor	Moor	ash	50	áha	áha	ash-50	á h a	119	á h a
 502	Warembori	Warembori	ash	56	aivu-ro	aivu-ro	ash-1	a i β u r o	113	a i β u r o
 503	Cebuano_outgroup	Cebuano	ask		mangutana	mangutana	ask-	m a n g u t a n a	121	m a n g u t a n a
-504	Proto_Malayo_Polynesian	PMP	ask	68	kutaña	kutaña	ask-1	k u t a ɲ a	122	k u t a ɲ a
 505	Wamesa	WAD	ask	30	uta	uta	ask-1	u t a	122	u t a
 506	Ambai	Ambai	ask	31	utan	utan	ask-1	u t a n	122	u t a n
 507	Ansus_EG	Ansus (EG)	ask		utaŋ	utaŋ	ask-	u t a ŋ	121	u t a ŋ
@@ -517,9 +493,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 516	Yerisiam	Yerisiam	ask	60	àhàhú	àhàhú	ask-59	à h à h ú	124	à h à h ú
 517	Moor	Moor	ask	50	u'uná	u'uná	ask-1	u ʔ u n á	122	u ʔ u n á
 518	Cebuano_outgroup	Cebuano	at/in/loc		sa sulod	sa sulod	at/in/loc-14	s a _ s u l o d	127	s a _ s u l o d
-519	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	at/in/loc	67	di	di	at/in/loc-2	d i	128	d i
-520	Proto_Malayo_Polynesian	PMP	at/in/loc	68	di, dalem	di	at/in/loc-2	d i	128	d i
-521	Proto_Malayo_Polynesian	PMP	at/in/loc	68	di, dalem	dalem	at/in/loc-5	_ d a l e m	135	_ d a l e m
 522	Wamesa	WAD	at/in/loc	30	na, raro	na	at/in/loc-1	n a	126	n a
 523	Wamesa	WAD	at/in/loc	30	na, raro	raro	at/in/loc-5	_ r a r o	135	_ r a r o
 524	Ambai	Ambai	at/in/loc	31	na, we, roron	na	at/in/loc-1	n a	126	n a
@@ -558,7 +531,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 557	Moor	Moor	at/in/loc	50	na	na	at/in/loc-1	n a	126	n a
 558	Warembori	Warembori	at/in/loc	56	mundiu-ro	mundiu-ro	at/in/loc-56	m u n d i u r o	137	m u n d i u r o
 559	Cebuano_outgroup	Cebuano	back (anat)		likód	likód	back (anat)-1	l i k ó d	141	l i k ó d
-560	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	back (anat)	67	mudi	mudi	back (anat)-	m u d i	140	m u d i
 561	Wamesa	WAD	back (anat)	30	karu	karu	back (anat)-1	k a r u	141	k a r u
 562	Ambai	Ambai	back (anat)	31	kuruu	kuruu	back (anat)-1	k u r uː	141	k u r uː
 563	Ansus_EG	Ansus (EG)	back (anat)		karumpuaŋ	karumpuaŋ	back (anat)-	k a r u m p u a ŋ	140	k a r u m p u a ŋ
@@ -584,8 +556,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 583	Moor	Moor	back (anat)	50	tama'òro	tama'òro	back (anat)-50	t a m a ʔ ò r o	152	t a m a ʔ ò r o
 584	Warembori	Warembori	back (anat)	56	ke-bonggombo-ro	ke-bonggombo-ro	back (anat)-56	k e b o ŋ g o m b o r o	155	k e b o ŋ g o m b o r o
 585	Cebuano_outgroup	Cebuano	bad		da-után	da-után	bad-	d a u t á n	158	d a u t á n
-586	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	bad	67	zaqat	zaqat	bad-	z a ʔ a t	158	z a ʔ a t
-587	Proto_Malayo_Polynesian	PMP	bad	68	zaqat	zaqat	bad-	z a ʔ a t	158	z a ʔ a t
 588	Wamesa	WAD	bad	30	kariria	kariria	bad-1	k a r i r i a	159	k a r i r i a
 589	Ambai	Ambai	bad	31	kerira	kerira	bad-1	k e r i r a	159	k e r i r a
 590	Ansus_PD	Ansus (P&D)	bad	33	moiawa	moiawa	bad-33	m o i a w a	160	m o i a w a
@@ -614,7 +584,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 613	Moor	Moor	bad	50	javà, veré'a	javà	bad-50	d͡ʒ a β à	168	d͡ʒ a β à
 614	Warembori	Warembori	bad	56	taka-ro	taka-ro	bad-56	t a k a r o	172	t a k a r o
 615	Cebuano_outgroup	Cebuano	banana		saging	saging	banana-	s a g i n g	175	s a g i n g
-616	Proto_Malayo_Polynesian	PMP	banana	68	punti	punti	banana-3	p u n t i	178	p u n t i
 617	Wamesa	WAD	banana	30	nando	nando	banana-1	n a n d o	176	n a n d o
 618	Ambai	Ambai	banana	31	rando	rando	banana-1	r a n d o	176	r a n d o
 619	Ansus_PD	Ansus (P&D)	banana	33	nando	nando	banana-1	n a n d o	176	n a n d o
@@ -709,9 +678,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 708	Moor	Moor	behind (dir)	50	hahú	hahú	behind (dir)-50	h a h ú	202	h a h ú
 709	Cebuano_outgroup	Cebuano	belly, stomach, guts		tiyán, tiná-i	tiyán	belly, stomach, guts-1	t i j á n	207	t i j á n
 710	Cebuano_outgroup	Cebuano	belly, stomach, guts		tiyán, tiná-i	tiná-i	belly, stomach, guts-1	_ t i n á i	207	_ t i n á i
-711	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	belly, stomach, guts	67	tinaqi	tinaqi	belly, stomach, guts-1	t i n a ʔ i	207	t i n a ʔ i
-712	Proto_Malayo_Polynesian	PMP	belly, stomach, guts	68	tinaqi, kempung	tinaqi	belly, stomach, guts-1	t i n a ʔ i	207	t i n a ʔ i
-713	Proto_Malayo_Polynesian	PMP	belly, stomach, guts	68	tinaqi, kempung	kempung	belly, stomach, guts-2	_ k e m p u n g	208	_ k e m p u n g
 714	Wamesa	WAD	belly, stomach, guts	30	sane	sane	belly, stomach, guts-1	s a n e	207	s a n e
 715	Ambai	Ambai	belly, stomach, guts	31	ene	ene	belly, stomach, guts-1	e n e	207	e n e
 716	Ansus_PD	Ansus (P&D)	belly, stomach, guts	33	aneu	aneu	belly, stomach, guts-1	a n e u	207	a n e u
@@ -751,8 +717,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 750	Moor	Moor	belly, stomach, guts	50	siné	siné	belly, stomach, guts-1	s i n é	207	s i n é
 751	Warembori	Warembori	belly, stomach, guts	56	ke-waro-ro	ke-waro-ro	belly, stomach, guts-3	k e w a r o r o	209	k e w a r o r o
 752	Cebuano_outgroup	Cebuano	below		sa ubos	sa ubos	below-40	s a _ u b o s	220	s a _ u b o s
-753	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	below	67	i babaq	i babaq	below-1	i _ b a b a ʔ	217	i _ b a b a ʔ
-754	Proto_Malayo_Polynesian	PMP	below	68	i-babaq	i-babaq	below-1	i b a b a ʔ	217	i b a b a ʔ
 755	Wamesa	WAD	below	30	vava	vava	below-1	β a β a	217	β a β a
 756	Ambai	Ambai	below	31	dombau	dombau	below-1	d o m b a u	217	d o m b a u
 757	Ansus_PD	Ansus (P&D)	below	33	umbau	umbau	below-1	u m b a u	217	u m b a u
@@ -778,7 +742,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 777	Yerisiam	Yerisiam	below	60	káaná	káaná	below-60	k á a n á	226	k á a n á
 778	Moor	Moor	below	50	hànuna	hànuna	below-50	h à n u n a	222	h à n u n a
 779	Cebuano_outgroup	Cebuano	betel nut		bunga	bunga	betel nut-	b u n g a	227	b u n g a
-780	Proto_Malayo_Polynesian	PMP	betel nut	68	buaq	buaq	betel nut-	b u a ʔ	227	b u a ʔ
 781	Wamesa	WAD	betel nut	30	sawu	sawu	betel nut-2	s a w u	229	s a w u
 782	Ambai	Ambai	betel nut	31	aunai	aunai	betel nut-2	a u n a i	229	a u n a i
 783	Ansus_PD	Ansus (P&D)	betel nut	33	awu	awu	betel nut-2	a w u	229	a w u
@@ -866,9 +829,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 865	Moor	Moor	biji sirih	50	inána	inána	biji sirih-1	i n á n a	254	i n á n a
 866	Warembori	Warembori	biji sirih	56	nan-do	nan-do	biji sirih-1	n a n d o	254	n a n d o
 867	Cebuano_outgroup	Cebuano	bird		lánggam	lánggam	bird-72	l á ŋ g a m	264	l á ŋ g a m
-868	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	bird	67	manuk	manuk	bird-2	m a n u k	260	m a n u k
-869	Proto_Malayo_Polynesian	PMP	bird	68	qayam, manuk	qayam	bird-1	ʔ a j a m	259	ʔ a j a m
-870	Proto_Malayo_Polynesian	PMP	bird	68	qayam, manuk	manuk	bird-2	_ m a n u k	260	_ m a n u k
 871	Wamesa	WAD	bird	30	aya	aya	bird-1	a j a	259	a j a
 872	Ambai	Ambai	bird	31	man	man	bird-2	m a n	260	m a n
 873	Ansus_PD	Ansus (P&D)	bird	33	aya	aya	bird-1	a j a	259	a j a
@@ -907,8 +867,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 906	Moor	Moor	bird	50	mànu	mànu	bird-2	m à n u	260	m à n u
 907	Warembori	Warembori	bird	56	mani-ro	mani-ro	bird-2	m a n i r o	260	m a n i r o
 908	Cebuano_outgroup	Cebuano	bite		mopáʔak	mopáʔak	bite-	m o p á ʔ a k	265	m o p á ʔ a k
-909	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	bite	67	kaRat	kaRat	bite-3	k a ʀ a t	268	k a ʀ a t
-910	Proto_Malayo_Polynesian	PMP	bite	68	kaRat	kaRat	bite-3	k a ʀ a t	268	k a ʀ a t
 911	Wamesa	WAD	bite	30	karipe	karipe	bite-1	k a r i p e	266	k a r i p e
 912	Ambai	Ambai	bite	31	kiri	kiri	bite-1	k i r i	266	k i r i
 913	Ansus_PD	Ansus (P&D)	bite	33	kari	kari	bite-1	k a r i	266	k a r i
@@ -942,8 +900,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 941	Moor	Moor	bite	50	a'ì	a'ì	bite-2	a ʔ ì	267	a ʔ ì
 942	Warembori	Warembori	bite	56	paM-e	paM-e	bite-56	p a M/m e	278	p a m e
 943	Cebuano_outgroup	Cebuano	black		itúm	itúm	black-1	i t ú m	282	i t ú m
-944	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	black	67	qitom, qétom	qitom	black-1	ʔ i t o m	282	ʔ i t o m
-945	Proto_Malayo_Polynesian	PMP	black	68	qitem	qitem	black-1	ʔ i t e m	282	ʔ i t e m
 946	Wamesa	WAD	black	30	meta	meta	black-1	m e t a	282	m e t a
 947	Ambai	Ambai	black	31	nu|metan	nu|metan	black-1	n u m e t a n	282	n u m e t a n
 948	Ansus_PD	Ansus (P&D)	black	33	metaŋ	metaŋ	black-1	m e t a ŋ	282	m e t a ŋ
@@ -982,8 +938,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 981	Moor	Moor	black	50	vuatî	vuatî	black-50	β u a t î	289	β u a t î
 982	Warembori	Warembori	black	56	mamani-ro	mamani-ro	black-56	m a m a n i r o	292	m a m a n i r o
 983	Cebuano_outgroup	Cebuano	blood		dugóʔ	dugóʔ	blood-16	d u g ó ʔ	298	d u g ó ʔ
-984	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	blood	67	daRaq	daRaq	blood-3	d a ʀ a ʔ	300	d a ʀ a ʔ
-985	Proto_Malayo_Polynesian	PMP	blood	68	daRaq	daRaq	blood-3	d a ʀ a ʔ	300	d a ʀ a ʔ
 986	Wamesa	WAD	blood	30	riate	riate	blood-1	r i a t e	297	r i a t e
 987	Ambai	Ambai	blood	31	rika	rika	blood-1	r i k a	297	r i k a
 988	Ansus_PD	Ansus (P&D)	blood	33	ria	ria	blood-1	r i a	297	r i a
@@ -1024,8 +978,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1023	Warembori	Warembori	blood	56	ke-ra-ro	ke-ra-ro	blood-3	k e r a r o	300	k e r a r o
 1024	Cebuano_outgroup	Cebuano	blow		mohangin, mohuyóp	mohangin	blow-70	m o h a n g i n	319	m o h a n g i n
 1025	Cebuano_outgroup	Cebuano	blow		mohangin, mohuyóp	mohuyóp	blow-1	_ m o h u j ó p	306	_ m o h u j ó p
-1026	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	blow	67	upi, hiup	upi	blow-1	u p i	306	u p i
-1027	Proto_Malayo_Polynesian	PMP	blow	68	hiup, tiup	hiup	blow-1	h i u p	306	h i u p
 1028	Wamesa	WAD	blow	30	bub	bub	blow-2	b u b	307	b u b
 1029	Ambai	Ambai	blow	31	bui	bui	blow-2	b u i	307	b u i
 1030	Ansus_PD	Ansus (P&D)	blow	33	burari	burari	blow-2	b u r a r i	307	b u r a r i
@@ -1055,8 +1007,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1054	Moor	Moor	blow	50	umî	umî	blow-50	u m î	313	u m î
 1055	Warembori	Warembori	blow	56	yuambi-o	yuambi-o	blow-56	j u a m b i o	316	j u a m b i o
 1056	Cebuano_outgroup	Cebuano	blue/green		hilaw, lunhaw	hilaw	blue/green-25	h i l a w	323	h i l a w
-1057	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	blue/green	67	mataq	mataq	blue/green-3	m a t a ʔ	324	m a t a ʔ
-1058	Proto_Malayo_Polynesian	PMP	blue/green	68	mataq	mataq	blue/green-3	m a t a ʔ	324	m a t a ʔ
 1059	Wamesa	WAD	blue/green	30	kake	kake	blue/green-1	k a k e	321	k a k e
 1060	Ambai	Ambai	blue/green	31	keke	keke	blue/green-1	k e k e	321	k e k e
 1061	Ansus_PD	Ansus (P&D)	blue/green	33	mekae	mekae	blue/green-1	m e k a e	321	m e k a e
@@ -1093,7 +1043,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1092	Moor	Moor	blue/green	50	ma'ama'î	ma'ama'î	blue/green-3	m a ʔ a m a ʔ î	324	m a ʔ a m a ʔ î
 1093	Warembori	Warembori	blue/green	56	mamasi	mamasi	blue/green-56	m a m a s i	332	m a m a s i
 1094	Cebuano_outgroup	Cebuano	body, flesh, meat		unod	unod	body, flesh, meat-27	u n o d	336	u n o d
-1095	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	body, flesh, meat	67	isi	isi	body, flesh, meat-	i s i	333	i s i
 1096	Wamesa	WAD	body, flesh, meat	30	tarai	tarai	body, flesh, meat-1	t a r a i	334	t a r a i
 1097	Ambai	Ambai	body, flesh, meat	31	tarai	tarai	body, flesh, meat-1	t a r a i	334	t a r a i
 1098	Ansus_PD	Ansus (P&D)	body, flesh, meat	33	tarai	tarai	body, flesh, meat-1	t a r a i	334	t a r a i
@@ -1133,9 +1082,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1132	Moor	Moor	body, flesh, meat	50	tura	tura	body, flesh, meat-1	t u r a	334	t u r a
 1133	Warembori	Warembori	body, flesh, meat	56	nu-ro	nu-ro	body, flesh, meat-56	n u r o	343	n u r o
 1134	Cebuano_outgroup	Cebuano	bone		bukóg	bukóg	bone-16	b u k ó g	349	b u k ó g
-1135	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	bone	67	duRi	duRi	bone-3	d u ʀ i	351	d u ʀ i
-1136	Proto_Malayo_Polynesian	PMP	bone	68	tuqelan, duri	tuqelan	bone-2	t u ʔ e l a n	350	t u ʔ e l a n
-1137	Proto_Malayo_Polynesian	PMP	bone	68	tuqelan, duri	duri	bone-3	_ d u r i	351	_ d u r i
 1138	Wamesa	WAD	bone	30	sina	sina	bone-4	s i n a	353	s i n a
 1139	Ambai	Ambai	bone	31	ina	ina	bone-4	i n a	353	i n a
 1140	Ansus_PD	Ansus (P&D)	bone	33	ina	ina	bone-4	i n a	353	i n a
@@ -1175,8 +1121,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1174	Moor	Moor	bone	50	òro	òro	bone-2	ò r o	350	ò r o
 1175	Warembori	Warembori	bone	56	ke-kombo-ro	ke-kombo-ro	bone-56	k e k o m b o r o	356	k e k o m b o r o
 1176	Cebuano_outgroup	Cebuano	branch		sangá	sangá	branch-2	s a n g á	358	s a n g á
-1177	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	branch	67	saŋan	saŋan	branch-4	s a ŋ a n	363	s a ŋ a n
-1178	Proto_Malayo_Polynesian	PMP	branch	68	saŋan	saŋan	branch-4	s a ŋ a n	363	s a ŋ a n
 1179	Wamesa	WAD	branch	30	rawan	rawan	branch-31	r a w a n	359	r a w a n
 1180	Ambai	Ambai	branch	31	arawan	arawan	branch-31	a r a w a n	359	a r a w a n
 1181	Ansus_EG	Ansus (EG)	branch		arawan	arawan	branch-	a r a w a n	357	a r a w a n
@@ -1200,8 +1144,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1199	Moor	Moor	branch	50	ùvu	ùvu	branch-50	ù β u	368	ù β u
 1200	Cebuano_outgroup	Cebuano	breast		dúghan, suso	dúghan	breast-16	d ú ɣ a n	374	d ú ɣ a n
 1201	Cebuano_outgroup	Cebuano	breast		dúghan, suso	suso	breast-1	_ s u s o	373	_ s u s o
-1202	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	breast	67	susu	susu	breast-1	s u s u	373	s u s u
-1203	Proto_Malayo_Polynesian	PMP	breast	68	susu	susu	breast-1	s u s u	373	s u s u
 1204	Wamesa	WAD	breast	30	susu	susu	breast-1	s u s u	373	s u s u
 1205	Ambai	Ambai	breast	31	ui	ui	breast-1	u i	373	u i
 1206	Ansus_PD	Ansus (P&D)	breast	33	u	u	breast-1	u	373	u
@@ -1237,8 +1179,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1236	Moor	Moor	breast	50	túta	túta	breast-1	t ú t a	373	t ú t a
 1237	Warembori	Warembori	breast	56	ke-tutu-ro	ke-tutu-ro	breast-1	k e t u t u r o	373	k e t u t u r o
 1238	Cebuano_outgroup	Cebuano	breathe		moginháwa	moginháwa	breathe-1	m o g i n h á w a	376	m o g i n h á w a
-1239	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	breathe	67	ma-ñawa	ma-ñawa	breathe-1	m a ɲ a w a	376	m a ɲ a w a
-1240	Proto_Malayo_Polynesian	PMP	breathe	68	ma-ñawa	ma-ñawa	breathe-1	m a ɲ a w a	376	m a ɲ a w a
 1241	Wamesa	WAD	breathe	30	surap	surap	breathe-30	s u r a p	377	s u r a p
 1242	Ambai	Ambai	breathe	31	aiou	aiou	breathe-31	a i o u	378	a i o u
 1243	Ansus_EG	Ansus (EG)	breathe		aseŋ	aseŋ	breathe-	a s e ŋ	375	a s e ŋ
@@ -1258,8 +1198,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1257	Umar	Umar	breathe	55	urojae	urojae	breathe-55	u r o d͡ʒ a e	385	u r o d͡ʒ a e
 1258	Yerisiam	Yerisiam	breathe	60	urá nsì ómóománà	urá nsì ómóománà	breathe-60	u r á _ n s ì _ ó m ó o m á n à	387	u r á _ n s ì _ ó m ó o m á n à
 1259	Cebuano_outgroup	Cebuano	burn		súnugon	súnugon	burn-21	s ú n u g o n	391	s ú n u g o n
-1260	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	burn	67	tunu	tunu	burn-3	t u n u	392	t u n u
-1261	Proto_Malayo_Polynesian	PMP	burn	68	tunu	tunu	burn-3	t u n u	392	t u n u
 1262	Ambai	Ambai	burn	31	nunun	nunun	burn-3	n u n u n	392	n u n u n
 1263	Ansus_PD	Ansus (P&D)	burn	33	nunuŋ	nunuŋ	burn-3	n u n u ŋ	392	n u n u ŋ
 1264	Ansus_EG	Ansus (EG)	burn		rapa	rapa	burn-	r a p a	388	r a p a
@@ -1319,8 +1257,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1318	Yerisiam	Yerisiam	butterfly	60	kápóòpà	kápóòpà	butterfly-60	k á p ó ò p à	410	k á p ó ò p à
 1319	Moor	Moor	butterfly	50	gwarimamó'a	gwarimamó'a	butterfly-50	gʷ a r i m a m ó ʔ a	407	gʷ a r i m a m ó ʔ a
 1320	Cebuano_outgroup	Cebuano	buy		mopalít	mopalít	buy-	m o p a l í t	411	m o p a l í t
-1321	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	buy	67	bəli	bəli	buy-1	b ə l i	412	b ə l i
-1322	Proto_Malayo_Polynesian	PMP	buy	68	beli	beli	buy-1	b e l i	412	b e l i
 1323	Wamesa	WAD	buy	30	vori	vori	buy-1	β o r i	412	β o r i
 1324	Ambai	Ambai	buy	31	worir	worir	buy-	w o r i r	411	w o r i r
 1325	Ansus_EG	Ansus (EG)	buy		vori	vori	buy-	β o r i	411	β o r i
@@ -1355,8 +1291,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1354	Yerisiam	Yerisiam	call	60	díóí	díóí	call-60	d í ó í	430	d í ó í
 1355	Moor	Moor	call	50	orî	orî	call-2	o r î	428	o r î
 1356	Cebuano_outgroup	Cebuano	canoe		bangka, baroto	bangka	canoe-	b a n g k a	431	b a n g k a
-1357	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	canoe	67	waŋka	waŋka	canoe-1	w a ŋ k a	432	w a ŋ k a
-1358	Proto_Malayo_Polynesian	PMP	canoe	68	waŋka	waŋka	canoe-1	w a ŋ k a	432	w a ŋ k a
 1359	Wamesa	WAD	canoe	30	wa	wa	canoe-1	w a	432	w a
 1360	Ambai	Ambai	canoe	31	wa	wa	canoe-1	w a	432	w a
 1361	Ansus_PD	Ansus (P&D)	canoe	33	wa	wa	canoe-1	w a	432	w a
@@ -1381,8 +1315,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1380	Moor	Moor	canoe	50	gwá'a	gwá'a	canoe-1	gʷ á ʔ a	432	gʷ á ʔ a
 1381	Warembori	Warembori	canoe	56	wa-ro	wa-ro	canoe-1	w a r o	432	w a r o
 1382	Cebuano_outgroup	Cebuano	carry		dad-on, modala, dalhon	dad-on	carry-	d a d o n	436	d a d o n
-1383	Proto_Malayo_Polynesian	PMP	carry	68	watang, baba	watang	carry-4	w a t a n g	441	w a t a n g
-1384	Proto_Malayo_Polynesian	PMP	carry	68	watang, baba	baba	carry-5	_ b a b a	445	_ b a b a
 1385	Wamesa	WAD	carry	30	bai	bai	carry-1	b a i	437	b a i
 1386	Ambai	Ambai	carry	31	baki	baki	carry-1	b a k i	437	b a k i
 1387	Ansus_PD	Ansus (P&D)	carry	33	bo	bo	carry-33	b o	439	b o
@@ -1420,7 +1352,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1419	Yerisiam	Yerisiam	cassava	60	timor βua	timor βua	cassava-1	t i m o r _ β u a	451	t i m o r _ β u a
 1420	Moor	Moor	cassava	50	timùri	timùri	cassava-1	t i m ù r i	451	t i m ù r i
 1421	Warembori	Warembori	cassava	56	timori	timori	cassava-1	t i m o r i	451	t i m o r i
-1422	Proto_Malayo_Polynesian	PMP	cassowary	68	kasuaRi	kasuaRi	cassowary-1	k a s u a ʀ i	454	k a s u a ʀ i
 1423	Wamesa	WAD	cassowary	30	woŋgei	woŋgei	cassowary-2	w o ŋ g e i	455	w o ŋ g e i
 1424	Ambai	Ambai	cassowary	31	man-soari	man-soari	cassowary-1	m a n s o a r i	454	m a n s o a r i
 1425	Ansus_PD	Ansus (P&D)	cassowary	33	worawai	worawai	cassowary-33	w o r a w a i	457	w o r a w a i
@@ -1440,7 +1371,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1439	Yerisiam	Yerisiam	cassowary	60	ópíà	ópíà	cassowary-60	ó p í à	462	ó p í à
 1440	Moor	Moor	cassowary	50	atúara	atúara	cassowary-1	a t ú a r a	454	a t ú a r a
 1441	Warembori	Warembori	cassowary	56	suan-do	suan-do	cassowary-1	s u a n d o	454	s u a n d o
-1442	Proto_Malayo_Polynesian	PMP	casuarina tree	68	qaRuhu	qaRuhu	casuarina tree-1	ʔ a ʀ u h u	464	ʔ a ʀ u h u
 1443	Wamesa	WAD	casuarina tree	30	ai yarou	ai yarou	casuarina tree-1	a i _ j a r o u	464	a i _ j a r o u
 1444	Ambai	Ambai	casuarina tree	31	ai-yaru	ai-yaru	casuarina tree-1	a i j a r u	464	a i j a r u
 1445	Ansus_EG	Ansus (EG)	casuarina tree		ai yaru	ai yaru	casuarina tree-	a i _ j a r u	463	a i _ j a r u
@@ -1463,7 +1393,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1462	Yerisiam	Yerisiam	cat	60	náò	náò	cat-1	n á ò	467	n á ò
 1463	Moor	Moor	cat	50	katarúma	katarúma	cat-50	k a t a r ú m a	469	k a t a r ú m a
 1464	Cebuano_outgroup	Cebuano	cheek		aping	aping	cheek-	a p i n g	471	a p i n g
-1465	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	cheek	67	papar	papar	cheek-	p a p a r	471	p a p a r
 1466	Wamesa	WAD	cheek	30	tarare	tarare	cheek-1	t a r a r e	472	t a r a r e
 1467	Ambai	Ambai	cheek	31	tara-reai	tara-reai	cheek-1	t a r a r e a i	472	t a r a r e a i
 1468	Ansus_PD	Ansus (P&D)	cheek	33	tarandeu	tarandeu	cheek-1	t a r a n d e u	472	t a r a n d e u
@@ -1480,7 +1409,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1479	Yerisiam	Yerisiam	cheek	60	táagwánà	táagwánà	cheek-60	t á a gʷ á n à	476	t á a gʷ á n à
 1480	Moor	Moor	cheek	50	ì'o	ì'o	cheek-50	ì ʔ o	473	ì ʔ o
 1481	Cebuano_outgroup	Cebuano	chicken		manok	manok	chicken-2	m a n o k	479	m a n o k
-1482	Proto_Malayo_Polynesian	PMP	chicken	68	manuk	manuk	chicken-2	m a n u k	479	m a n u k
 1483	Wamesa	WAD	chicken	30	kokori	kokori	chicken-1	k o k o r i	478	k o k o r i
 1484	Ambai	Ambai	chicken	31	man-kukei	man-kukei	chicken-3	m a n k u k e i	480	m a n k u k e i
 1485	Ansus_PD	Ansus (P&D)	chicken	33	maŋkuei	maŋkuei	chicken-3	m a ŋ k u e i	480	m a ŋ k u e i
@@ -1506,8 +1434,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1505	Warembori	Warembori	chicken	56	kue	kue	chicken-	k u e	477	k u e
 1506	Cebuano_outgroup	Cebuano	child		anak, bátaʔ	anak	child-1	a n a k	483	a n a k
 1507	Cebuano_outgroup	Cebuano	child		anak, bátaʔ	bátaʔ	child-1	_ b á t a ʔ	483	_ b á t a ʔ
-1508	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	child	67	anak	anak	child-2	a n a k	484	a n a k
-1509	Proto_Malayo_Polynesian	PMP	child	68	anak	anak	child-2	a n a k	484	a n a k
 1510	Wamesa	WAD	child	30	atuma	atuma	child-1	a t u m a	483	a t u m a
 1511	Ambai	Ambai	child	31	antun, arikaŋ	antun	child-1	a n t u n	483	a n t u n
 1512	Ambai	Ambai	child	31	antun, arikaŋ	arikaŋ	child-3	_ a r i k a ŋ	485	_ a r i k a ŋ
@@ -1558,8 +1484,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1557	Yerisiam	Yerisiam	chili pepper	60	kímbóovè	kímbóovè	chili pepper-55	k í m b ó o β è	502	k í m b ó o β è
 1558	Moor	Moor	chili pepper	50	sambá'u vó	sambá'u vó	chili pepper-50	s a m b á ʔ u _ β ó	501	s a m b á ʔ u _ β ó
 1559	Cebuano_outgroup	Cebuano	choose		píli-on	píli-on	choose-1	p í l i o n	504	p í l i o n
-1560	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	choose	67	piliq	piliq	choose-1	p i l i ʔ	504	p i l i ʔ
-1561	Proto_Malayo_Polynesian	PMP	choose	68	piliq	piliq	choose-1	p i l i ʔ	504	p i l i ʔ
 1562	Wamesa	WAD	choose	30	iri	iri	choose-1	i r i	504	i r i
 1563	Ambai	Ambai	choose	31	riri	riri	choose-1	r i r i	504	r i r i
 1564	Ansus_EG	Ansus (EG)	choose		iria	iria	choose-	i r i a	503	i r i a
@@ -1580,8 +1504,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1579	Yerisiam	Yerisiam	choose	60	váváné	váváné	choose-60	β á β á n é	510	β á β á n é
 1580	Moor	Moor	choose	50	irá	irá	choose-1	i r á	504	i r á
 1581	Cebuano_outgroup	Cebuano	climb		mosáka	mosáka	climb-2	m o s á k a	513	m o s á k a
-1582	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	climb	67	sakay	sakay	climb-1	s a k a j	512	s a k a j
-1583	Proto_Malayo_Polynesian	PMP	climb	68	sakay	sakay	climb-1	s a k a j	512	s a k a j
 1584	Wamesa	WAD	climb	30	sa	sa	climb-1	s a	512	s a
 1585	Ambai	Ambai	climb	31	auta	auta	climb-31	a u t a	514	a u t a
 1586	Ansus_EG	Ansus (EG)	climb		veita	veita	climb-	β e i t a	511	β e i t a
@@ -1619,7 +1541,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1618	Moor	Moor	cloth	50	seregwía	seregwía	cloth-1	s e r e gʷ í a	522	s e r e gʷ í a
 1619	Warembori	Warembori	cloth	56	doi-ro	doi-ro	cloth-56	d o i r o	526	d o i r o
 1620	Cebuano_outgroup	Cebuano	clothes		mga bisti	mga bisti	clothes-	m g a _ b i s t i	528	m g a _ b i s t i
-1621	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	clothes	67	malaw	malaw	clothes-2	m a l a w	530	m a l a w
 1622	Wamesa	WAD	clothes	30	sasu	sasu	clothes-1	s a s u	529	s a s u
 1623	Ambai	Ambai	clothes	31	ansun	ansun	clothes-1	a n s u n	529	a n s u n
 1624	Ansus_PD	Ansus (P&D)	clothes	33	asuŋ	asuŋ	clothes-1	a s u ŋ	529	a s u ŋ
@@ -1638,8 +1559,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1637	Yerisiam	Yerisiam	clothes	60	kànsìomúa	kànsìomúa	clothes-60	k à n s ì o m ú a	533	k à n s ì o m ú a
 1638	Moor	Moor	clothes	50	raresúna	raresúna	clothes-1	r a r e s ú n a	529	r a r e s ú n a
 1639	Cebuano_outgroup	Cebuano	cloud		pangánud	pangánud	cloud-27	p a n g á n u d	537	p a n g á n u d
-1640	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	cloud	67	taqe ni laŋit	taqe ni laŋit	cloud-3	t a ʔ e _ n i _ l a ŋ i t	538	t a ʔ e _ n i _ l a ŋ i t
-1641	Proto_Malayo_Polynesian	PMP	cloud	68	Rabun	Rabun	cloud-	ʀ a b u n	534	ʀ a b u n
 1642	Wamesa	WAD	cloud	30	arepa	arepa	cloud-1	a r e p a	535	a r e p a
 1643	Ambai	Ambai	cloud	31	rarika	rarika	cloud-5	r a r i k a	545	r a r i k a
 1644	Ansus_PD	Ansus (P&D)	cloud	33	pipapa	pipapa	cloud-33	p i p a p a	539	p i p a p a
@@ -1678,7 +1597,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1677	Moor	Moor	cloud	50	rīra'a	rīra'a	cloud-5	r ī r a ʔ a	545	r ī r a ʔ a
 1678	Warembori	Warembori	cloud	56	manggamba-ro	manggamba-ro	cloud-56	m a ŋ g a m b a r o	549	m a ŋ g a m b a r o
 1679	Cebuano_outgroup	Cebuano	coconut		lubi	lubi	coconut-	l u b i	550	l u b i
-1680	Proto_Malayo_Polynesian	PMP	coconut	68	niuR	niuR	coconut-2	n i u ʀ	552	n i u ʀ
 1681	Wamesa	WAD	coconut	30	aŋgadi	aŋgadi	coconut-1	a ŋ g a d i	551	a ŋ g a d i
 1682	Ambai	Ambai	coconut	31	ankadi	ankadi	coconut-1	a n k a d i	551	a n k a d i
 1683	Ansus_PD	Ansus (P&D)	coconut	33	aŋgadi	aŋgadi	coconut-1	a ŋ g a d i	551	a ŋ g a d i
@@ -1710,8 +1628,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1709	Moor	Moor	coconut	50	néra	néra	coconut-2	n é r a	552	n é r a
 1710	Warembori	Warembori	coconut	56	nuan-do	nuan-do	coconut-2	n u a n d o	552	n u a n d o
 1711	Cebuano_outgroup	Cebuano	cold		túg-naw	túg-naw	cold-	t ú g n a w	558	t ú g n a w
-1712	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	cold	67	ma-dindiŋ	ma-dindiŋ	cold-3	m a d i n d i ŋ	561	m a d i n d i ŋ
-1713	Proto_Malayo_Polynesian	PMP	cold	68	ma-diŋdiŋ	ma-diŋdiŋ	cold-3	m a d i ŋ d i ŋ	561	m a d i ŋ d i ŋ
 1714	Ambai	Ambai	cold	31	ikararutu	ikararutu	cold-2	i k a r a r u t u	560	i k a r a r u t u
 1715	Ansus_PD	Ansus (P&D)	cold	33	dea	dea	cold-33	d e a	562	d e a
 1716	Ansus_EG	Ansus (EG)	cold		dea	dea	cold-	d e a	558	d e a
@@ -1747,8 +1663,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1746	Moor	Moor	cold	50	venína	venína	cold-50	β e n í n a	566	β e n í n a
 1747	Warembori	Warembori	cold	56	pere-o	pere-o	cold-56	p e r e o	568	p e r e o
 1748	Cebuano_outgroup	Cebuano	come, to here		moanhi, moari	moanhi	come, to here-1	m o a n h i	573	m o a n h i
-1749	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	come, to here	67	maRi	maRi	come, to here-1	m a ʀ i	573	m a ʀ i
-1750	Proto_Malayo_Polynesian	PMP	come, to here	68	maRi	maRi	come, to here-1	m a ʀ i	573	m a ʀ i
 1751	Wamesa	WAD	come, to here	30	ma	ma	come, to here-1	m a	573	m a
 1752	Ambai	Ambai	come, to here	31	rama	rama	come, to here-1	r a m a	573	r a m a
 1753	Ansus_PD	Ansus (P&D)	come, to here	33	rama	rama	come, to here-1	r a m a	573	r a m a
@@ -1787,7 +1701,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1786	Moor	Moor	come, to here	50	ráma	ráma	come, to here-1	r á m a	573	r á m a
 1787	Warembori	Warembori	come, to here	56	da-mo	da-mo	come, to here-1	d a m o	573	d a m o
 1788	Cebuano_outgroup	Cebuano	correct		tinuód	tinuód	correct-38	t i n u ó d	588	t i n u ó d
-1789	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	correct	67	bənər	bənər	correct-	b ə n ə r	579	b ə n ə r
 1790	Wamesa	WAD	correct	30	tindia	tindia	correct-1	t i n d i a	580	t i n d i a
 1791	Ambai	Ambai	correct	31	tarai	tarai	correct-31	t a r a i	582	t a r a i
 1792	Ansus_PD	Ansus (P&D)	correct	33	mai	mai	correct-33	m a i	583	m a i
@@ -1812,8 +1725,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1811	Yerisiam	Yerisiam	correct	60	mìtìkú	mìtìkú	correct-2	m ì t ì k ú	581	m ì t ì k ú
 1812	Moor	Moor	correct	50	jitarî	jitarî	correct-50	d͡ʒ i t a r î	592	d͡ʒ i t a r î
 1813	Cebuano_outgroup	Cebuano	count		ihap	ihap	count-2	i h a p	595	i h a p
-1814	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	count	67	ihap	ihap	count-4	i h a p	600	i h a p
-1815	Proto_Malayo_Polynesian	PMP	count	68	ihap	ihap	count-4	i h a p	600	i h a p
 1816	Ambai	Ambai	count	31	ator	ator	count-1	a t o r	594	a t o r
 1817	Ansus_PD	Ansus (P&D)	count	33	tora	tora	count-1	t o r a	594	t o r a
 1818	Ansus_EG	Ansus (EG)	count		etora	etora	count-	e t o r a	593	e t o r a
@@ -1842,8 +1753,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1841	Yerisiam	Yerisiam	count	60	vóoi	vóoi	count-60	β ó o i	606	β ó o i
 1842	Moor	Moor	count	50	ivunà	ivunà	count-50	i β u n à	605	i β u n à
 1843	Cebuano_outgroup	Cebuano	cry		mohílak	mohílak	cry-	m o h í l a k	607	m o h í l a k
-1844	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	cry	67	taŋis	taŋis	cry-1	t a ŋ i s	608	t a ŋ i s
-1845	Proto_Malayo_Polynesian	PMP	cry	68	taŋis	taŋis	cry-1	t a ŋ i s	608	t a ŋ i s
 1846	Wamesa	WAD	cry	30	sais	sais	cry-2	s a i s	609	s a i s
 1847	Ambai	Ambai	cry	31	i-sai	i-sai	cry-2	i s a i	609	i s a i
 1848	Ansus_PD	Ansus (P&D)	cry	33	ai	ai	cry-2	a i	609	a i
@@ -1876,8 +1785,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1875	Moor	Moor	cry	50	ànita	ànita	cry-1	à n i t a	608	à n i t a
 1876	Warembori	Warembori	cry	56	atino-ro	atino-ro	cry-56	a t i n o r o	613	a t i n o r o
 1877	Cebuano_outgroup	Cebuano	cut		moputól, mobúgha	moputól	cut-37	m o p u t ó l	621	m o p u t ó l
-1878	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	cut	67	tətək	tətək	cut-43	t ə t ə k	625	t ə t ə k
-1879	Proto_Malayo_Polynesian	PMP	cut	68	tektek	tektek	cut-43	t e k t e k	625	t e k t e k
 1880	Wamesa	WAD	cut	30	kutu, pera, tara	kutu	cut-1	k u t u	615	k u t u
 1881	Wamesa	WAD	cut	30	kutu, pera, tara	pera	cut-2	_ p e r a	616	_ p e r a
 1882	Wamesa	WAD	cut	30	kutu, pera, tara	tara	cut-55	_ t a r a	633	_ t a r a
@@ -1913,8 +1820,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1912	Moor	Moor	cut	50	tagwì	tagwì	cut-50	t a gʷ ì	629	t a gʷ ì
 1913	Warembori	Warembori	cut	56	teme	teme	cut-	t e m e	614	t e m e
 1914	Cebuano_outgroup	Cebuano	day		adlaw	adlaw	day-1	a d l a w	637	a d l a w
-1915	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	day	67	qaləjaw	qaləjaw	day-4	ʔ a l ə d͡ʒ a w	646	ʔ a l ə d͡ʒ a w
-1916	Proto_Malayo_Polynesian	PMP	day	68	qalejaw	qalejaw	day-4	ʔ a l e d͡ʒ a w	646	ʔ a l e d͡ʒ a w
 1917	Wamesa	WAD	day	30	raria	raria	day-1	r a r i a	637	r a r i a
 1918	Ambai	Ambai	day	31	aha	aha	day-3	a h a	639	a h a
 1919	Ansus_PD	Ansus (P&D)	day	33	anei	anei	day-33	a n e i	641	a n e i
@@ -1948,8 +1853,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1947	Yerisiam	Yerisiam	day	60	áráh	áráh	day-60	á r á h	651	á r á h
 1948	Moor	Moor	day	50	oro'á	oro'á	day-4	o r o ʔ á	646	o r o ʔ á
 1949	Cebuano_outgroup	Cebuano	die, dead		mamatay	mamatay	die, dead-1	m a m a t a j	653	m a m a t a j
-1950	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	die, dead	67	matay	matay	die, dead-1	m a t a j	653	m a t a j
-1951	Proto_Malayo_Polynesian	PMP	die, dead	68	matay	matay	die, dead-1	m a t a j	653	m a t a j
 1952	Wamesa	WAD	die, dead	30	voru	voru	die, dead-30	β o r u	655	β o r u
 1953	Ambai	Ambai	die, dead	31	mireka	mireka	die, dead-2	m i r e k a	654	m i r e k a
 1954	Ansus_PD	Ansus (P&D)	die, dead	33	kada	kada	die, dead-33	k a d a	656	k a d a
@@ -1988,8 +1891,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 1987	Moor	Moor	die, dead	50	má'a	má'a	die, dead-1	m á ʔ a	653	m á ʔ a
 1988	Warembori	Warembori	die, dead	56	pere-yo	pere-yo	die, dead-1	p e r e j o	653	p e r e j o
 1989	Cebuano_outgroup	Cebuano	dig		mokálot	mokálot	dig-22	m o k á l o t	662	m o k á l o t
-1990	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	dig	67	kali	kali	dig-3	k a l i	663	k a l i
-1991	Proto_Malayo_Polynesian	PMP	dig	68	kali	kali	dig-3	k a l i	663	k a l i
 1992	Wamesa	WAD	dig	30	sarai	sarai	dig-1	s a r a i	661	s a r a i
 1993	Ambai	Ambai	dig	31	arai	arai	dig-1	a r a i	661	a r a i
 1994	Ansus_PD	Ansus (P&D)	dig	33	irai	irai	dig-1	i r a i	661	i r a i
@@ -2017,7 +1918,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2016	Yerisiam	Yerisiam	dig	60	éerá	éerá	dig-36	é e r á	666	é e r á
 2017	Warembori	Warembori	dig	56	ka-yo	ka-yo	dig-3	k a j o	663	k a j o
 2018	Cebuano_outgroup	Cebuano	dirty		húgaw	húgaw	dirty-11	h ú g a w	673	h ú g a w
-2019	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	dirty	67	ma-qitəm	ma-qitəm	dirty-	m a ʔ i t ə m	671	m a ʔ i t ə m
 2020	Wamesa	WAD	dirty	30	rariai, verariate	rariai	dirty-2	r a r i a i	674	r a r i a i
 2021	Wamesa	WAD	dirty	30	rariai, verariate	verariate	dirty-1	_ β e r a r i a t e	672	_ β e r a r i a t e
 2022	Ambai	Ambai	dirty	31	rarika	rarika	dirty-2	r a r i k a	674	r a r i k a
@@ -2045,8 +1945,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2044	Yerisiam	Yerisiam	dirty	60	óráríijárà	óráríijárà	dirty-2	ó r á r í i d͡ʒ á r à	674	ó r á r í i d͡ʒ á r à
 2045	Moor	Moor	dirty	50	verìra'a	verìra'a	dirty-1	β e r ì r a ʔ a	672	β e r ì r a ʔ a
 2046	Cebuano_outgroup	Cebuano	dog		iróʔ	iróʔ	dog-24	i r ó ʔ	687	i r ó ʔ
-2047	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	dog	67	asu	asu	dog-3	a s u	688	a s u
-2048	Proto_Malayo_Polynesian	PMP	dog	68	asu	asu	dog-3	a s u	688	a s u
 2049	Wamesa	WAD	dog	30	wona	wona	dog-1	w o n a	685	w o n a
 2050	Ambai	Ambai	dog	31	wona	wona	dog-1	w o n a	685	w o n a
 2051	Ansus_PD	Ansus (P&D)	dog	33	wona	wona	dog-1	w o n a	685	w o n a
@@ -2085,8 +1983,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2084	Moor	Moor	dog	50	áuna	áuna	dog-1	á u n a	685	á u n a
 2085	Warembori	Warembori	dog	56	mena-ro	mena-ro	dog-1	m e n a r o	685	m e n a r o
 2086	Cebuano_outgroup	Cebuano	dream		magdámgo	magdámgo	dream-21	m a g d á m g o	698	m a g d á m g o
-2087	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	dream	67	mipi	mipi	dream-1	m i p i	697	m i p i
-2088	Proto_Malayo_Polynesian	PMP	dream	68	h-um-ipi	h-um-ipi	dream-1	h u m i p i	697	h u m i p i
 2089	Wamesa	WAD	dream	30	ena mia	ena mia	dream-1	e n a _ m i a	697	e n a _ m i a
 2090	Ambai	Ambai	dream	31	miai	miai	dream-1	m i a i	697	m i a i
 2091	Ansus_EG	Ansus (EG)	dream		emi	emi	dream-	e m i	696	e m i
@@ -2114,8 +2010,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2113	Yerisiam	Yerisiam	dream	60	mí	mí	dream-1	m í	697	m í
 2114	Moor	Moor	dream	50	enamí'a	enamí'a	dream-1	e n a m í ʔ a	697	e n a m í ʔ a
 2115	Cebuano_outgroup	Cebuano	drink		moinúm	moinúm	drink-1	m o i n ú m	707	m o i n ú m
-2116	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	drink	67	unum	unum	drink-1	u n u m	707	u n u m
-2117	Proto_Malayo_Polynesian	PMP	drink	68	inum	inum	drink-1	i n u m	707	i n u m
 2118	Wamesa	WAD	drink	30	unu	unu	drink-1	u n u	707	u n u
 2119	Ambai	Ambai	drink	31	i-unu	i-unu	drink-1	i u n u	707	i u n u
 2120	Ansus_PD	Ansus (P&D)	drink	33	anuŋ	anuŋ	drink-1	a n u ŋ	707	a n u ŋ
@@ -2156,8 +2050,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2155	Warembori	Warembori	drink	56	mini-ro	mini-ro	drink-1	m i n i r o	707	m i n i r o
 2156	Cebuano_outgroup	Cebuano	dry		ugá, mala	ugá	dry-23	u g á	712	u g á
 2157	Cebuano_outgroup	Cebuano	dry		ugá, mala	mala	dry-1	_ m a l a	710	_ m a l a
-2158	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	dry	67	ma-Raŋuʔ	ma-Raŋuʔ	dry-7	m a ʀ a ŋ u ʔ	724	m a ʀ a ŋ u ʔ
-2159	Proto_Malayo_Polynesian	PMP	dry	68	ma-Raŋaw	ma-Raŋaw	dry-7	m a ʀ a ŋ a w	724	m a ʀ a ŋ a w
 2160	Wamesa	WAD	dry	30	sanaia	sanaia	dry-1	s a n a i a	710	s a n a i a
 2161	Ambai	Ambai	dry	31	arahiai	arahiai	dry-5	a r a h i a i	719	a r a h i a i
 2162	Ansus_PD	Ansus (P&D)	dry	33	yenayu	yenayu	dry-1	j e n a j u	710	j e n a j u
@@ -2194,8 +2086,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2193	Moor	Moor	dry	50	araria'î, maruatî	maruatî	dry-5	_ m a r u a t î	719	_ m a r u a t î
 2194	Warembori	Warembori	dry	56	bururandi-o	bururandi-o	dry-56	b u r u r a n d i o	721	b u r u r a n d i o
 2195	Cebuano_outgroup	Cebuano	ear		dalúnggan	dalúnggan	ear-11	d a l ú ŋ g a n	728	d a l ú ŋ g a n
-2196	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	ear	67	taliŋa	taliŋa	ear-1	t a l i ŋ a	727	t a l i ŋ a
-2197	Proto_Malayo_Polynesian	PMP	ear	68	taliŋa	taliŋa	ear-1	t a l i ŋ a	727	t a l i ŋ a
 2198	Wamesa	WAD	ear	30	tarakondi	tarakondi	ear-1	t a r a k o n d i	727	t a r a k o n d i
 2199	Ambai	Ambai	ear	31	tara	tara	ear-1	t a r a	727	t a r a
 2200	Ansus_PD	Ansus (P&D)	ear	33	tarau kambirie	tarau kambirie	ear-33	t a r a u _ k a m b i r i e	729	t a r a u _ k a m b i r i e
@@ -2235,8 +2125,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2234	Moor	Moor	ear	50	ìna	ìna	ear-1	ì n a	727	ì n a
 2235	Warembori	Warembori	ear	56	ke-raran-do	ke-raran-do	ear-56	k e r a r a n d o	735	k e r a r a n d o
 2236	Cebuano_outgroup	Cebuano	earth/ground		yúta	yúta	earth/ground-25	j ú t a	742	j ú t a
-2237	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	earth/ground	67	tanaq	tanaq	earth/ground-57	t a n a ʔ	754	t a n a ʔ
-2238	Proto_Malayo_Polynesian	PMP	earth/ground	68	tanaq	tanaq	earth/ground-57	t a n a ʔ	754	t a n a ʔ
 2239	Wamesa	WAD	earth/ground	30	kakopa	kakopa	earth/ground-1	k a k o p a	740	k a k o p a
 2240	Ambai	Ambai	earth/ground	31	kahopa, kakofa	kahopa	earth/ground-1	k a h o p a	740	k a h o p a
 2241	Ansus_PD	Ansus (P&D)	earth/ground	33	kakopa	kakopa	earth/ground-1	k a k o p a	740	k a k o p a
@@ -2269,8 +2157,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2268	Yerisiam	Yerisiam	earth/ground	60	nánóòvà	nánóòvà	earth/ground-60	n á n ó ò β à	756	n á n ó ò β à
 2269	Moor	Moor	earth/ground	50	sàra	sàra	earth/ground-50	s à r a	751	s à r a
 2270	Cebuano_outgroup	Cebuano	eat		mokáon	mokáon	eat-1	m o k á o n	758	m o k á o n
-2271	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	eat	67	kan	kan	eat-1	k a n	758	k a n
-2272	Proto_Malayo_Polynesian	PMP	eat	68	kaen	kaen	eat-1	k a e n	758	k a e n
 2273	Wamesa	WAD	eat	30	api	api	eat-1	a p i	758	a p i
 2274	Ambai	Ambai	eat	31	ampi	ampi	eat-1	a m p i	758	a m p i
 2275	Ansus_PD	Ansus (P&D)	eat	33	ampi	ampi	eat-1	a m p i	758	a m p i
@@ -2319,8 +2205,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2318	Moor	Moor	eat	50	anî	anî	eat-1	a n î	758	a n î
 2319	Warembori	Warembori	eat	56	ane	ane	eat-1	a n e	758	a n e
 2320	Cebuano_outgroup	Cebuano	egg		ítlog	ítlog	egg-24	í t l o g	768	í t l o g
-2321	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	egg	67	qatəlur	qatəlur	egg-2	ʔ a t ə l u r	767	ʔ a t ə l u r
-2322	Proto_Malayo_Polynesian	PMP	egg	68	qatelur	qatelur	egg-2	ʔ a t e l u r	767	ʔ a t e l u r
 2323	Wamesa	WAD	egg	30	ponori	ponori	egg-1	p o n o r i	766	p o n o r i
 2324	Ambai	Ambai	egg	31	neibo	neibo	egg-31	n e i b o	769	n e i b o
 2325	Ansus_PD	Ansus (P&D)	egg	33	ne woŋ	ne woŋ	egg-33	n e _ w o ŋ	770	n e _ w o ŋ
@@ -2358,8 +2242,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2357	Yerisiam	Yerisiam	egg	60	ákóoré	ákóoré	egg-2	á k ó o r é	767	á k ó o r é
 2358	Warembori	Warembori	egg	56	mani-indowa-ro	mani-indowa-ro	egg-56	m a n i i n d o w a r o	775	m a n i i n d o w a r o
 2359	Cebuano_outgroup	Cebuano	eye		matá	matá	eye-1	m a t á	778	m a t á
-2360	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	eye	67	mata	mata	eye-3	m a t a	780	m a t a
-2361	Proto_Malayo_Polynesian	PMP	eye	68	mate	mate	eye-3	m a t e	780	m a t e
 2362	Wamesa	WAD	eye	30	re	re	eye-1	r e	778	r e
 2363	Ambai	Ambai	eye	31	ure	ure	eye-1	u r e	778	u r e
 2364	Ansus_PD	Ansus (P&D)	eye	33	reukami	reukami	eye-1	r e u k a m i	778	r e u k a m i
@@ -2424,8 +2306,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2423	Moor	Moor	fall	50	aramátù	aramátù	fall-50	a r a m á t ù	800	a r a m á t ù
 2424	Warembori	Warembori	fall	56	dapen-do	dapen-do	fall-56	d a p e n d o	802	d a p e n d o
 2425	Cebuano_outgroup	Cebuano	far		layo	layo	far-34	l a j o	809	l a j o
-2426	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	far	67	zauq	zauq	far-2	z a u ʔ	808	z a u ʔ
-2427	Proto_Malayo_Polynesian	PMP	far	68	ma-zauq	ma-zauq	far-2	m a z a u ʔ	808	m a z a u ʔ
 2428	Wamesa	WAD	far	30	woroi	woroi	far-1	w o r o i	807	w o r o i
 2429	Ambai	Ambai	far	31	waroi	waroi	far-1	w a r o i	807	w a r o i
 2430	Ansus_PD	Ansus (P&D)	far	33	woroi	woroi	far-1	w o r o i	807	w o r o i
@@ -2457,8 +2337,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2456	Warembori	Warembori	far	56	kokari-o	kokari-o	far-56	k o k a r i o	815	k o k a r i o
 2457	Cebuano_outgroup	Cebuano	fat/grease		lana, tambók	lana	fat/grease-24	l a n a	823	l a n a
 2458	Cebuano_outgroup	Cebuano	fat/grease		lana, tambók	tambók	fat/grease-23	_ t a m b ó k	822	_ t a m b ó k
-2459	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	fat/grease	67	meñak	meñak	fat/grease-1	m e ɲ a k	820	m e ɲ a k
-2460	Proto_Malayo_Polynesian	PMP	fat/grease	68	meñak	meñak	fat/grease-1	m e ɲ a k	820	m e ɲ a k
 2461	Wamesa	WAD	fat/grease	30	vemai	vemai	fat/grease-1	β e m a i	820	β e m a i
 2462	Ambai	Ambai	fat/grease	31	main	main	fat/grease-1	m a i n	820	m a i n
 2463	Ansus_PD	Ansus (P&D)	fat/grease	33	mai	mai	fat/grease-1	m a i	820	m a i
@@ -2489,8 +2367,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2488	Yerisiam	Yerisiam	fat/grease	60	mìmná	mìmná	fat/grease-1	m ì m n á	820	m ì m n á
 2489	Moor	Moor	fat/grease	50	mananá	mananá	fat/grease-1	m a n a n á	820	m a n a n á
 2490	Cebuano_outgroup	Cebuano	father		amahán	amahán	father-1	a m a h á n	827	a m a h á n
-2491	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	father	67	t-ama	t-ama	father-3	t a m a	829	t a m a
-2492	Proto_Malayo_Polynesian	PMP	father	68	baba	baba	father-1	b a b a	827	b a b a
 2493	Wamesa	WAD	father	30	tama, yai	tama	father-3	t a m a	829	t a m a
 2494	Wamesa	WAD	father	30	tama, yai	yai	father-5	_ j a i	836	_ j a i
 2495	Ambai	Ambai	father	31	dai, tama	dai	father-2	d a i	828	d a i
@@ -2530,8 +2406,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2529	Moor	Moor	father	50	dai	dai	father-2	d a i	828	d a i
 2530	Warembori	Warembori	father	56	ai	ai	father-5	a i	836	a i
 2531	Cebuano_outgroup	Cebuano	feather		balahíbo	balahíbo	feather-21	b a l a h í b o	840	b a l a h í b o
-2532	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	feather	67	bulu	bulu	feather-2	b u l u	839	b u l u
-2533	Proto_Malayo_Polynesian	PMP	feather	68	bulu	bulu	feather-2	b u l u	839	b u l u
 2534	Ambai	Ambai	feather	31	kararoa	kararoa	feather-31	k a r a r o a	841	k a r a r o a
 2535	Ansus_PD	Ansus (P&D)	feather	33	netui	netui	feather-33	n e t u i	842	n e t u i
 2536	Ansus_EG	Ansus (EG)	feather		netuiŋ	netuiŋ	feather-	n e t u i ŋ	837	n e t u i ŋ
@@ -2587,8 +2461,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2586	Moor	Moor	finger	50	veresí	veresí	finger-50	β e r e s í	859	β e r e s í
 2587	Warembori	Warembori	finger	56	ke-vera-kumbu-ro	ke-vera-kumbu-ro	finger-56	k e β e r a k u m b u r o	862	k e β e r a k u m b u r o
 2588	Cebuano_outgroup	Cebuano	fire		kalayo	kalayo	fire-10	k a l a j o	866	k a l a j o
-2589	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	fire	67	hapuy	hapuy	fire-2	h a p u j	867	h a p u j
-2590	Proto_Malayo_Polynesian	PMP	fire	68	hapuy	hapuy	fire-2	h a p u j	867	h a p u j
 2591	Wamesa	WAD	fire	30	adia	adia	fire-1	a d i a	865	a d i a
 2592	Ambai	Ambai	fire	31	adia	adia	fire-1	a d i a	865	a d i a
 2593	Ansus_PD	Ansus (P&D)	fire	33	adia	adia	fire-1	a d i a	865	a d i a
@@ -2624,8 +2496,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2623	Moor	Moor	fire	50	mò'ana	mò'ana	fire-50	m ò ʔ a n a	871	m ò ʔ a n a
 2624	Warembori	Warembori	fire	56	on-do	on-do	fire-56	o n d o	873	o n d o
 2625	Cebuano_outgroup	Cebuano	fish		ísda	ísda	fish-18	í s d a	878	í s d a
-2626	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	fish	67	hikan	hikan	fish-1	h i k a n	877	h i k a n
-2627	Proto_Malayo_Polynesian	PMP	fish	68	hikan	hikan	fish-1	h i k a n	877	h i k a n
 2628	Wamesa	WAD	fish	30	dia	dia	fish-1	d i a	877	d i a
 2629	Ambai	Ambai	fish	31	dian	dian	fish-1	d i a n	877	d i a n
 2630	Ansus_PD	Ansus (P&D)	fish	33	diaŋ	diaŋ	fish-1	d i a ŋ	877	d i a ŋ
@@ -2666,7 +2536,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2665	Warembori	Warembori	fish	56	anta-ro	anta-ro	fish-56	a n t a r o	883	a n t a r o
 2666	Cebuano_outgroup	Cebuano	five		lima, singko	lima	five-1	l i m a	887	l i m a
 2667	Cebuano_outgroup	Cebuano	five		lima, singko	singko	five-4	_ s i n g k o	888	_ s i n g k o
-2668	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	five	67	lima	lima	five-1	l i m a	887	l i m a
 2669	Wamesa	WAD	five	30	rime	rime	five-1	r i m e	887	r i m e
 2670	Ambai	Ambai	five	31	rin	rin	five-1	r i n	887	r i n
 2671	Ansus_PD	Ansus (P&D)	five	33	riŋ	riŋ	five-1	r i ŋ	887	r i ŋ
@@ -2700,8 +2569,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2699	Moor	Moor	five	50	rimó	rimó	five-1	r i m ó	887	r i m ó
 2700	Warembori	Warembori	five	56	rinti	rinti	five-1	r i n t i	887	r i n t i
 2701	Cebuano_outgroup	Cebuano	flower		búlak	búlak	flower-22	b ú l a k	895	b ú l a k
-2702	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	flower	67	buŋa	buŋa	flower-1	b u ŋ a	893	b u ŋ a
-2703	Proto_Malayo_Polynesian	PMP	flower	68	buŋa	buŋa	flower-1	b u ŋ a	893	b u ŋ a
 2704	Wamesa	WAD	flower	30	ariou	ariou	flower-2	a r i o u	894	a r i o u
 2705	Ambai	Ambai	flower	31	ne-bu	ne-bu	flower-1	n e b u	893	n e b u
 2706	Ansus_EG	Ansus (EG)	flower		airau	airau	flower-	a i r a u	892	a i r a u
@@ -2724,8 +2591,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2723	Yerisiam	Yerisiam	flower	60	mànsía	mànsía	flower-60	m à n s í a	907	m à n s í a
 2724	Warembori	Warembori	flower	56	dote-ro	dote-ro	flower-56	d o t e r o	905	d o t e r o
 2725	Cebuano_outgroup	Cebuano	fly		molupád	molupád	fly-21	m o l u p á d	921	m o l u p á d
-2726	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	fly	67	Rəbək	Rəbək	fly-2	ʀ ə b ə k	920	ʀ ə b ə k
-2727	Proto_Malayo_Polynesian	PMP	fly	68	Rebek	Rebek	fly-2	ʀ e b e k	920	ʀ e b e k
 2728	Wamesa	WAD	fly	30	sapop	sapop	fly-1	s a p o p	919	s a p o p
 2729	Ambai	Ambai	fly	31	sifo	sifo	fly-1	s i ɸ o	919	s i ɸ o
 2730	Ansus_PD	Ansus (P&D)	fly	33	epo	epo	fly-1	e p o	919	e p o
@@ -2788,7 +2653,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2787	Moor	Moor	fly(n)	50	arumàka'a	arumàka'a	fly(n)-50	a r u m à k a ʔ a	914	a r u m à k a ʔ a
 2788	Warembori	Warembori	fly(n)	56	namamba-ro	namamba-ro	fly(n)-1	n a m a m b a r o	909	n a m a m b a r o
 2789	Cebuano_outgroup	Cebuano	forest		lasáng, kakahuyán	lasáng	forest-2	l a s á n g	931	l a s á n g
-2790	Proto_Malayo_Polynesian	PMP	forest	68	qutan	qutan	forest-2	ʔ u t a n	931	ʔ u t a n
 2791	Wamesa	WAD	forest	30	uta, ai raro	uta	forest-2	u t a	931	u t a
 2792	Wamesa	WAD	forest	30	uta, ai raro	ai raro	forest-30	_ a i _ r a r o	933	_ a i _ r a r o
 2793	Ambai	Ambai	forest	31	werabuande	werabuande	forest-31	w e r a b u a n d e	934	w e r a b u a n d e
@@ -2821,8 +2685,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2820	Moor	Moor	forest	50	manù	manù	forest-50	m a n ù	938	m a n ù
 2821	Warembori	Warembori	forest	56	anerere, aNe-ro	anerere	forest-56	a n e r e r e	941	a n e r e r e
 2822	Cebuano_outgroup	Cebuano	four		upát	upát	four-1	u p á t	945	u p á t
-2823	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	four	67	pat-i	pat-i	four-1	p a t i	945	p a t i
-2824	Proto_Malayo_Polynesian	PMP	four	68	epat	epat	four-1	e p a t	945	e p a t
 2825	Wamesa	WAD	four	30	ate	ate	four-1	a t e	945	a t e
 2826	Ambai	Ambai	four	31	bo-a	bo-a	four-1	b o a	945	b o a
 2827	Ansus_PD	Ansus (P&D)	four	33	manua	manua	four-33	m a n u a	946	m a n u a
@@ -2862,8 +2724,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2861	Moor	Moor	four	50	á'ó	á'ó	four-1	á ʔ ó	945	á ʔ ó
 2862	Warembori	Warembori	four	56	wati	wati	four-56	w a t i	948	w a t i
 2863	Cebuano_outgroup	Cebuano	fruit		búnga	búnga	fruit-9	b ú n g a	956	b ú n g a
-2864	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	fruit	67	buaq	buaq	fruit-1	b u a ʔ	950	b u a ʔ
-2865	Proto_Malayo_Polynesian	PMP	fruit	68	buaq	buaq	fruit-1	b u a ʔ	950	b u a ʔ
 2866	Wamesa	WAD	fruit	30	buo	buo	fruit-1	b u o	950	b u o
 2867	Ambai	Ambai	fruit	31	bo	bo	fruit-1	b o	950	b o
 2868	Ansus_PD	Ansus (P&D)	fruit	33	aiboŋ	aiboŋ	fruit-1	a i b o ŋ	950	a i b o ŋ
@@ -2902,7 +2762,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2901	Moor	Moor	fruit	50	vó	vó	fruit-1	β ó	950	β ó
 2902	Warembori	Warembori	fruit	56	bo, bua	bo	fruit-1	b o	950	b o
 2903	Cebuano_outgroup	Cebuano	full		puno	puno	full-	p u n o	957	p u n o
-2904	Proto_Malayo_Polynesian	PMP	full	68	ma-penuq	ma-penuq	full-1	m a p e n u ʔ	958	m a p e n u ʔ
 2905	Wamesa	WAD	full	30	onu	onu	full-1	o n u	958	o n u
 2906	Ambai	Ambai	full	31	sefa	sefa	full-31	s e ɸ a	959	s e ɸ a
 2907	Ansus_EG	Ansus (EG)	full		donu	donu	full-	d o n u	957	d o n u
@@ -2922,8 +2781,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2921	Moor	Moor	full	50	ainû	ainû	full-50	a i n û	960	a i n û
 2922	Warembori	Warembori	full	56	ansora	ansora	full-	a n s o r a	957	a n s o r a
 2923	Cebuano_outgroup	Cebuano	garden		tanaman	tanaman	garden-	t a n a m a n	964	t a n a m a n
-2924	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	garden	67	quma	quma	garden-43	ʔ u m a	966	ʔ u m a
-2925	Proto_Malayo_Polynesian	PMP	garden	68	qumah	qumah	garden-43	ʔ u m a h	966	ʔ u m a h
 2926	Wamesa	WAD	garden	30	romi	romi	garden-1	r o m i	965	r o m i
 2927	Ambai	Ambai	garden	31	romi	romi	garden-1	r o m i	965	r o m i
 2928	Ansus_PD	Ansus (P&D)	garden	33	romi	romi	garden-1	r o m i	965	r o m i
@@ -2940,8 +2797,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2939	Moor	Moor	garden	50	jàvara	jàvara	garden-50	d͡ʒ à β a r a	968	d͡ʒ à β a r a
 2940	Warembori	Warembori	garden	56	Bindo-ro	Bindo-ro	garden-56	B/b i n d o r o	971	b i n d o r o
 2941	Cebuano_outgroup	Cebuano	give		hatag	hatag	give-	h a t a g	974	h a t a g
-2942	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	give	67	boRe	boRe	give-2	b o ʀ e	976	b o ʀ e
-2943	Proto_Malayo_Polynesian	PMP	give	68	beRay	beRay	give-2	b e ʀ a j	976	b e ʀ a j
 2944	Wamesa	WAD	give	30	one	one	give-1	o n e	975	o n e
 2945	Ambai	Ambai	give	31	okon	okon	give-1	o k o n	975	o k o n
 2946	Ansus_PD	Ansus (P&D)	give	33	oŋ	oŋ	give-1	o ŋ	975	o ŋ
@@ -2970,10 +2825,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 2969	Moor	Moor	give	50	tihà	tihà	give-50	t i h à	978	t i h à
 2970	Warembori	Warembori	give	56	ore	ore	give-56	o r e	979	o r e
 2971	Cebuano_outgroup	Cebuano	go, walk		lakáw	lakáw	go, walk-1	l a k á w	982	l a k á w
-2972	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	go, walk	67	lakaw, panaw	lakaw	go, walk-1	l a k a w	982	l a k a w
-2973	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	go, walk	67	lakaw, panaw	panaw	go, walk-3	_ p a n a w	983	_ p a n a w
-2974	Proto_Malayo_Polynesian	PMP	go, walk	68	lakaj, lakaw, paNaw	lakaj	go, walk-1	l a k a d͡ʒ	982	l a k a d͡ʒ
-2975	Proto_Malayo_Polynesian	PMP	go, walk	68	lakaj, lakaw, paNaw	lakaw	go, walk-3	_ l a k a w	983	_ l a k a w
 2976	Wamesa	WAD	go, walk	30	ra	ra	go, walk-1	r a	982	r a
 2977	Ambai	Ambai	go, walk	31	rando	rando	go, walk-1	r a n d o	982	r a n d o
 2978	Ansus_PD	Ansus (P&D)	go, walk	33	ra	ra	go, walk-1	r a	982	r a
@@ -3014,8 +2865,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3013	Moor	Moor	go, walk	50	rá	rá	go, walk-1	r á	982	r á
 3014	Warembori	Warembori	go, walk	56	da	da	go, walk-1	d a	982	d a
 3015	Cebuano_outgroup	Cebuano	good		maʔáyo	maʔáyo	good-29ʔ	m a ʔ á j o	990	m a ʔ á j o
-3016	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	good	67	ma-pia	ma-pia	good-2	m a p i a	989	m a p i a
-3017	Proto_Malayo_Polynesian	PMP	good	68	ma-pia	ma-pia	good-2	m a p i a	989	m a p i a
 3018	Wamesa	WAD	good	30	ate, vesie	ate	good-1	a t e	988	a t e
 3019	Wamesa	WAD	good	30	ate, vesie	vesie	good-3	_ β e s i e	991	_ β e s i e
 3020	Ambai	Ambai	good	31	anten	anten	good-1	a n t e n	988	a n t e n
@@ -3084,8 +2933,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3083	Moor	Moor	grandparent/grandchild	50	kamá	kamá	grandparent/grandchild-3	k a m á	1010	k a m á
 3084	Warembori	Warembori	grandparent/grandchild	56	puma, puavo-ro	puma	grandparent/grandchild-	p u m a	1007	p u m a
 3085	Cebuano_outgroup	Cebuano	grass		ságbut	ságbut	grass-23	s á g b u t	1016	s á g b u t
-3086	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	grass	67	baliji	baliji	grass-1	b a l i d͡ʒ i	1015	b a l i d͡ʒ i
-3087	Proto_Malayo_Polynesian	PMP	grass	68	baliji	baliji	grass-1	b a l i d͡ʒ i	1015	b a l i d͡ʒ i
 3088	Wamesa	WAD	grass	30	samue	samue	grass-30	s a m u e	1018	s a m u e
 3089	Ambai	Ambai	grass	31	afui	afui	grass-31	a ɸ u i	1019	a ɸ u i
 3090	Ansus_PD	Ansus (P&D)	grass	33	nanimpuŋ	nanimpuŋ	grass-33	n a n i m p u ŋ	1020	n a n i m p u ŋ
@@ -3118,8 +2965,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3117	Yerisiam	Yerisiam	grass	60	hérénggéèrà	hérénggéèrà	grass-60	h é r é ŋ g é è r à	1032	h é r é ŋ g é è r à
 3118	Moor	Moor	grass	50	muní'a	muní'a	grass-50	m u n í ʔ a	1027	m u n í ʔ a
 3119	Cebuano_outgroup	Cebuano	grill, cook		magluto	magluto	grill, cook-20	m a g l u t o	1036	m a g l u t o
-3120	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	grill, cook	67	tunu, zakan	tunu	grill, cook-1	t u n u	1034	t u n u
-3121	Proto_Malayo_Polynesian	PMP	grill, cook	68	tunu, zakan	tunu	grill, cook-1	t u n u	1034	t u n u
 3122	Wamesa	WAD	grill, cook	30	nunu	nunu	grill, cook-1	n u n u	1034	n u n u
 3123	Ambai	Ambai	grill, cook	31	i-nunun	i-nunun	grill, cook-1	i n u n u n	1034	i n u n u n
 3124	Ansus_PD	Ansus (P&D)	grill, cook	33	nunuŋ	nunuŋ	grill, cook-1	n u n u ŋ	1034	n u n u ŋ
@@ -3151,8 +2996,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3150	Moor	Moor	grill, cook	50	a'á	a'á	grill, cook-2	a ʔ á	1035	a ʔ á
 3151	Warembori	Warembori	grill, cook	56	kuni, pume	kuni	grill, cook-1	k u n i	1034	k u n i
 3152	Cebuano_outgroup	Cebuano	grow		motúbóʔ	motúbóʔ	grow-1	m o t ú b ó ʔ	1048	m o t ú b ó ʔ
-3153	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	grow	67	tumbuq	tumbuq	grow-1	t u m b u ʔ	1048	t u m b u ʔ
-3154	Proto_Malayo_Polynesian	PMP	grow	68	tubuq	tubuq	grow-1	t u b u ʔ	1048	t u b u ʔ
 3155	Wamesa	WAD	grow	30	siwara	siwara	grow-30	s i w a r a	1049	s i w a r a
 3156	Ambai	Ambai	grow	31	tifu	tifu	grow-1	t i ɸ u	1048	t i ɸ u
 3157	Ansus_PD	Ansus (P&D)	grow	33	kemamai	kemamai	grow-33	k e m a m a i	1050	k e m a m a i
@@ -3172,7 +3015,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3171	Yerisiam	Yerisiam	grow	60	tárárìità	tárárìità	grow-60	t á r á r ì i t à	1058	t á r á r ì i t à
 3172	Moor	Moor	grow	50	anamî	anamî	grow-50	a n a m î	1054	a n a m î
 3173	Cebuano_outgroup	Cebuano	hair		buhók	buhók	hair-1	b u h ó k	1060	b u h ó k
-3174	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	hair	67	daun ni qulu	daun ni qulu	hair-50	d a u n _ n i _ ʔ u l u	1072	d a u n _ n i _ ʔ u l u
 3175	Wamesa	WAD	hair	30	runandau	runandau	hair-1	r u n a n d a u	1060	r u n a n d a u
 3176	Ambai	Ambai	hair	31	nu-randaun	nu-randaun	hair-1	n u r a n d a u n	1060	n u r a n d a u n
 3177	Ansus_PD	Ansus (P&D)	hair	33	duandauŋ	duandauŋ	hair-1	d u a n d a u ŋ	1060	d u a n d a u ŋ
@@ -3210,7 +3052,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3209	Moor	Moor	hair	50	uránu	uránu	hair-50	u r á n u	1072	u r á n u
 3210	Warembori	Warembori	hair	56	ke-vuran-du	ke-vuran-du	hair-56	k e β u r a n d u	1075	k e β u r a n d u
 3211	Cebuano_outgroup	Cebuano	hand		kamut	kamut	hand-21	k a m u t	1082	k a m u t
-3212	Proto_Malayo_Polynesian	PMP	hand	68	baRa	baRa	hand-1	b a ʀ a	1080	b a ʀ a
 3213	Wamesa	WAD	hand	30	vara	vara	hand-1	β a r a	1080	β a r a
 3214	Ambai	Ambai	hand	31	waraŋ	waraŋ	hand-1	w a r a ŋ	1080	w a r a ŋ
 3215	Ansus_PD	Ansus (P&D)	hand	33	warau	warau	hand-1	w a r a u	1080	w a r a u
@@ -3251,8 +3092,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3250	Moor	Moor	hand	50	veréa	veréa	hand-1	β e r é a	1080	β e r é a
 3251	Warembori	Warembori	hand	56	ke-vera-ro	ke-vera-ro	hand-1	k e β e r a r o	1080	k e β e r a r o
 3252	Cebuano_outgroup	Cebuano	head		úlo	úlo	head-1	ú l o	1094	ú l o
-3253	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	head	67	qulu	qulu	head-1	ʔ u l u	1094	ʔ u l u
-3254	Proto_Malayo_Polynesian	PMP	head	68	qulu	qulu	head-1	ʔ u l u	1094	ʔ u l u
 3255	Wamesa	WAD	head	30	ru	ru	head-1	r u	1094	r u
 3256	Ambai	Ambai	head	31	kamiai	kamiai	head-31	k a m i a i	1096	k a m i a i
 3257	Ansus_PD	Ansus (P&D)	head	33	dukami	dukami	head-33	d u k a m i	1098	d u k a m i
@@ -3294,8 +3133,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3293	Warembori	Warembori	head	56	ke-rimun-do	ke-rimun-do	head-56	k e r i m u n d o	1108	k e r i m u n d o
 3294	Cebuano_outgroup	Cebuano	hear		madungóg, maminaw	madungóg	hear-1	m a d u n g ó g	1112	m a d u n g ó g
 3295	Cebuano_outgroup	Cebuano	hear		madungóg, maminaw	maminaw	hear-1	_ m a m i n a w	1112	_ m a m i n a w
-3296	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	hear	67	dəŋəR	dəŋəR	hear-1	d ə ŋ ə ʀ	1112	d ə ŋ ə ʀ
-3297	Proto_Malayo_Polynesian	PMP	hear	68	deŋeR	deŋeR	hear-1	d e ŋ e ʀ	1112	d e ŋ e ʀ
 3298	Wamesa	WAD	hear	30	adiawa	adiawa	hear-30	a d i a w a	1114	a d i a w a
 3299	Ambai	Ambai	hear	31	tara-o	tara-o	hear-3	t a r a o	1113	t a r a o
 3300	Ansus_PD	Ansus (P&D)	hear	33	tarao	tarao	hear-3	t a r a o	1113	t a r a o
@@ -3361,8 +3198,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3360	Yaur	Yaur	heart	59	áakúgùa	áakúgùa	heart-59	á a k ú g ù a	1131	á a k ú g ù a
 3361	Moor	Moor	heart	50	sinevà'u	sinevà'u	heart-50	s i n e β à ʔ u	1127	s i n e β à ʔ u
 3362	Cebuano_outgroup	Cebuano	heavy		búg-at	búg-at	heavy-1	b ú g a t	1133	b ú g a t
-3363	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	heavy	67	ma-bəRat	ma-bəRat	heavy-3	m a b ə ʀ a t	1134	m a b ə ʀ a t
-3364	Proto_Malayo_Polynesian	PMP	heavy	68	ma-beReqat	ma-beReqat	heavy-3	m a b e ʀ e ʔ a t	1134	m a b e ʀ e ʔ a t
 3365	Wamesa	WAD	heavy	30	marabat	marabat	heavy-3	m a r a b a t	1134	m a r a b a t
 3366	Ambai	Ambai	heavy	31	maraba	maraba	heavy-3	m a r a b a	1134	m a r a b a
 3367	Ansus_PD	Ansus (P&D)	heavy	33	mamba	mamba	heavy-3	m a m b a	1134	m a m b a
@@ -3398,8 +3233,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3397	Moor	Moor	heavy	50	sarianggú	sarianggú	heavy-50	s a r i a ŋ g ú	1139	s a r i a ŋ g ú
 3398	Warembori	Warembori	heavy	56	mambayo	mambayo	heavy-3	m a m b a j o	1134	m a m b a j o
 3399	Cebuano_outgroup	Cebuano	hit		manumbag, mobángag, maigóʔ	manumbag	hit-	m a n u m b a g	1143	m a n u m b a g
-3400	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	hit	67	bunuq	bunuq	hit-51	b u n u ʔ	1159	b u n u ʔ
-3401	Proto_Malayo_Polynesian	PMP	hit	68	buNuk	buNuk	hit-51	b u lʲ u k	1159	b u lʲ u k
 3402	Wamesa	WAD	hit	30	rora	rora	hit-1	r o r a	1144	r o r a
 3403	Ambai	Ambai	hit	31	boi	boi	hit-2	b o i	1145	b o i
 3404	Ansus_PD	Ansus (P&D)	hit	33	rora	rora	hit-1	r o r a	1144	r o r a
@@ -3438,7 +3271,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3437	Moor	Moor	hit	50	vavó	vavó	hit-50	β a β ó	1158	β a β ó
 3438	Warembori	Warembori	hit	56	daraBi	daraBi	hit-56	d a r a B/b i	1163	d a r a b i
 3439	Cebuano_outgroup	Cebuano	hold		mohawid, mokupot	mohawid	hold-25	m o h a w i d	1167	m o h a w i d
-3440	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	hold	67	gəmgəm	gəmgəm	hold-	g ə m g ə m	1165	g ə m g ə m
 3441	Wamesa	WAD	hold	30	ruti, tapu	ruti	hold-1	r u t i	1166	r u t i
 3442	Wamesa	WAD	hold	30	ruti, tapu	tapu	hold-37	_ t a p u	1172	_ t a p u
 3443	Ambai	Ambai	hold	31	ruti	ruti	hold-1	r u t i	1166	r u t i
@@ -3490,8 +3322,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3489	Yerisiam	Yerisiam	hole	60	ópáahé	ópáahé	hole-60	ó p á a h é	1193	ó p á a h é
 3490	Moor	Moor	hole	50	kòvuta	kòvuta	hole-50	k ò β u t a	1190	k ò β u t a
 3491	Cebuano_outgroup	Cebuano	hot		init	init	hot-	i n i t	1194	i n i t
-3492	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	hot	67	ma-panas	ma-panas	hot-1	m a p a n a s	1195	m a p a n a s
-3493	Proto_Malayo_Polynesian	PMP	hot	68	ma-panas	ma-panas	hot-1	m a p a n a s	1195	m a p a n a s
 3494	Wamesa	WAD	hot	30	mas	mas	hot-1	m a s	1195	m a s
 3495	Ambai	Ambai	hot	31	maninkapoi	maninkapoi	hot-33	m a n i n k a p o i	1197	m a n i n k a p o i
 3496	Ansus_PD	Ansus (P&D)	hot	33	maŋkakopi	maŋkakopi	hot-33	m a ŋ k a k o p i	1197	m a ŋ k a k o p i
@@ -3521,8 +3351,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3520	Yerisiam	Yerisiam	hot	60	tíaarà	tíaarà	hot-60	t í aː r à	1203	t í aː r à
 3521	Moor	Moor	hot	50	nanatî	nanatî	hot-1	n a n a t î	1195	n a n a t î
 3522	Cebuano_outgroup	Cebuano	house		baláy	baláy	house-14	b a l á j	1206	b a l á j
-3523	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	house	67	Rumaq	Rumaq	house-2	ʀ u m a ʔ	1207	ʀ u m a ʔ
-3524	Proto_Malayo_Polynesian	PMP	house	68	Rumaq	Rumaq	house-2	ʀ u m a ʔ	1207	ʀ u m a ʔ
 3525	Wamesa	WAD	house	30	anio	anio	house-	a n i o	1204	a n i o
 3526	Ambai	Ambai	house	31	munu	munu	house-3	m u n u	1208	m u n u
 3527	Ansus_PD	Ansus (P&D)	house	33	manu	manu	house-3	m a n u	1208	m a n u
@@ -3582,8 +3410,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3581	Taba	Taba	how	54	ha pu	ha pu	how-1	h a _ p u	1215	h a _ p u
 3582	Moor	Moor	how	50	vétè	vétè	how-50	β é t è	1229	β é t è
 3583	Cebuano_outgroup	Cebuano	husband		bána	bána	husband-1	b á n a	1233	b á n a
-3584	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	husband	67	qasawa	qasawa	husband-1	ʔ a s a w a	1233	ʔ a s a w a
-3585	Proto_Malayo_Polynesian	PMP	husband	68	qasawa	qasawa	husband-1	ʔ a s a w a	1233	ʔ a s a w a
 3586	Wamesa	WAD	husband	30	sawa	sawa	husband-1	s a w a	1233	s a w a
 3587	Ambai	Ambai	husband	31	muaŋ	muaŋ	husband-2	m u a ŋ	1234	m u a ŋ
 3588	Ansus_PD	Ansus (P&D)	husband	33	awani	awani	husband-1	a w a n i	1233	a w a n i
@@ -3617,7 +3443,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3616	Yerisiam	Yerisiam	husband	60	híomáané	híomáané	husband-2	h í o m á a n é	1234	h í o m á a n é
 3617	Warembori	Warembori	husband	56	e-man-do	e-man-do	husband-	e m a n d o	1232	e m a n d o
 3618	Cebuano_outgroup	Cebuano	island		pulo	pulo	island-	p u l o	1239	p u l o
-3619	Proto_Malayo_Polynesian	PMP	island	68	nusa	nusa	island-1	n u s a	1240	n u s a
 3620	Wamesa	WAD	island	30	nu	nu	island-1	n u	1240	n u
 3621	Ambai	Ambai	island	31	nu	nu	island-1	n u	1240	n u
 3622	Ansus_PD	Ansus (P&D)	island	33	nu	nu	island-1	n u	1240	n u
@@ -3637,8 +3462,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3636	Moor	Moor	island	50	núta	núta	island-1	n ú t a	1240	n ú t a
 3637	Warembori	Warembori	island	56	te	te	island-	t e	1239	t e
 3638	Cebuano_outgroup	Cebuano	kill		mopatáy	mopatáy	kill-22	m o p a t á j	1245	m o p a t á j
-3639	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	kill	67	bunuq	bunuq	kill-1	b u n u ʔ	1244	b u n u ʔ
-3640	Proto_Malayo_Polynesian	PMP	kill	68	bunuq	bunuq	kill-1	b u n u ʔ	1244	b u n u ʔ
 3641	Wamesa	WAD	kill	30	mun	mun	kill-1	m u n	1244	m u n
 3642	Ambai	Ambai	kill	31	muni	muni	kill-1	m u n i	1244	m u n i
 3643	Ansus_PD	Ansus (P&D)	kill	33	muŋ	muŋ	kill-1	m u ŋ	1244	m u ŋ
@@ -3727,8 +3550,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3726	Moor	Moor	knife	50	sìgwa'a	sìgwa'a	knife-50	s ì gʷ a ʔ a	1258	s ì gʷ a ʔ a
 3727	Warembori	Warembori	knife	56	pamarsa	pamarsa	knife-56	p a m a r s a	1260	p a m a r s a
 3728	Cebuano_outgroup	Cebuano	know		maʔalamon, ma-antígo, kamaò	maʔalamon	know-58	m a ʔ a l a m o n	1278	m a ʔ a l a m o n
-3729	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	know	67	taqu	taqu	know-2	t a ʔ u	1264	t a ʔ u
-3730	Proto_Malayo_Polynesian	PMP	know	68	taqu	taqu	know-2	t a ʔ u	1264	t a ʔ u
 3731	Wamesa	WAD	know	30	rina	rina	know-30	r i n a	1266	r i n a
 3732	Ambai	Ambai	know	31	tawana	tawana	know-2	t a w a n a	1264	t a w a n a
 3733	Ansus_PD	Ansus (P&D)	know	33	reo	reo	know-33	r e o	1267	r e o
@@ -3762,8 +3583,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3761	Moor	Moor	know	50	ananî	ananî	know-50	a n a n î	1274	a n a n î
 3762	Warembori	Warembori	know	56	tire-o	tire-o	know-56	t i r e o	1276	t i r e o
 3763	Cebuano_outgroup	Cebuano	lake		lanaw	lanaw	lake-1	l a n a w	1281	l a n a w
-3764	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	lake	67	danaw	danaw	lake-2	d a n a w	1282	d a n a w
-3765	Proto_Malayo_Polynesian	PMP	lake	68	danaw	danaw	lake-2	d a n a w	1282	d a n a w
 3766	Wamesa	WAD	lake	30	ruru	ruru	lake-1	r u r u	1281	r u r u
 3767	Ambai	Ambai	lake	31	ruru	ruru	lake-1	r u r u	1281	r u r u
 3768	Ansus_PD	Ansus (P&D)	lake	33	ruru	ruru	lake-1	r u r u	1281	r u r u
@@ -3811,7 +3630,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3810	Yerisiam	Yerisiam	land/shore	60	bábráù	bábráù	land/shore-60	b á b r á ù	1299	b á b r á ù
 3811	Moor	Moor	land/shore	50	ré	ré	land/shore-1	r é	1293	r é
 3812	Cebuano_outgroup	Cebuano	laugh		mokatáwa	mokatáwa	laugh-1	m o k a t á w a	1301	m o k a t á w a
-3813	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	laugh	67	malip	malip	laugh-1	m a l i p	1301	m a l i p
 3814	Wamesa	WAD	laugh	30	mari	mari	laugh-1	m a r i	1301	m a r i
 3815	Ambai	Ambai	laugh	31	miri	miri	laugh-1	m i r i	1301	m i r i
 3816	Ansus_PD	Ansus (P&D)	laugh	33	mari	mari	laugh-1	m a r i	1301	m a r i
@@ -3845,8 +3663,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3844	Moor	Moor	laugh	50	marí'a	marí'a	laugh-1	m a r í ʔ a	1301	m a r í ʔ a
 3845	Warembori	Warembori	laugh	56	an-do	an-do	laugh-56	a n d o	1302	a n d o
 3846	Cebuano_outgroup	Cebuano	leaf		dáhon	dáhon	leaf-1	d á h o n	1307	d á h o n
-3847	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	leaf	67	daun	daun	leaf-1	d a u n	1307	d a u n
-3848	Proto_Malayo_Polynesian	PMP	leaf	68	dahun	dahun	leaf-1	d a h u n	1307	d a h u n
 3849	Wamesa	WAD	leaf	30	rau	rau	leaf-1	r a u	1307	r a u
 3850	Ambai	Ambai	leaf	31	reraun	reraun	leaf-1	r e r a u n	1307	r e r a u n
 3851	Ansus_PD	Ansus (P&D)	leaf	33	werauŋ	werauŋ	leaf-33	w e r a u ŋ	1309	w e r a u ŋ
@@ -3881,8 +3697,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3880	Moor	Moor	leaf	50	rànu	rànu	leaf-1	r à n u	1307	r à n u
 3881	Warembori	Warembori	leaf	56	andan-do	andan-do	leaf-1	a n d a n d o	1307	a n d a n d o
 3882	Cebuano_outgroup	Cebuano	left (side)		walá	walá	left (side)-25	w a l á	1320	w a l á
-3883	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	left (side)	67	ka-wiRi	ka-wiRi	left (side)-	k a w i ʀ i	1317	k a w i ʀ i
-3884	Proto_Malayo_Polynesian	PMP	left (side)	68	ka-wiRi	ka-wiRi	left (side)-	k a w i ʀ i	1317	k a w i ʀ i
 3885	Wamesa	WAD	left (side)	30	sara	sara	left (side)-30	s a r a	1321	s a r a
 3886	Ambai	Ambai	left (side)	31	wei	wei	left (side)-31	w e i	1322	w e i
 3887	Ansus_PD	Ansus (P&D)	left (side)	33	dowiri	dowiri	left (side)-33	d o w i r i	1324	d o w i r i
@@ -3914,7 +3728,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3913	Warembori	Warembori	left (side)	56	berasu-ro	berasu-ro	left (side)-56	b e r a s u r o	1332	b e r a s u r o
 3914	Cebuano_outgroup	Cebuano	leg/foot		paʔa, tíʔil	paʔa	leg/foot-70	p a ʔ a	1350	p a ʔ a
 3915	Cebuano_outgroup	Cebuano	leg/foot		paʔa, tíʔil	tíʔil	leg/foot-10	_ t í ʔ i l	1336	_ t í ʔ i l
-3916	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	leg/foot	67	waqay	waqay	leg/foot-1	w a ʔ a j	1335	w a ʔ a j
 3917	Wamesa	WAD	leg/foot	30	ai	ai	leg/foot-1	a i	1335	a i
 3918	Ambai	Ambai	leg/foot	31	we	we	leg/foot-1	w e	1335	w e
 3919	Ansus_PD	Ansus (P&D)	leg/foot	33	aeu	aeu	leg/foot-1	a e u	1335	a e u
@@ -3946,8 +3759,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3945	Moor	Moor	leg/foot	50	néa	néa	leg/foot-50	n é a	1343	n é a
 3946	Warembori	Warembori	leg/foot	56	k-epi-ro	k-epi-ro	leg/foot-56	k e p i r o	1347	k e p i r o
 3947	Cebuano_outgroup	Cebuano	lie down		mohigdáʔ	mohigdáʔ	lie down-19	m o h i g d á ʔ	1352	m o h i g d á ʔ
-3948	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	lie down	67	qenəp	qenəp	lie down-2	ʔ e n ə p	1353	ʔ e n ə p
-3949	Proto_Malayo_Polynesian	PMP	lie down	68	qinep	qinep	lie down-2	ʔ i n e p	1353	ʔ i n e p
 3950	Wamesa	WAD	lie down	30	vata	vata	lie down-30	β a t a	1355	β a t a
 3951	Ambai	Ambai	lie down	31	i-vata	i-vata	lie down-30	i β a t a	1355	i β a t a
 3952	Pom	Pom	lie down		ena	ena	lie down-	e n a	1351	e n a
@@ -3977,7 +3788,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 3976	Moor	Moor	lie down	50	enâ	enâ	lie down-2	e n â	1353	e n â
 3977	Warembori	Warembori	lie down	56	ongga	ongga	lie down-	o ŋ g a	1351	o ŋ g a
 3978	Cebuano_outgroup	Cebuano	lightning		kílat	kílat	lightning-1	k í l a t	1369	k í l a t
-3979	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	lightning	67	kilat	kilat	lightning-	k i l a t	1368	k i l a t
 3980	Wamesa	WAD	lightning	30	kabiebar, vera-vera	kabiebar	lightning-1	k a b i e b a r	1369	k a b i e b a r
 3981	Wamesa	WAD	lightning	30	kabiebar, vera-vera	vera-vera	lightning-2	_ β e r a β e r a	1370	_ β e r a β e r a
 3982	Ambai	Ambai	lightning	31	kaiveva	kaiveva	lightning-1	k a i β e β a	1369	k a i β e β a
@@ -4010,7 +3820,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4009	Yerisiam	Yerisiam	lightning	60	kéejánà	kéejánà	lightning-60	k é e d͡ʒ á n à	1383	k é e d͡ʒ á n à
 4010	Moor	Moor	lightning	50	hararìra'a	hararìra'a	lightning-50	h a r a r ì r a ʔ a	1378	h a r a r ì r a ʔ a
 4011	Warembori	Warembori	lightning	56	deperepe	deperepe	lightning-56	d e p e r e p e	1380	d e p e r e p e
-4012	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	lime (for betel)	67	qapur	qapur	lime (for betel)-1	ʔ a p u r	1385	ʔ a p u r
 4013	Wamesa	WAD	lime (for betel)	30	kiru	kiru	lime (for betel)-30	k i r u	1387	k i r u
 4014	Ambai	Ambai	lime (for betel)	31	roa	roa	lime (for betel)-2	r o a	1386	r o a
 4015	Ansus_PD	Ansus (P&D)	lime (for betel)	33	kiru	kiru	lime (for betel)-30	k i r u	1387	k i r u
@@ -4028,8 +3837,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4027	Yerisiam	Yerisiam	lime (for betel)	60	áau	áau	lime (for betel)-1	á a u	1385	á a u
 4028	Moor	Moor	lime (for betel)	50	ára	ára	lime (for betel)-1	á r a	1385	á r a
 4029	Cebuano_outgroup	Cebuano	liver		atáy	atáy	liver-1	a t á j	1390	a t á j
-4030	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	liver	67	qatay	qatay	liver-1	ʔ a t a j	1390	ʔ a t a j
-4031	Proto_Malayo_Polynesian	PMP	liver	68	qatay	qatay	liver-1	ʔ a t a j	1390	ʔ a t a j
 4032	Wamesa	WAD	liver	30	vuvusa, ateni	vuvusa	liver-1	β u β u s a	1390	β u β u s a
 4033	Wamesa	WAD	liver	30	vuvusa, ateni	ateni	liver-2	_ a t e n i	1391	_ a t e n i
 4034	Ambai	Ambai	liver	31	ateni	ateni	liver-1	a t e n i	1390	a t e n i
@@ -4067,8 +3874,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4066	Moor	Moor	liver	50	à'a, siné a'ára	à'a	liver-1	à ʔ a	1390	à ʔ a
 4067	Warembori	Warembori	liver	56	ke-tena-ro	ke-tena-ro	liver-56	k e t e n a r o	1396	k e t e n a r o
 4068	Cebuano_outgroup	Cebuano	long		taʔas	taʔas	long-38	t a ʔ a s	1406	t a ʔ a s
-4069	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	long	67	anaduq	anaduq	long-	a n a d u ʔ	1399	a n a d u ʔ
-4070	Proto_Malayo_Polynesian	PMP	long	68	anaduq	anaduq	long-	a n a d u ʔ	1399	a n a d u ʔ
 4071	Wamesa	WAD	long	30	aroi	aroi	long-1	a r o i	1400	a r o i
 4072	Ambai	Ambai	long	31	dewaroi	dewaroi	long-1	d e w a r o i	1400	d e w a r o i
 4073	Ansus_PD	Ansus (P&D)	long	33	tenimbai	tenimbai	long-33	t e n i m b a i	1403	t e n i m b a i
@@ -4107,8 +3912,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4106	Moor	Moor	long	50	manaî	manaî	long-50	m a n a î	1407	m a n a î
 4107	Warembori	Warembori	long	56	meta-yo	meta-yo	long-56	m e t a j o	1408	m e t a j o
 4108	Cebuano_outgroup	Cebuano	louse		kúto	kúto	louse-1	k ú t o	1411	k ú t o
-4109	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	louse	67	kutu	kutu	louse-1	k u t u	1411	k u t u
-4110	Proto_Malayo_Polynesian	PMP	louse	68	kutu	kutu	louse-1	k u t u	1411	k u t u
 4111	Wamesa	WAD	louse	30	rutu	rutu	louse-1	r u t u	1411	r u t u
 4112	Ambai	Ambai	louse	31	u|utu	u|utu	louse-1	u u t u	1411	u u t u
 4113	Ansus_PD	Ansus (P&D)	louse	33	utu	utu	louse-1	u t u	1411	u t u
@@ -4143,8 +3946,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4142	Moor	Moor	louse	50	kú'a	kú'a	louse-1	k ú ʔ a	1411	k ú ʔ a
 4143	Warembori	Warembori	louse	56	ki-ro	ki-ro	louse-1	k i r o	1411	k i r o
 4144	Cebuano_outgroup	Cebuano	man		laláki	laláki	man-2	l a l á k i	1414	l a l á k i
-4145	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	man	67	ma-Ruqanay	ma-Ruqanay	man-1	m a ʀ u ʔ a n a j	1413	m a ʀ u ʔ a n a j
-4146	Proto_Malayo_Polynesian	PMP	man	68	ma-Ruqanay	ma-Ruqanay	man-1	m a ʀ u ʔ a n a j	1413	m a ʀ u ʔ a n a j
 4147	Wamesa	WAD	man	30	mua	mua	man-1	m u a	1413	m u a
 4148	Ambai	Ambai	man	31	muaŋ	muaŋ	man-1	m u a ŋ	1413	m u a ŋ
 4149	Ansus_PD	Ansus (P&D)	man	33	muaŋ	muaŋ	man-1	m u a ŋ	1413	m u a ŋ
@@ -4184,8 +3985,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4183	Moor	Moor	man	50	vurána	vurána	man-1	β u r á n a	1413	β u r á n a
 4184	Warembori	Warembori	man	56	man-do	man-do	man-1	m a n d o	1413	m a n d o
 4185	Cebuano_outgroup	Cebuano	moon		búlan	búlan	moon-1	b ú l a n	1416	b ú l a n
-4186	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	moon	67	bulan	bulan	moon-2	b u l a n	1417	b u l a n
-4187	Proto_Malayo_Polynesian	PMP	moon	68	bulan	bulan	moon-2	b u l a n	1417	b u l a n
 4188	Wamesa	WAD	moon	30	sembie	sembie	moon-1	s e m b i e	1416	s e m b i e
 4189	Ambai	Ambai	moon	31	embai	embai	moon-1	e m b a i	1416	e m b a i
 4190	Ansus_PD	Ansus (P&D)	moon	33	yembai	yembai	moon-1	j e m b a i	1416	j e m b a i
@@ -4224,8 +4023,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4223	Moor	Moor	moon	50	vùrina	vùrina	moon-2	β ù r i n a	1417	β ù r i n a
 4224	Warembori	Warembori	moon	56	karupe-ro	karupe-ro	moon-56	k a r u p e r o	1422	k a r u p e r o
 4225	Cebuano_outgroup	Cebuano	mosquito		lamók	lamók	mosquito-1	l a m ó k	1426	l a m ó k
-4226	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	mosquito	67	ñamuk, lamuk	ñamuk	mosquito-	ɲ a m u k	1425	ɲ a m u k
-4227	Proto_Malayo_Polynesian	PMP	mosquito	68	ñamuk, lamuk	ñamuk	mosquito-	ɲ a m u k	1425	ɲ a m u k
 4228	Wamesa	WAD	mosquito	30	kamumi	kamumi	mosquito-30	k a m u m i	1427	k a m u m i
 4229	Ambai	Ambai	mosquito	31	fi-karari	fi-karari	mosquito-31	ɸ i k a r a r i	1428	ɸ i k a r a r i
 4230	Ansus_PD	Ansus (P&D)	mosquito	33	aimaniŋ	aimaniŋ	mosquito-33	a i m a n i ŋ	1430	a i m a n i ŋ
@@ -4256,8 +4053,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4255	Moor	Moor	mosquito	50	tanìna	tanìna	mosquito-1	t a n ì n a	1426	t a n ì n a
 4256	Warembori	Warembori	mosquito	56	ini-ro	ini-ro	mosquito-1	i n i r o	1426	i n i r o
 4257	Cebuano_outgroup	Cebuano	mother		inahán	inahán	mother-1	i n a h á n	1441	i n a h á n
-4258	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	mother	67	ina	ina	mother-2	i n a	1442	i n a
-4259	Proto_Malayo_Polynesian	PMP	mother	68	ina	ina	mother-2	i n a	1442	i n a
 4260	Wamesa	WAD	mother	30	mai, awini, sinia	mai	mother-1	m a i	1441	m a i
 4261	Wamesa	WAD	mother	30	mai, awini, sinia	awini	mother-4	_ a w i n i	1446	_ a w i n i
 4262	Ambai	Ambai	mother	31	ina	ina	mother-2	i n a	1442	i n a
@@ -4324,7 +4119,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4323	Moor	Moor	mountain	50	éra	éra	mountain-2	é r a	1455	é r a
 4324	Warembori	Warembori	mountain	56	dote-ro	dote-ro	mountain-56	d o t e r o	1460	d o t e r o
 4325	Cebuano_outgroup	Cebuano	mouse, rat		ílagáʔ	ílagáʔ	mouse, rat-30	í l a g á ʔ	1465	í l a g á ʔ
-4326	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	mouse, rat	67	kazipay	kazipay	mouse, rat-2	k a z i p a j	1464	k a z i p a j
 4327	Wamesa	WAD	mouse, rat	30	waŋgar	waŋgar	mouse, rat-1	w a ŋ g a r	1463	w a ŋ g a r
 4328	Ambai	Ambai	mouse, rat	31	karu	karu	mouse, rat-2	k a r u	1464	k a r u
 4329	Ansus_PD	Ansus (P&D)	mouse, rat	33	kapa manu	kapa manu	mouse, rat-33	k a p a _ m a n u	1466	k a p a _ m a n u
@@ -4357,8 +4151,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4356	Moor	Moor	mouse, rat	50	arúha	arúha	mouse, rat-2	a r ú h a	1464	a r ú h a
 4357	Warembori	Warembori	mouse, rat	56	koya-ro	koya-ro	mouse, rat-56	k o j a r o	1472	k o j a r o
 4358	Cebuano_outgroup	Cebuano	mouth		ba'ba'	ba'ba'	mouth-1	b a ʔ b a ʔ	1477	b a ʔ b a ʔ
-4359	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	mouth	67	babaq	babaq	mouth-	b a b a ʔ	1476	b a b a ʔ
-4360	Proto_Malayo_Polynesian	PMP	mouth	68	baqbaq	baqbaq	mouth-	b a ʔ b a ʔ	1476	b a ʔ b a ʔ
 4361	Wamesa	WAD	mouth	30	sore	sore	mouth-1	s o r e	1477	s o r e
 4362	Ambai	Ambai	mouth	31	boro	boro	mouth-4	b o r o	1482	b o r o
 4363	Ansus_PD	Ansus (P&D)	mouth	33	woreu	woreu	mouth-4	w o r e u	1482	w o r e u
@@ -4419,8 +4211,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4418	Moor	Moor	nail	50	vùmi	vùmi	nail-50	β ù m i	1493	β ù m i
 4419	Warembori	Warembori	nail	56	ke-vera-kivi-ro	ke-vera-kivi-ro	nail-	k e β e r a k i β i r o	1488	k e β e r a k i β i r o
 4420	Cebuano_outgroup	Cebuano	name		ngálan	ngálan	name-1	n g á l a n	1495	n g á l a n
-4421	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	name	67	ŋajan	ŋajan	name-1	ŋ a d͡ʒ a n	1495	ŋ a d͡ʒ a n
-4422	Proto_Malayo_Polynesian	PMP	name	68	ŋajan	ŋajan	name-1	ŋ a d͡ʒ a n	1495	ŋ a d͡ʒ a n
 4423	Wamesa	WAD	name	30	sano	sano	name-1	s a n o	1495	s a n o
 4424	Ambai	Ambai	name	31	wono	wono	name-31	w o n o	1496	w o n o
 4425	Ansus_PD	Ansus (P&D)	name	33	anou	anou	name-33	a n o u	1498	a n o u
@@ -4458,7 +4248,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4457	Moor	Moor	name	50	nàtana	nàtana	name-1	n à t a n a	1495	n à t a n a
 4458	Warembori	Warembori	name	56	nan-do	nan-do	name-1	n a n d o	1495	n a n d o
 4459	Cebuano_outgroup	Cebuano	narrow		hagíp-ot	hagíp-ot	narrow-1	h a g í p o t	1505	h a g í p o t
-4460	Proto_Malayo_Polynesian	PMP	narrow	68	kepit	kepit	narrow-30	k e p i t	1506	k e p i t
 4461	Wamesa	WAD	narrow	30	kotar	kotar	narrow-30	k o t a r	1506	k o t a r
 4462	Ambai	Ambai	narrow	31	katui	katui	narrow-30	k a t u i	1506	k a t u i
 4463	Ansus_PD	Ansus (P&D)	narrow	33	kiepaŋ	kiepaŋ	narrow-33	k i e p a ŋ	1507	k i e p a ŋ
@@ -4510,8 +4299,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4509	Moor	Moor	near	50	jireré	jireré	near-50	d͡ʒ i r e r é	1532	d͡ʒ i r e r é
 4510	Warembori	Warembori	near	56	kanainai	kanainai	near-56	k a n a i n a i	1535	k a n a i n a i
 4511	Cebuano_outgroup	Cebuano	neck		líog	líog	neck-1	l í o g	1540	l í o g
-4512	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	neck	67	liqər	liqər	neck-	l i ʔ ə r	1539	l i ʔ ə r
-4513	Proto_Malayo_Polynesian	PMP	neck	68	liqer	liqer	neck-	l i ʔ e r	1539	l i ʔ e r
 4514	Wamesa	WAD	neck	30	rau	rau	neck-1	r a u	1540	r a u
 4515	Ambai	Ambai	neck	31	kanaŋ	kanaŋ	neck-4	k a n a ŋ	1544	k a n a ŋ
 4516	Ansus_EG	Ansus (EG)	neck		raukanaŋ	raukanaŋ	neck-	r a u k a n a ŋ	1539	r a u k a n a ŋ
@@ -4550,8 +4337,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4549	Moor	Moor	neck	50	tòro	tòro	neck-50	t ò r o	1548	t ò r o
 4550	Warembori	Warembori	neck	56	koran	koran	neck-4	k o r a n	1544	k o r a n
 4551	Cebuano_outgroup	Cebuano	needle		dágum	dágum	needle-1	d á g u m	1553	d á g u m
-4552	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	needle	67	zaRum	zaRum	needle-41	z a ʀ u m	1556	z a ʀ u m
-4553	Proto_Malayo_Polynesian	PMP	needle	68	zaRum	zaRum	needle-41	z a ʀ u m	1556	z a ʀ u m
 4554	Wamesa	WAD	needle	30	ret	ret	needle-2	r e t	1554	r e t
 4555	Ambai	Ambai	needle	31	aniai, reti	aniai	needle-1	a n i a i	1553	a n i a i
 4556	Ambai	Ambai	needle	31	aniai, reti	reti	needle-2	_ r e t i	1554	_ r e t i
@@ -4572,7 +4357,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4571	Moor	Moor	needle	50	anígwa, rèti	anígwa	needle-1	a n í gʷ a	1553	a n í gʷ a
 4572	Moor	Moor	needle	50	anígwa, rèti	rèti	needle-2	_ r è t i	1554	_ r è t i
 4573	Cebuano_outgroup	Cebuano	neg		dili di	dili di	neg-2	d i l i _ d i	1562	d i l i _ d i
-4574	Proto_Malayo_Polynesian	PMP	neg	68	bak	bak	neg-1	b a k	1561	b a k
 4575	Wamesa	WAD	neg	30	va	va	neg-1	β a	1561	β a
 4576	Ambai	Ambai	neg	31	bireri	bireri	neg-3	b i r e r i	1563	b i r e r i
 4577	Ansus_PD	Ansus (P&D)	neg	33	wa, wereria	wa	neg-1	w a	1561	w a
@@ -4607,8 +4391,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4606	Moor	Moor	neg	50	và	và	neg-1	β à	1561	β à
 4607	Warembori	Warembori	neg	56	metin-do	metin-do	neg-56	m e t i n d o	1567	m e t i n d o
 4608	Cebuano_outgroup	Cebuano	new		bág-o	bág-o	new-1	b á g o	1570	b á g o
-4609	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	new	67	baqəRu	baqəRu	new-1	b a ʔ ə ʀ u	1570	b a ʔ ə ʀ u
-4610	Proto_Malayo_Polynesian	PMP	new	68	baqeRu	baqeRu	new-1	b a ʔ e ʀ u	1570	b a ʔ e ʀ u
 4611	Wamesa	WAD	new	30	avori, vavoru	avori	new-1	a β o r i	1570	a β o r i
 4612	Ambai	Ambai	new	31	vevoru	vevoru	new-1	β e β o r u	1570	β e β o r u
 4613	Ansus_PD	Ansus (P&D)	new	33	wawori	wawori	new-1	w a w o r i	1570	w a w o r i
@@ -4647,8 +4429,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4646	Moor	Moor	new	50	ahùjo	ahùjo	new-50	a h ù d͡ʒ o	1574	a h ù d͡ʒ o
 4647	Warembori	Warembori	new	56	uvo-ro	uvo-ro	new-1	u β o r o	1570	u β o r o
 4648	Cebuano_outgroup	Cebuano	night		gabi'i	gabi'i	night-21	g a b i ʔ i	1582	g a b i ʔ i
-4649	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	night	67	bəŋin	bəŋin	night-	b ə ŋ i n	1579	b ə ŋ i n
-4650	Proto_Malayo_Polynesian	PMP	night	68	beRŋi	beRŋi	night-50	b e ʀ ŋ i	1592	b e ʀ ŋ i
 4651	Wamesa	WAD	night	30	diru	diru	night-30	d i r u	1584	d i r u
 4652	Ambai	Ambai	night	31	diru	diru	night-30	d i r u	1584	d i r u
 4653	Ansus_PD	Ansus (P&D)	night	33	diru	diru	night-30	d i r u	1584	d i r u
@@ -4685,8 +4465,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4684	Moor	Moor	night	50	vàra'a	vàra'a	night-50	β à r a ʔ a	1592	β à r a ʔ a
 4685	Warembori	Warembori	night	56	we-ro	we-ro	night-56	w e r o	1596	w e r o
 4686	Cebuano_outgroup	Cebuano	nose		ilóng	ilóng	nose-1	i l ó n g	1599	i l ó n g
-4687	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	nose	67	ijung	ijung	nose-66	i d͡ʒ u n g	1617	i d͡ʒ u n g
-4688	Proto_Malayo_Polynesian	PMP	nose	68	ijung	ijung	nose-66	i d͡ʒ u n g	1617	i d͡ʒ u n g
 4689	Wamesa	WAD	nose	30	suo	suo	nose-1	s u o	1599	s u o
 4690	Ambai	Ambai	nose	31	ube	ube	nose-31	u b e	1600	u b e
 4691	Ansus_PD	Ansus (P&D)	nose	33	wopeu	wopeu	nose-33	w o p e u	1601	w o p e u
@@ -4744,8 +4522,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4743	Yerisiam	Yerisiam	oil	60	dígwá	dígwá	oil-60	d í gʷ á	1625	d í gʷ á
 4744	Moor	Moor	oil	50	ajúra	ajúra	oil-50	a d͡ʒ ú r a	1623	a d͡ʒ ú r a
 4745	Cebuano_outgroup	Cebuano	old		tigúlang	tigúlang	old-21	t i g ú l a n g	1629	t i g ú l a n g
-4746	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	old	67	ma-tuqa	ma-tuqa	old-1	m a t u ʔ a	1627	m a t u ʔ a
-4747	Proto_Malayo_Polynesian	PMP	old	68	ma-tuqa	ma-tuqa	old-1	m a t u ʔ a	1627	m a t u ʔ a
 4748	Wamesa	WAD	old	30	woroi	woroi	old-3	w o r o i	1630	w o r o i
 4749	Ambai	Ambai	old	31	tawa	tawa	old-1	t a w a	1627	t a w a
 4750	Ansus_PD	Ansus (P&D)	old	33	tawa, woroi	tawa	old-2	t a w a	1628	t a w a
@@ -4774,8 +4550,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4773	Moor	Moor	old	50	ma'ú	ma'ú	old-1	m a ʔ ú	1627	m a ʔ ú
 4774	Warembori	Warembori	old	56	ivari-o	ivari-o	old-56	i β a r i o	1637	i β a r i o
 4775	Cebuano_outgroup	Cebuano	one		usa	usa	one-1	u s a	1640	u s a
-4776	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	one	67	asa, əsa, isa	asa	one-3	a s a	1642	a s a
-4777	Proto_Malayo_Polynesian	PMP	one	68	esa, isa	esa	one-3	e s a	1642	e s a
 4778	Wamesa	WAD	one	30	siri	siri	one-1	s i r i	1640	s i r i
 4779	Ambai	Ambai	one	31	bo-yari	bo-yari	one-1	b o j a r i	1640	b o j a r i
 4780	Ansus_PD	Ansus (P&D)	one	33	koiri	koiri	one-1	k o i r i	1640	k o i r i
@@ -4841,7 +4615,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4840	Moor	Moor	other	50	eró	eró	other-50	e r ó	1658	e r ó
 4841	Warembori	Warembori	other	56	iran-do	iran-do	other-	i r a n d o	1648	i r a n d o
 4842	Cebuano_outgroup	Cebuano	paddle		bugsay	bugsay	paddle-	b u g s a j	1663	b u g s a j
-4843	Proto_Malayo_Polynesian	PMP	paddle	68	beRsay	beRsay	paddle-1	b e R/ʀ s a j	1664	b e ʀ s a j
 4844	Wamesa	WAD	paddle	30	vo	vo	paddle-1	β o	1664	β o
 4845	Ambai	Ambai	paddle	31	bo, wo	bo	paddle-1	b o	1664	b o
 4846	Ansus_PD	Ansus (P&D)	paddle	33	bo, wo	bo	paddle-1	b o	1664	b o
@@ -4869,7 +4642,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4868	Moor	Moor	paddle	50	vóra	vóra	paddle-1	β ó r a	1664	β ó r a
 4869	Warembori	Warembori	paddle	56	name-ro	name-ro	paddle-56	n a m e r o	1667	n a m e r o
 4870	Cebuano_outgroup	Cebuano	person		tau	tau	person-1	t a u	1669	t a u
-4871	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	person	67	taumataq	taumataq	person-	t a u m a t a ʔ	1668	t a u m a t a ʔ
 4872	Wamesa	WAD	person	30	kawasa, sinitu	kawasa	person-1	k a w a s a	1669	k a w a s a
 4873	Wamesa	WAD	person	30	kawasa, sinitu	sinitu	person-55	_ s i n i t u	1679	_ s i n i t u
 4874	Ambai	Ambai	person	31	inon-tarai	inon-tarai	person-4	i n o n t a r a i	1674	i n o n t a r a i
@@ -4910,8 +4682,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4909	Moor	Moor	person	50	na'ú	na'ú	person-3	n a ʔ ú	1671	n a ʔ ú
 4910	Warembori	Warembori	person	56	nu-ro	nu-ro	person-56	n u r o	1680	n u r o
 4911	Cebuano_outgroup	Cebuano	plant		magtanúm	magtanúm	plant-2	m a g t a n ú m	1686	m a g t a n ú m
-4912	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	plant	67	tanəm	tanəm	plant-1	t a n ə m	1685	t a n ə m
-4913	Proto_Malayo_Polynesian	PMP	plant	68	tanem	tanem	plant-1	t a n e m	1685	t a n e m
 4914	Wamesa	WAD	plant	30	tana	tana	plant-1	t a n a	1685	t a n a
 4915	Ambai	Ambai	plant	31	i-tanamp	i-tanamp	plant-1	i t a n a m p	1685	i t a n a m p
 4916	Ansus_PD	Ansus (P&D)	plant	33	tanami	tanami	plant-1	t a n a m i	1685	t a n a m i
@@ -4938,8 +4708,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4937	Yerisiam	Yerisiam	plant	60	káamáné	káamáné	plant-1	k á a m á n é	1685	k á a m á n é
 4938	Moor	Moor	plant	50	anamî	anamî	plant-1	a n a m î	1685	a n a m î
 4939	Cebuano_outgroup	Cebuano	pound (sago)		lubókon	lubókon	pound (sago)-6	l u b ó k o n	1697	l u b ó k o n
-4940	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	pound (sago)	67	tutuk	tutuk	pound (sago)-4	t u t u k	1696	t u t u k
-4941	Proto_Malayo_Polynesian	PMP	pound (sago)	68	tuktuk	tuktuk	pound (sago)-4	t u k t u k	1696	t u k t u k
 4942	Wamesa	WAD	pound (sago)	30	tara	tara	pound (sago)-1	t a r a	1693	t a r a
 4943	Ambai	Ambai	pound (sago)	31	tara, -tut|ahi	tara	pound (sago)-1	t a r a	1693	t a r a
 4944	Ambai	Ambai	pound (sago)	31	tara, -tut|ahi	-tut|ahi	pound (sago)-3	_ t u t a h i	1695	_ t u t a h i
@@ -4964,8 +4732,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 4963	Yerisiam	Yerisiam	pound (sago)	60	káré	káré	pound (sago)-1	k á r é	1693	k á r é
 4964	Moor	Moor	pound (sago)	50	àrà	àrà	pound (sago)-1	à r à	1693	à r à
 4965	Cebuano_outgroup	Cebuano	rain		ulán	ulán	rain-1	u l á n	1699	u l á n
-4966	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	rain	67	quzan	quzan	rain-3	ʔ u z a n	1701	ʔ u z a n
-4967	Proto_Malayo_Polynesian	PMP	rain	68	quzan	quzan	rain-3	ʔ u z a n	1701	ʔ u z a n
 4968	Wamesa	WAD	rain	30	diobara, muna	diobara	rain-1	d i o b a r a	1699	d i o b a r a
 4969	Ambai	Ambai	rain	31	meta	meta	rain-2	m e t a	1700	m e t a
 4970	Ansus_PD	Ansus (P&D)	rain	33	miuna	miuna	rain-1	m i u n a	1699	m i u n a
@@ -5003,8 +4769,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5002	Moor	Moor	rain	50	ùnuma	ùnuma	rain-1	ù n u m a	1699	ù n u m a
 5003	Warembori	Warembori	rain	56	doro-ro	doro-ro	rain-56	d o r o r o	1709	d o r o r o
 5004	Cebuano_outgroup	Cebuano	red		pulá	pulá	red-28	p u l á	1714	p u l á
-5005	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	red	67	meRaq	meRaq	red-2	m e ʀ a ʔ	1713	m e ʀ a ʔ
-5006	Proto_Malayo_Polynesian	PMP	red	68	ma-iRaq	ma-iRaq	red-2	m a i ʀ a ʔ	1713	m a i ʀ a ʔ
 5007	Wamesa	WAD	red	30	urar	urar	red-30	u r a r	1716	u r a r
 5008	Ambai	Ambai	red	31	berika	berika	red-3	b e r i k a	1715	b e r i k a
 5009	Ansus_PD	Ansus (P&D)	red	33	merai	merai	red-2	m e r a i	1713	m e r a i
@@ -5043,7 +4807,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5042	Moor	Moor	red	50	mararî	mararî	red-2	m a r a r î	1713	m a r a r î
 5043	Warembori	Warembori	red	56	meme-o	meme-o	red-2	m e m e o	1713	m e m e o
 5044	Cebuano_outgroup	Cebuano	rice		bugas	bugas	rice-1	b u g a s	1727	b u g a s
-5045	Proto_Malayo_Polynesian	PMP	rice	68	pajey	pajey	rice-1	p a d͡ʒ e j	1727	p a d͡ʒ e j
 5046	Wamesa	WAD	rice	30	pase	pase	rice-1	p a s e	1727	p a s e
 5047	Ambai	Ambai	rice	31	pa	pa	rice-1	p a	1727	p a
 5048	Ansus_PD	Ansus (P&D)	rice	33	pa	pa	rice-1	p a	1727	p a
@@ -5065,10 +4828,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5064	Moor	Moor	rice	50	pása	pása	rice-1	p á s a	1727	p á s a
 5065	Warembori	Warembori	rice	56	pasa-ro	pasa-ro	rice-1	p a s a r o	1727	p a s a r o
 5066	Cebuano_outgroup	Cebuano	right side		tuó	tuó	right side-5	t u ó	1738	t u ó
-5067	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	right side	67	ka-wanan, mataqu	ka-wanan	right side-2	k a w a n a n	1730	k a w a n a n
-5068	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	right side	67	ka-wanan, mataqu	mataqu	right side-3	_ m a t a ʔ u	1731	_ m a t a ʔ u
-5069	Proto_Malayo_Polynesian	PMP	right side	68	ka-wanan, mataqu	ka-wanan	right side-2	k a w a n a n	1730	k a w a n a n
-5070	Proto_Malayo_Polynesian	PMP	right side	68	ka-wanan, mataqu	mataqu	right side-3	_ m a t a ʔ u	1731	_ m a t a ʔ u
 5071	Wamesa	WAD	right side	30	vata	vata	right side-1	β a t a	1729	β a t a
 5072	Ambai	Ambai	right side	31	moya	moya	right side-4	m o j a	1734	m o j a
 5073	Ansus_PD	Ansus (P&D)	right side	33	dowataŋ	dowataŋ	right side-1	d o w a t a ŋ	1729	d o w a t a ŋ
@@ -5099,8 +4858,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5098	Moor	Moor	right side	50	já	já	right side-50	d͡ʒ á	1739	d͡ʒ á
 5099	Warembori	Warembori	right side	56	berawan-ro	berawan-ro	right side-56	b e r a w a n r o	1741	b e r a w a n r o
 5100	Cebuano_outgroup	Cebuano	road		dálan, agianan	dálan	road-1	d á l a n	1744	d á l a n
-5101	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	road	67	zalan	zalan	road-1	z a l a n	1744	z a l a n
-5102	Proto_Malayo_Polynesian	PMP	road	68	zalan	zalan	road-1	z a l a n	1744	z a l a n
 5103	Wamesa	WAD	road	30	ra	ra	road-1	r a	1744	r a
 5104	Ambai	Ambai	road	31	raŋ, ran	raŋ	road-1	r a ŋ	1744	r a ŋ
 5105	Ansus_PD	Ansus (P&D)	road	33	raŋ	raŋ	road-1	r a ŋ	1744	r a ŋ
@@ -5134,8 +4891,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5133	Moor	Moor	road	50	ràrina	ràrina	road-1	r à r i n a	1744	r à r i n a
 5134	Warembori	Warembori	road	56	anima-ro	anima-ro	road-56	a n i m a r o	1751	a n i m a r o
 5135	Cebuano_outgroup	Cebuano	root		gamút	gamút	root-3	g a m ú t	1756	g a m ú t
-5136	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	root	67	wakaR	wakaR	root-1	w a k a ʀ	1754	w a k a ʀ
-5137	Proto_Malayo_Polynesian	PMP	root	68	wakaR	wakaR	root-1	w a k a ʀ	1754	w a k a ʀ
 5138	Wamesa	WAD	root	30	war	war	root-1	w a r	1754	w a r
 5139	Ambai	Ambai	root	31	ne-wasa	ne-wasa	root-1	n e w a s a	1754	n e w a s a
 5140	Ansus_PD	Ansus (P&D)	root	33	woa	woa	root-33	w o a	1758	w o a
@@ -5169,8 +4924,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5168	Yerisiam	Yerisiam	root	60	hírúaatúmà	hírúaatúmà	root-60	h í r ú aː t ú m à	1769	h í r ú aː t ú m à
 5169	Moor	Moor	root	50	rounó	rounó	root-50	r o u n ó	1764	r o u n ó
 5170	Cebuano_outgroup	Cebuano	rope		písi	písi	rope-22	p í s i	1772	p í s i
-5171	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	rope	67	waRəj	waRəj	rope-1	w a ʀ ə d͡ʒ	1771	w a ʀ ə d͡ʒ
-5172	Proto_Malayo_Polynesian	PMP	rope	68	waRej	waRej	rope-1	w a ʀ e d͡ʒ	1771	w a ʀ e d͡ʒ
 5173	Wamesa	WAD	rope	30	wai	wai	rope-1	w a i	1771	w a i
 5174	Ambai	Ambai	rope	31	wai	wai	rope-1	w a i	1771	w a i
 5175	Ansus_PD	Ansus (P&D)	rope	33	wai	wai	rope-1	w a i	1771	w a i
@@ -5201,8 +4954,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5200	Moor	Moor	rope	50	gwàri'a	gwàri'a	rope-1	gʷ à r i ʔ a	1771	gʷ à r i ʔ a
 5201	Warembori	Warembori	rope	56	wen-do	wen-do	rope-56	w e n d o	1775	w e n d o
 5202	Cebuano_outgroup	Cebuano	rotten		latáʔ	latáʔ	rotten-26	l a t á ʔ	1780	l a t á ʔ
-5203	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	rotten	67	buRuk	buRuk	rotten-2	b u ʀ u k	1779	b u ʀ u k
-5204	Proto_Malayo_Polynesian	PMP	rotten	68	buRuk	buRuk	rotten-2	b u ʀ u k	1779	b u ʀ u k
 5205	Wamesa	WAD	rotten	30	saire	saire	rotten-	s a i r e	1777	s a i r e
 5206	Ambai	Ambai	rotten	31	piso	piso	rotten-31	p i s o	1782	p i s o
 5207	Ansus_EG	Ansus (EG)	rotten		keŋkoŋ	keŋkoŋ	rotten-	k e ŋ k o ŋ	1777	k e ŋ k o ŋ
@@ -5232,7 +4983,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5231	Yerisiam	Yerisiam	rotten	60	ógwáuré	ógwáuré	rotten-60	ó gʷ á u r é	1792	ó gʷ á u r é
 5232	Moor	Moor	rotten	50	vavarù	vavarù	rotten-2	β a β a r ù	1779	β a β a r ù
 5233	Cebuano_outgroup	Cebuano	run		dagan	dagan	run-	d a g a n	1793	d a g a n
-5234	Proto_Malayo_Polynesian	PMP	run	68	laRiw	laRiw	run-2	l a ʀ i w	1795	l a ʀ i w
 5235	Wamesa	WAD	run	30	apai	apai	run-1	a p a i	1794	a p a i
 5236	Ambai	Ambai	run	31	mito	mito	run-	m i t o	1793	m i t o
 5237	Ansus_PD	Ansus (P&D)	run	33	pai	pai	run-1	p a i	1794	p a i
@@ -5268,8 +5018,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5267	Umar	Umar	sail	55	harawin	harawin	sail-1	h a r a w i n	1806	h a r a w i n
 5268	Yerisiam	Yerisiam	sail	60	hárágríìrà	hárágríìrà	sail-1	h á r á g r í ì r à	1806	h á r á g r í ì r à
 5269	Cebuano_outgroup	Cebuano	salt		asín	asín	salt-3	a s í n	1810	a s í n
-5270	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	salt	67	maqasin	maqasin	salt-1	m a ʔ a s i n	1808	m a ʔ a s i n
-5271	Proto_Malayo_Polynesian	PMP	salt	68	ma-qasin	ma-qasin	salt-1	m a ʔ a s i n	1808	m a ʔ a s i n
 5272	Wamesa	WAD	salt	30	sasi	sasi	salt-1	s a s i	1808	s a s i
 5273	Ambai	Ambai	salt	31	ai	ai	salt-1	a i	1808	a i
 5274	Ansus_PD	Ansus (P&D)	salt	33	ai	ai	salt-1	a i	1808	a i
@@ -5298,8 +5046,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5297	Moor	Moor	salt	50	àti và'u	àti và'u	salt-3	à t i _ β à ʔ u	1810	à t i _ β à ʔ u
 5298	Warembori	Warembori	salt	56	mamari-ro	mamari-ro	salt-56	m a m a r i r o	1813	m a m a r i r o
 5299	Cebuano_outgroup	Cebuano	sand		balás	balás	sand-19	b a l á s	1817	b a l á s
-5300	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	sand	67	qənay	qənay	sand-4	ʔ ə n a j	1820	ʔ ə n a j
-5301	Proto_Malayo_Polynesian	PMP	sand	68	qenay	qenay	sand-4	ʔ e n a j	1820	ʔ e n a j
 5302	Wamesa	WAD	sand	30	rubua	rubua	sand-1	r u b u a	1816	r u b u a
 5303	Ambai	Ambai	sand	31	numbuain, ninuai, nafa	numbuain	sand-1	n u m b u a i n	1816	n u m b u a i n
 5304	Ambai	Ambai	sand	31	numbuain, ninuai, nafa	ninuai	sand-3	_ n i n u a i	1819	_ n i n u a i
@@ -5375,8 +5121,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5374	Moor	Moor	say	50	a'anó	a'anó	say-50	a ʔ a n ó	1842	a ʔ a n ó
 5375	Warembori	Warembori	say	56	dovora-yo, bora	dovora-yo	say-	d o β o r a j o	1828	d o β o r a j o
 5376	Cebuano_outgroup	Cebuano	scratch		káloton	káloton	scratch-34	k á l o t o n	1853	k á l o t o n
-5377	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	scratch	67	kaRaw	kaRaw	scratch-3	k a ʀ a w	1852	k a ʀ a w
-5378	Proto_Malayo_Polynesian	PMP	scratch	68	kaRaw	kaRaw	scratch-3	k a ʀ a w	1852	k a ʀ a w
 5379	Wamesa	WAD	scratch	30	kara	kara	scratch-3	k a r a	1852	k a r a
 5380	Ambai	Ambai	scratch	31	ramati	ramati	scratch-2	r a m a t i	1851	r a m a t i
 5381	Ansus_PD	Ansus (P&D)	scratch	33	karamuti	karamuti	scratch-2	k a r a m u t i	1851	k a r a m u t i
@@ -5402,8 +5146,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5401	Moor	Moor	scratch	50	tiarî	tiarî	scratch-50	t i a r î	1857	t i a r î
 5402	Warembori	Warembori	scratch	56	nami-o	nami-o	scratch-56	n a m i o	1859	n a m i o
 5403	Cebuano_outgroup	Cebuano	sea		dágat	dágat	sea-25	d á g a t	1871	d á g a t
-5404	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	sea	67	tasik	tasik	sea-52	t a s i k	1878	t a s i k
-5405	Proto_Malayo_Polynesian	PMP	sea	68	tasik	tasik	sea-52	t a s i k	1878	t a s i k
 5406	Wamesa	WAD	sea	30	rau, rawana	rau	sea-1	r a u	1869	r a u
 5407	Wamesa	WAD	sea	30	rau, rawana	rawana	sea-2	_ r a w a n a	1870	_ r a w a n a
 5408	Ambai	Ambai	sea	31	ai-rau, rawana	ai-rau	sea-1	a i r a u	1869	a i r a u
@@ -5441,8 +5183,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5440	Moor	Moor	sea	50	rú	rú	sea-1	r ú	1869	r ú
 5441	Warembori	Warembori	sea	56	uruan-do	uruan-do	sea-56	u r u a n d o	1880	u r u a n d o
 5442	Cebuano_outgroup	Cebuano	sea turtle		pawikan, tokmo	pawikan	sea turtle-	p a w i k a n	1862	p a w i k a n
-5443	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	sea turtle	67	kaRa	kaRa	sea turtle-	k a ʀ a	1862	k a ʀ a
-5444	Proto_Malayo_Polynesian	PMP	sea turtle	68	penu	penu	sea turtle-2	p e n u	1864	p e n u
 5445	Wamesa	WAD	sea turtle	30	poti	poti	sea turtle-1	p o t i	1863	p o t i
 5446	Ansus_PD	Ansus (P&D)	sea turtle	33	poti	poti	sea turtle-1	p o t i	1863	p o t i
 5447	Ansus_EG	Ansus (EG)	sea turtle		kenyaŋ	kenyaŋ	sea turtle-	k e n j a ŋ	1862	k e n j a ŋ
@@ -5463,8 +5203,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5462	Yerisiam	Yerisiam	sea turtle	60	éenú	éenú	sea turtle-2	é e n ú	1864	é e n ú
 5463	Moor	Moor	sea turtle	50	gwàra	gwàra	sea turtle-50	gʷ à r a	1865	gʷ à r a
 5464	Cebuano_outgroup	Cebuano	see		motan-aw	motan-aw	see-	m o t a n a w	1883	m o t a n a w
-5465	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	see	67	kita	kita	see-	k i t a	1883	k i t a
-5466	Proto_Malayo_Polynesian	PMP	see	68	neŋ, kita	neŋ	see-4	n e ŋ	1890	n e ŋ
 5467	Wamesa	WAD	see	30	sera	sera	see-3	s e r a	1886	s e r a
 5468	Ambai	Ambai	see	31	wati	wati	see-1	w a t i	1884	w a t i
 5469	Ansus_PD	Ansus (P&D)	see	33	reo	reo	see-33	r e o	1887	r e o
@@ -5531,8 +5269,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5530	Yerisiam	Yerisiam	sew	60	tàtí	tàtí	sew-59	t à t í	1909	t à t í
 5531	Moor	Moor	sew	50	airî	airî	sew-50	a i r î	1904	a i r î
 5532	Cebuano_outgroup	Cebuano	sharp		háit	háit	sharp-38	h á i t	1918	h á i t
-5533	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	sharp	67	ma-tazim	ma-tazim	sharp-1	m a t a z i m	1911	m a t a z i m
-5534	Proto_Malayo_Polynesian	PMP	sharp	68	ma-tazem	ma-tazem	sharp-1	m a t a z e m	1911	m a t a z e m
 5535	Wamesa	WAD	sharp	30	masiet	masiet	sharp-30	m a s i e t	1912	m a s i e t
 5536	Ambai	Ambai	sharp	31	reisa	reisa	sharp-31	r e i s a	1913	r e i s a
 5537	Ansus_PD	Ansus (P&D)	sharp	33	masasuŋ	masasuŋ	sharp-33	m a s a s u ŋ	1914	m a s a s u ŋ
@@ -5563,8 +5299,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5562	Moor	Moor	sharp	50	maraminî	maraminî	sharp-41	m a r a m i n î	1919	m a r a m i n î
 5563	Cebuano_outgroup	Cebuano	shoot		mamana, tira	mamana	shoot-19	m a m a n a	1928	m a m a n a
 5564	Cebuano_outgroup	Cebuano	shoot		mamana, tira	tira	shoot-19	_ t i r a	1928	_ t i r a
-5565	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	shoot	67	panaq	panaq	shoot-1	p a n a ʔ	1927	p a n a ʔ
-5566	Proto_Malayo_Polynesian	PMP	shoot	68	panaq	panaq	shoot-1	p a n a ʔ	1927	p a n a ʔ
 5567	Wamesa	WAD	shoot	30	ana	ana	shoot-1	a n a	1927	a n a
 5568	Ambai	Ambai	shoot	31	i-ana	i-ana	shoot-1	i a n a	1927	i a n a
 5569	Ansus_PD	Ansus (P&D)	shoot	33	ana	ana	shoot-1	a n a	1927	a n a
@@ -5592,8 +5326,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5591	Moor	Moor	shoot	50	hinà	hinà	shoot-1	h i n à	1927	h i n à
 5592	Warembori	Warembori	shoot	56	piti	piti	shoot-56	p i t i	1936	p i t i
 5593	Cebuano_outgroup	Cebuano	short		muboʔ	muboʔ	short-	m u b o ʔ	1938	m u b o ʔ
-5594	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	short	67	ma-babaq	ma-babaq	short-3	m a b a b a ʔ	1941	m a b a b a ʔ
-5595	Proto_Malayo_Polynesian	PMP	short	68	babaq	babaq	short-3	b a b a ʔ	1941	b a b a ʔ
 5596	Wamesa	WAD	short	30	tanam	tanam	short-1	t a n a m	1939	t a n a m
 5597	Ambai	Ambai	short	31	tanan	tanan	short-1	t a n a n	1939	t a n a n
 5598	Ansus_PD	Ansus (P&D)	short	33	tenaŋ	tenaŋ	short-1	t e n a ŋ	1939	t e n a ŋ
@@ -5626,8 +5358,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5625	Moor	Moor	short	50	kuvava'î	kuvava'î	short-3	k u β a β a ʔ î	1941	k u β a β a ʔ î
 5626	Warembori	Warembori	short	56	kapitari	kapitari	short-56	k a p i t a r i	1947	k a p i t a r i
 5627	Cebuano_outgroup	Cebuano	shoulder		abága	abága	shoulder-1	a b á g a	1951	a b á g a
-5628	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	shoulder	67	qabaRa	qabaRa	shoulder-1	ʔ a b a ʀ a	1951	ʔ a b a ʀ a
-5629	Proto_Malayo_Polynesian	PMP	shoulder	68	qabaRa	qabaRa	shoulder-1	ʔ a b a ʀ a	1951	ʔ a b a ʀ a
 5630	Wamesa	WAD	shoulder	30	varabo	varabo	shoulder-2	β a r a b o	1952	β a r a b o
 5631	Ambai	Ambai	shoulder	31	boyawa	boyawa	shoulder-31	b o j a w a	1953	b o j a w a
 5632	Ansus_EG	Ansus (EG)	shoulder		warandara	warandara	shoulder-	w a r a n d a r a	1950	w a r a n d a r a
@@ -5663,8 +5393,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5662	Yerisiam	Yerisiam	shoulder	60	ádìa	ádìa	shoulder-60	á d ì a	1964	á d ì a
 5663	Moor	Moor	shoulder	50	àju	àju	shoulder-50	à d͡ʒ u	1960	à d͡ʒ u
 5664	Cebuano_outgroup	Cebuano	sit		molíngkod	molíngkod	sit-45	m o l í n g k o d	1973	m o l í n g k o d
-5665	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	sit	67	todan	todan	sit-2	t o d a n	1967	t o d a n
-5666	Proto_Malayo_Polynesian	PMP	sit	68	tudan	tudan	sit-2	t u d a n	1967	t u d a n
 5667	Wamesa	WAD	sit	30	masoi	masoi	sit-1	m a s o i	1966	m a s o i
 5668	Ambai	Ambai	sit	31	i-minohi	i-minohi	sit-31	i m i n o h i	1969	i m i n o h i
 5669	Ansus_PD	Ansus (P&D)	sit	33	mayoi	mayoi	sit-1	m a j o i	1966	m a j o i
@@ -5705,8 +5433,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5704	Moor	Moor	sit	50	ó	ó	sit-2	ó	1967	ó
 5705	Warembori	Warembori	sit	56	on-do	on-do	sit-56	o n d o	1975	o n d o
 5706	Cebuano_outgroup	Cebuano	six		onom	onom	six-1	o n o m	1979	o n o m
-5707	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	six	67	onəm	onəm	six-1	o n ə m	1979	o n ə m
-5708	Proto_Malayo_Polynesian	PMP	six	68	enem	enem	six-1	e n e m	1979	e n e m
 5709	Wamesa	WAD	six	30	rim e siri	rim e siri	six-30	r i m _ e _ s i r i	1980	r i m _ e _ s i r i
 5710	Ambai	Ambai	six	31	wonan	wonan	six-1	w o n a n	1979	w o n a n
 5711	Ansus_PD	Ansus (P&D)	six	33	wonaŋ	wonaŋ	six-1	w o n a ŋ	1979	w o n a ŋ
@@ -5737,8 +5463,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5736	Moor	Moor	six	50	rímó ma'a tatá	rímó ma'a tatá	six-50	r í m ó _ m a ʔ a _ t a t á	1981	r í m ó _ m a ʔ a _ t a t á
 5737	Warembori	Warembori	six	56	wanditi waiseno	wanditi waiseno	six-56	w a n d i t i _ w a i s e n o	1983	w a n d i t i _ w a i s e n o
 5738	Cebuano_outgroup	Cebuano	skin		pánit	pánit	skin-2	p á n i t	1988	p á n i t
-5739	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	skin	67	kulit	kulit	skin-2	k u l i t	1988	k u l i t
-5740	Proto_Malayo_Polynesian	PMP	skin	68	kulit	kulit	skin-2	k u l i t	1988	k u l i t
 5741	Wamesa	WAD	skin	30	rawa	rawa	skin-1	r a w a	1987	r a w a
 5742	Ambai	Ambai	skin	31	rerawa	rerawa	skin-1	r e r a w a	1987	r e r a w a
 5743	Ansus_PD	Ansus (P&D)	skin	33	rerawa	rerawa	skin-1	r e r a w a	1987	r e r a w a
@@ -5777,8 +5501,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5776	Moor	Moor	skin	50	hì'i	hì'i	skin-50	h ì ʔ i	1994	h ì ʔ i
 5777	Warembori	Warembori	skin	56	ke-kue-ro	ke-kue-ro	skin-56	k e k u e r o	1997	k e k u e r o
 5778	Cebuano_outgroup	Cebuano	sky		lángit	lángit	sky-1	l á n g i t	2001	l á n g i t
-5779	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	sky	67	laŋit	laŋit	sky-1	l a ŋ i t	2001	l a ŋ i t
-5780	Proto_Malayo_Polynesian	PMP	sky	68	laŋit	laŋit	sky-1	l a ŋ i t	2001	l a ŋ i t
 5781	Wamesa	WAD	sky	30	rora	rora	sky-3	r o r a	2002	r o r a
 5782	Ambai	Ambai	sky	31	rora	rora	sky-3	r o r a	2002	r o r a
 5783	Ansus_PD	Ansus (P&D)	sky	33	rora	rora	sky-3	r o r a	2002	r o r a
@@ -5810,8 +5532,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5809	Moor	Moor	sky	50	ará'á	ará'á	sky-1	a r á ʔ á	2001	a r á ʔ á
 5810	Warembori	Warembori	sky	56	doromo-ro	doromo-ro	sky-3	d o r o m o r o	2002	d o r o m o r o
 5811	Cebuano_outgroup	Cebuano	sleep		matúlog	matúlog	sleep-1	m a t ú l o g	2009	m a t ú l o g
-5812	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	sleep	67	qenəp	qenəp	sleep-1	ʔ e n ə p	2009	ʔ e n ə p
-5813	Proto_Malayo_Polynesian	PMP	sleep	68	qinep	qinep	sleep-1	ʔ i n e p	2009	ʔ i n e p
 5814	Wamesa	WAD	sleep	30	ena	ena	sleep-1	e n a	2009	e n a
 5815	Ambai	Ambai	sleep	31	ena	ena	sleep-1	e n a	2009	e n a
 5816	Ansus_PD	Ansus (P&D)	sleep	33	ena	ena	sleep-1	e n a	2009	e n a
@@ -5851,8 +5571,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5850	Moor	Moor	sleep	50	enâ	enâ	sleep-1	e n â	2009	e n â
 5851	Warembori	Warembori	sleep	56	nan-do	nan-do	sleep-1	n a n d o	2009	n a n d o
 5852	Cebuano_outgroup	Cebuano	small		gamáy	gamáy	small-29	g a m á j	2018	g a m á j
-5853	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	small	67	dikiq, kedi	dikiq	small-	d i k i ʔ	2015	d i k i ʔ
-5854	Proto_Malayo_Polynesian	PMP	small	68	dikiq, kedi	dikiq	small-	d i k i ʔ	2015	d i k i ʔ
 5855	Wamesa	WAD	small	30	katu	katu	small-1	k a t u	2016	k a t u
 5856	Ambai	Ambai	small	31	katui, ketui	katui	small-1	k a t u i	2016	k a t u i
 5857	Ansus_PD	Ansus (P&D)	small	33	meia	meia	small-33	m e i a	2021	m e i a
@@ -5892,8 +5610,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5891	Moor	Moor	small	50	marà'u	marà'u	small-3	m a r à ʔ u	2019	m a r à ʔ u
 5892	Warembori	Warembori	small	56	make-o	make-o	small-56	m a k e o	2031	m a k e o
 5893	Cebuano_outgroup	Cebuano	smoke		asó	asó	smoke-2	a s ó	2035	a s ó
-5894	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	smoke	67	qasu	qasu	smoke-3	ʔ a s u	2036	ʔ a s u
-5895	Proto_Malayo_Polynesian	PMP	smoke	68	qasu	qasu	smoke-3	ʔ a s u	2036	ʔ a s u
 5896	Wamesa	WAD	smoke	30	wuyu	wuyu	smoke-30	w u j u	2037	w u j u
 5897	Ambai	Ambai	smoke	31	riraun	riraun	smoke-2	r i r a u n	2035	r i r a u n
 5898	Ansus_PD	Ansus (P&D)	smoke	33	wio	wio	smoke-30	w i o	2037	w i o
@@ -5931,7 +5647,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5930	Moor	Moor	smoke	50	tavéra	tavéra	smoke-50	t a β é r a	2042	t a β é r a
 5931	Warembori	Warembori	smoke	56	kati-ro	kati-ro	smoke-1	k a t i r o	2034	k a t i r o
 5932	Cebuano_outgroup	Cebuano	snake		hálas, bitin	hálas	snake-26	h á l a s	2048	h á l a s
-5933	Proto_Malayo_Polynesian	PMP	snake	68	qulej	qulej	snake-3	ʔ u l e d͡ʒ	2049	ʔ u l e d͡ʒ
 5934	Wamesa	WAD	snake	30	koro, tawai	koro	snake-1	k o r o	2045	k o r o
 5935	Wamesa	WAD	snake	30	koro, tawai	tawai	snake-2	_ t a w a i	2047	_ t a w a i
 5936	Ambai	Ambai	snake	31	tawai	tawai	snake-2	t a w a i	2047	t a w a i
@@ -5994,8 +5709,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 5993	Waropen	Waropen (held)	sniff, smell	57	asasa	asasa	sniff, smell-2	a s a s a	2063	a s a s a
 5994	Umar	Umar	sniff, smell	55	noh	noh	sniff, smell-2	n o h	2063	n o h
 5995	Cebuano_outgroup	Cebuano	spider		lawa-lawa, damáng	lawa-lawa	spider-1	l a w a l a w a	2068	l a w a l a w a
-5996	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	spider	67	lawaq	lawaq	spider-1	l a w a ʔ	2068	l a w a ʔ
-5997	Proto_Malayo_Polynesian	PMP	spider	68	lawaq	lawaq	spider-1	l a w a ʔ	2068	l a w a ʔ
 5998	Wamesa	WAD	spider	30	apopa	apopa	spider-30	a p o p a	2069	a p o p a
 5999	Ambai	Ambai	spider	31	mansai	mansai	spider-31	m a n s a i	2070	m a n s a i
 6000	Ansus_PD	Ansus (P&D)	spider	33	iŋkira	iŋkira	spider-33	i ŋ k i r a	2071	i ŋ k i r a
@@ -6026,8 +5739,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6025	Moor	Moor	spider	50	ragwa'î	ragwa'î	spider-1	r a gʷ a ʔ î	2068	r a gʷ a ʔ î
 6026	Cebuano_outgroup	Cebuano	split		píkason, manluwa	píkason	split-39	p í k a s o n	2087	p í k a s o n
 6027	Cebuano_outgroup	Cebuano	split		píkason, manluwa	manluwa	split-1	_ m a n l u w a	2081	_ m a n l u w a
-6028	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	split	67	bəlaq	bəlaq	split-50	b ə l a ʔ	2091	b ə l a ʔ
-6029	Proto_Malayo_Polynesian	PMP	split	68	belaq	belaq	split-50	b e l a ʔ	2091	b e l a ʔ
 6030	Ambai	Ambai	split	31	baur, i-tarabauri	baur	split-2	b a u r	2082	b a u r
 6031	Ansus_PD	Ansus (P&D)	split	33	bau	bau	split-2	b a u	2082	b a u
 6032	Ansus_EG	Ansus (EG)	split		kambau	kambau	split-	k a m b a u	2080	k a m b a u
@@ -6054,8 +5765,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6053	Moor	Moor	split	50	vorà	vorà	split-50	β o r à	2091	β o r à
 6054	Warembori	Warembori	split	56	dativi-ro	dativi-ro	split-56	d a t i β i r o	2094	d a t i β i r o
 6055	Cebuano_outgroup	Cebuano	squeeze		mopuǵaʔ	mopuǵaʔ	squeeze-37	m o p u g � a ʔ	2103	m o p u g � a ʔ
-6056	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	squeeze	67	Raməs	Raməs	squeeze-2	ʀ a m ə s	2099	ʀ a m ə s
-6057	Proto_Malayo_Polynesian	PMP	squeeze	68	Rames	Rames	squeeze-2	ʀ a m e s	2099	ʀ a m e s
 6058	Wamesa	WAD	squeeze	30	kusar	kusar	squeeze-30	k u s a r	2100	k u s a r
 6059	Ambai	Ambai	squeeze	31	rami	rami	squeeze-2	r a m i	2099	r a m i
 6060	Ansus_EG	Ansus (EG)	squeeze		koŋ	koŋ	squeeze-	k o ŋ	2097	k o ŋ
@@ -6081,8 +5790,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6080	Moor	Moor	squeeze	50	amatà	amatà	squeeze-2	a m a t à	2099	a m a t à
 6081	Cebuano_outgroup	Cebuano	stab		túhog, dunggab, lubáʔ	túhog	stab-33	t ú h o g	2114	t ú h o g
 6082	Cebuano_outgroup	Cebuano	stab		túhog, dunggab, lubáʔ	dunggab	stab-70	_ d u ŋ g a b	2125	_ d u ŋ g a b
-6083	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	stab	67	tebek	tebek	stab-7	t e b e k	2124	t e b e k
-6084	Proto_Malayo_Polynesian	PMP	stab	68	tesek	tesek	stab-57	t e s e k	2123	t e s e k
 6085	Wamesa	WAD	stab	30	isani, tisa	isani	stab-1	i s a n i	2113	i s a n i
 6086	Wamesa	WAD	stab	30	isani, tisa	tisa	stab-8	_ t i s a	2126	_ t i s a
 6087	Ambai	Ambai	stab	31	isan	isan	stab-1	i s a n	2113	i s a n
@@ -6113,8 +5820,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6112	Moor	Moor	stab	50	utumì	utumì	stab-50	u t u m ì	2119	u t u m ì
 6113	Warembori	Warembori	stab	56	toiyo	toiyo	stab-56	t o i j o	2122	t o i j o
 6114	Cebuano_outgroup	Cebuano	stand		motíndog	motíndog	stand-20	m o t í n d o g	2130	m o t í n d o g
-6115	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	stand	67	diRi	diRi	stand-4	d i ʀ i	2132	d i ʀ i
-6116	Proto_Malayo_Polynesian	PMP	stand	68	diRi	diRi	stand-4	d i ʀ i	2132	d i ʀ i
 6117	Wamesa	WAD	stand	30	osa	osa	stand-1	o s a	2128	o s a
 6118	Ambai	Ambai	stand	31	oa	oa	stand-3	o a	2131	o a
 6119	Ansus_PD	Ansus (P&D)	stand	33	oa	oa	stand-3	o a	2131	o a
@@ -6154,8 +5859,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6153	Moor	Moor	stand	50	etâ	etâ	stand-2	e t â	2129	e t â
 6154	Warembori	Warembori	stand	56	etan-do	etan-do	stand-2	e t a n d o	2129	e t a n d o
 6155	Cebuano_outgroup	Cebuano	star		bitóʔon	bitóʔon	star-1	b i t ó ʔ o n	2136	b i t ó ʔ o n
-6156	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	star	67	bituqən	bituqən	star-5	b i t u ʔ ə n	2147	b i t u ʔ ə n
-6157	Proto_Malayo_Polynesian	PMP	star	68	bituqen	bituqen	star-5	b i t u ʔ e n	2147	b i t u ʔ e n
 6158	Wamesa	WAD	star	30	sivererei	sivererei	star-1	s i β e r e r e i	2136	s i β e r e r e i
 6159	Ambai	Ambai	star	31	awaka	awaka	star-31	a w a k a	2139	a w a k a
 6160	Ansus_PD	Ansus (P&D)	star	33	piori	piori	star-33	p i o r i	2140	p i o r i
@@ -6193,8 +5896,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6192	Moor	Moor	star	50	úma	úma	star-4	ú m a	2144	ú m a
 6193	Warembori	Warembori	star	56	emetata-ro	emetata-ro	star-56	e m e t a t a r o	2151	e m e t a t a r o
 6194	Cebuano_outgroup	Cebuano	steal		káwaton	káwaton	steal-24	k á w a t o n	2155	k á w a t o n
-6195	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	steal	67	takaw	takaw	steal-52	t a k a w	2166	t a k a w
-6196	Proto_Malayo_Polynesian	PMP	steal	68	takaw	takaw	steal-52	t a k a w	2166	t a k a w
 6197	Wamesa	WAD	steal	30	manana	manana	steal-2	m a n a n a	2154	m a n a n a
 6198	Ambai	Ambai	steal	31	i-kamananapi	i-kamananapi	steal-2	i k a m a n a n a p i	2154	i k a m a n a n a p i
 6199	Ansus_EG	Ansus (EG)	steal		manana	manana	steal-	m a n a n a	2152	m a n a n a
@@ -6218,8 +5919,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6217	Yerisiam	Yerisiam	steal	60	bàmàrá	bàmàrá	steal-1	b à m à r á	2153	b à m à r á
 6218	Moor	Moor	steal	50	marahá	marahá	steal-1	m a r a h á	2153	m a r a h á
 6219	Cebuano_outgroup	Cebuano	stone		bató	bató	stone-1	b a t ó	2169	b a t ó
-6220	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	stone	67	batu	batu	stone-2	b a t u	2170	b a t u
-6221	Proto_Malayo_Polynesian	PMP	stone	68	batu	batu	stone-2	b a t u	2170	b a t u
 6222	Wamesa	WAD	stone	30	rebuki	rebuki	stone-30	r e b u k i	2172	r e b u k i
 6223	Ambai	Ambai	stone	31	kamiai	kamiai	stone-3	k a m i a i	2171	k a m i a i
 6224	Ansus_PD	Ansus (P&D)	stone	33	kami	kami	stone-3	k a m i	2171	k a m i
@@ -6258,8 +5957,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6257	Moor	Moor	stone	50	vá'a	vá'a	stone-2	β á ʔ a	2170	β á ʔ a
 6258	Warembori	Warembori	stone	56	bava-ro	bava-ro	stone-56	b a β a r o	2176	b a β a r o
 6259	Cebuano_outgroup	Cebuano	suck		mosúpsup	mosúpsup	suck-1	m o s ú p s u p	2180	m o s ú p s u p
-6260	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	suck	67	səsəp	səsəp	suck-2	s ə s ə p	2181	s ə s ə p
-6261	Proto_Malayo_Polynesian	PMP	suck	68	sepsep	sepsep	suck-2	s e p s e p	2181	s e p s e p
 6262	Wamesa	WAD	suck	30	sum	sum	suck-1	s u m	2180	s u m
 6263	Ambai	Ambai	suck	31	suf	suf	suck-2	s u ɸ	2181	s u ɸ
 6264	Ansus_EG	Ansus (EG)	suck		uwupi	uwupi	suck-	u w u p i	2179	u w u p i
@@ -6286,8 +5983,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6285	Yerisiam	Yerisiam	suck	60	húumé	húumé	suck-1	h ú u m é	2180	h ú u m é
 6286	Moor	Moor	suck	50	tuamà	tuamà	suck-1	t u a m à	2180	t u a m à
 6287	Cebuano_outgroup	Cebuano	sun		adlaw	adlaw	sun-	a d l a w	2190	a d l a w
-6288	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	sun	67	qaləjaw	qaləjaw	sun-2	ʔ a l ə d͡ʒ a w	2192	ʔ a l ə d͡ʒ a w
-6289	Proto_Malayo_Polynesian	PMP	sun	68	qalejaw	qalejaw	sun-2	ʔ a l e d͡ʒ a w	2192	ʔ a l e d͡ʒ a w
 6290	Wamesa	WAD	sun	30	wor	wor	sun-1	w o r	2191	w o r
 6291	Ambai	Ambai	sun	31	wo	wo	sun-1	w o	2191	w o
 6292	Ansus_PD	Ansus (P&D)	sun	33	wo	wo	sun-1	w o	2191	w o
@@ -6334,8 +6029,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6333	Yerisiam	Yerisiam	sweat	60	ndíiké	ndíiké	sweat-60	n d í i k é	2207	n d í i k é
 6334	Moor	Moor	sweat	50	mamanìa	mamanìa	sweat-50	m a m a n ì a	2204	m a m a n ì a
 6335	Cebuano_outgroup	Cebuano	swell		mohúbag	mohúbag	swell-8	m o h ú b a g	2217	m o h ú b a g
-6336	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	swell	67	baRəq	baRəq	swell-1	b a ʀ ə ʔ	2209	b a ʀ ə ʔ
-6337	Proto_Malayo_Polynesian	PMP	swell	68	baReq	baReq	swell-1	b a ʀ e ʔ	2209	b a ʀ e ʔ
 6338	Wamesa	WAD	swell	30	barbara	barbara	swell-1	b a r b a r a	2209	b a r b a r a
 6339	Ambai	Ambai	swell	31	bebara	bebara	swell-1	b e b a r a	2209	b e b a r a
 6340	Ansus_PD	Ansus (P&D)	swell	33	bebara	bebara	swell-1	b e b a r a	2209	b e b a r a
@@ -6358,8 +6051,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6357	Yerisiam	Yerisiam	swell	60	rákrúukú	rákrúukú	swell-60	r á k r ú u k ú	2216	r á k r ú u k ú
 6358	Moor	Moor	swell	50	vavarà	vavarà	swell-1	β a β a r à	2209	β a β a r à
 6359	Cebuano_outgroup	Cebuano	swim		molangóy	molangóy	swim-1	m o l a n g ó j	2219	m o l a n g ó j
-6360	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	swim	67	naŋuy	naŋuy	swim-5	n a ŋ u j	2225	n a ŋ u j
-6361	Proto_Malayo_Polynesian	PMP	swim	68	laŋuy	laŋuy	swim-5	l a ŋ u j	2225	l a ŋ u j
 6362	Wamesa	WAD	swim	30	as	as	swim-1	a s	2219	a s
 6363	Ambai	Ambai	swim	31	eria	eria	swim-2	e r i a	2220	e r i a
 6364	Ansus_PD	Ansus (P&D)	swim	33	eiwai	eiwai	swim-2	e i w a i	2220	e i w a i
@@ -6393,8 +6084,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6392	Moor	Moor	swim	50	áta	áta	swim-1	á t a	2219	á t a
 6393	Warembori	Warembori	swim	56	ate	ate	swim-1	a t e	2219	a t e
 6394	Cebuano_outgroup	Cebuano	tail		íkug	íkug	tail-1	í k u g	2233	í k u g
-6395	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	tail	67	ikuR	ikuR	tail-52	i k u ʀ	2247	i k u ʀ
-6396	Proto_Malayo_Polynesian	PMP	tail	68	ikuR	ikuR	tail-52	i k u ʀ	2247	i k u ʀ
 6397	Wamesa	WAD	tail	30	sama kai	sama kai	tail-30	s a m a _ k a i	2234	s a m a _ k a i
 6398	Ambai	Ambai	tail	31	ama-daun	ama-daun	tail-31	a m a d a u n	2235	a m a d a u n
 6399	Ansus_PD	Ansus (P&D)	tail	33	amakapuŋ	amakapuŋ	tail-33	a m a k a p u ŋ	2236	a m a k a p u ŋ
@@ -6433,7 +6122,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6432	Moor	Moor	tail	50	há	há	tail-50	h á	2246	h á
 6433	Warembori	Warembori	tail	56	pu-ro, keere-ro	pu-ro	tail-56	p u r o	2251	p u r o
 6434	Cebuano_outgroup	Cebuano	ten		napulo	napulo	ten-5	n a p u l o	2257	n a p u l o
-6435	Proto_Malayo_Polynesian	PMP	ten	68	sa-puluq	sa-puluq	ten-1	s a p u l u ʔ	2256	s a p u l u ʔ
 6436	Wamesa	WAD	ten	30	sura	sura	ten-1	s u r a	2256	s u r a
 6437	Ambai	Ambai	ten	31	sura	sura	ten-1	s u r a	2256	s u r a
 6438	Ansus_PD	Ansus (P&D)	ten	33	ura	ura	ten-1	u r a	2256	u r a
@@ -6455,9 +6143,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6454	Moor	Moor	ten	50	tàura	tàura	ten-1	t à u r a	2256	t à u r a
 6455	Warembori	Warembori	ten	56	wansambuto	wansambuto	ten-56	w a n s a m b u t o	2260	w a n s a m b u t o
 6456	Cebuano_outgroup	Cebuano	that		ka'na	ka'na	that-1	k a ʔ n a	2264	k a ʔ n a
-6457	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	that	67	ina	ina	that-2	i n a	2265	i n a
-6458	Proto_Malayo_Polynesian	PMP	that	68	ia, i-na	ia	that-1	i a	2264	i a
-6459	Proto_Malayo_Polynesian	PMP	that	68	ia, i-na	i-na	that-2	_ i n a	2265	_ i n a
 6460	Wamesa	WAD	that	30	yani	yani	that-30	j a n i	2266	j a n i
 6461	Ambai	Ambai	that	31	manana	manana	that-2	m a n a n a	2265	m a n a n a
 6462	Ansus_PD	Ansus (P&D)	that	33	wani	wani	that-33	w a n i	2268	w a n i
@@ -6490,7 +6175,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6489	Moor	Moor	that	50	nóna	nóna	that-50	n ó n a	2277	n ó n a
 6490	Warembori	Warembori	that	56	na-yave	na-yave	that-56	n a j a β e	2280	n a j a β e
 6491	Cebuano_outgroup	Cebuano	thatched roof		atúp	atúp	thatched roof-1	a t ú p	2285	a t ú p
-6492	Proto_Malayo_Polynesian	PMP	thatched roof	68	qatep	qatep	thatched roof-2	ʔ a t e p	2286	ʔ a t e p
 6493	Wamesa	WAD	thatched roof	30	nandau	nandau	thatched roof-1	n a n d a u	2285	n a n d a u
 6494	Ambai	Ambai	thatched roof	31	antaraun	antaraun	thatched roof-2	a n t a r a u n	2286	a n t a r a u n
 6495	Ansus_PD	Ansus (P&D)	thatched roof	33	randauŋ	randauŋ	thatched roof-1	r a n d a u ŋ	2285	r a n d a u ŋ
@@ -6516,9 +6200,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6515	Moor	Moor	thatched roof	50	rà'a	rà'a	thatched roof-2	r à ʔ a	2286	r à ʔ a
 6516	Warembori	Warembori	thatched roof	56	matiran-do	matiran-do	thatched roof-56	m a t i r a n d o	2294	m a t i r a n d o
 6517	Cebuano_outgroup	Cebuano	thick		baga'	baga'	thick-27	b a g a ʔ	2298	b a g a ʔ
-6518	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	thick	67	təlu, ma-kapal	təlu	thick-3	t ə l u	2299	t ə l u
-6519	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	thick	67	təlu, ma-kapal	ma-kapal	thick-4	_ m a k a p a l	2303	_ m a k a p a l
-6520	Proto_Malayo_Polynesian	PMP	thick	68	ma-kapal	ma-kapal	thick-4	m a k a p a l	2303	m a k a p a l
 6521	Wamesa	WAD	thick	30	batoyar	batoyar	thick-1	b a t o j a r	2296	b a t o j a r
 6522	Ambai	Ambai	thick	31	kakuban	kakuban	thick-31	k a k u b a n	2300	k a k u b a n
 6523	Ansus_EG	Ansus (EG)	thick		tepei	tepei	thick-	t e p e i	2295	t e p e i
@@ -6543,8 +6224,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6542	Yerisiam	Yerisiam	thick	60	átatóorí	átatóorí	thick-1	á t a t ó o r í	2296	á t a t ó o r í
 6543	Moor	Moor	thick	50	vo'orinî	vo'orinî	thick-50	β o ʔ o r i n î	2307	β o ʔ o r i n î
 6544	Cebuano_outgroup	Cebuano	thin		nipis	nipis	thin-1	n i p i s	2313	n i p i s
-6545	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	thin	67	ma-nipis	ma-nipis	thin-1	m a n i p i s	2313	m a n i p i s
-6546	Proto_Malayo_Polynesian	PMP	thin	68	ma-nipis	ma-nipis	thin-1	m a n i p i s	2313	m a n i p i s
 6547	Wamesa	WAD	thin	30	minis	minis	thin-1	m i n i s	2313	m i n i s
 6548	Ambai	Ambai	thin	31	simbena	simbena	thin-2	s i m b e n a	2314	s i m b e n a
 6549	Ansus_EG	Ansus (EG)	thin		meni	meni	thin-	m e n i	2312	m e n i
@@ -6570,8 +6249,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6569	Yerisiam	Yerisiam	thin	60	máníijáhé	máníijáhé	thin-1	m á n í i d͡ʒ á h é	2313	m á n í i d͡ʒ á h é
 6570	Moor	Moor	thin	50	vera'uvà	vera'uvà	thin-50	β e r a ʔ u β à	2321	β e r a ʔ u β à
 6571	Cebuano_outgroup	Cebuano	think		maghunahúna	maghunahúna	think-24	m a ɣ u n a h ú n a	2324	m a ɣ u n a h ú n a
-6572	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	think	67	dəmdəm	dəmdəm	think-	d ə m d ə m	2323	d ə m d ə m
-6573	Proto_Malayo_Polynesian	PMP	think	68	demdem	demdem	think-	d e m d e m	2323	d e m d e m
 6574	Wamesa	WAD	think	30	sanepai	sanepai	think-30	s a n e p a i	2325	s a n e p a i
 6575	Ambai	Ambai	think	31	ene-tutiau	ene-tutiau	think-31	e n e t u t i a u	2326	e n e t u t i a u
 6576	Ansus_EG	Ansus (EG)	think		anewayera	anewayera	think-	a n e w a j e r a	2323	a n e w a j e r a
@@ -6599,8 +6276,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6598	Moor	Moor	think	50	taramà	taramà	think-50	t a r a m à	2335	t a r a m à
 6599	Warembori	Warembori	think	56	paingge	paingge	think-	p a i ŋ g e	2323	p a i ŋ g e
 6600	Cebuano_outgroup	Cebuano	this		kini	kini	this-1	k i n i	2340	k i n i
-6601	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	this	67	ani, ini	ani	this-1	a n i	2340	a n i
-6602	Proto_Malayo_Polynesian	PMP	this	68	i-ni	i-ni	this-1	i n i	2340	i n i
 6603	Wamesa	WAD	this	30	nini	nini	this-1	n i n i	2340	n i n i
 6604	Ambai	Ambai	this	31	nini	nini	this-1	n i n i	2340	n i n i
 6605	Ansus_PD	Ansus (P&D)	this	33	nini	nini	this-1	n i n i	2340	n i n i
@@ -6635,8 +6310,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6634	Moor	Moor	this	50	néna	néna	this-1	n é n a	2340	n é n a
 6635	Warembori	Warembori	this	56	na-ni	na-ni	this-1	n a n i	2340	n a n i
 6636	Cebuano_outgroup	Cebuano	three		tulo	tulo	three-1	t u l o	2350	t u l o
-6637	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	three	67	təlu	təlu	three-1	t ə l u	2350	t ə l u
-6638	Proto_Malayo_Polynesian	PMP	three	68	telu	telu	three-1	t e l u	2350	t e l u
 6639	Wamesa	WAD	three	30	toru	toru	three-1	t o r u	2350	t o r u
 6640	Ambai	Ambai	three	31	bo-toru	bo-toru	three-1	b o t o r u	2350	b o t o r u
 6641	Ansus_PD	Ansus (P&D)	three	33	toru	toru	three-1	t o r u	2350	t o r u
@@ -6705,8 +6378,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6704	Moor	Moor	throw	50	kari'ì, toà	toà	throw-2	_ t o à	2355	_ t o à
 6705	Warembori	Warembori	throw	56	wawi-o	wawi-o	throw-56	w a w i o	2365	w a w i o
 6706	Cebuano_outgroup	Cebuano	thunder		dalúgdog	dalúgdog	thunder-2	d a l ú g d o g	2369	d a l ú g d o g
-6707	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	thunder	67	kudug	kudug	thunder-1	k u d u g	2368	k u d u g
-6708	Proto_Malayo_Polynesian	PMP	thunder	68	kudug	kudug	thunder-1	k u d u g	2368	k u d u g
 6709	Wamesa	WAD	thunder	30	kuruya	kuruya	thunder-1	k u r u j a	2368	k u r u j a
 6710	Ambai	Ambai	thunder	31	kadidu	kadidu	thunder-3	k a d i d u	2370	k a d i d u
 6711	Ansus_PD	Ansus (P&D)	thunder	33	kaidu	kaidu	thunder-3	k a i d u	2370	k a i d u
@@ -6740,7 +6411,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6739	Moor	Moor	thunder	50	kururú'a	kururú'a	thunder-1	k u r u r ú ʔ a	2368	k u r u r ú ʔ a
 6740	Warembori	Warembori	thunder	56	doroBa-ro	doroBa-ro	thunder-56	d o r o B/b a r o	2376	d o r o b a r o
 6741	Cebuano_outgroup	Cebuano	tie		ihukót	ihukót	tie-1	i h u k ó t	2380	i h u k ó t
-6742	Proto_Malayo_Polynesian	PMP	tie	68	hiket	hiket	tie-	h i k e t	2379	h i k e t
 6743	Wamesa	WAD	tie	30	kasie	kasie	tie-1	k a s i e	2380	k a s i e
 6744	Ambai	Ambai	tie	31	kase, awit	kase	tie-1	k a s e	2380	k a s e
 6745	Ambai	Ambai	tie	31	kase, awit	awit	tie-2	_ a w i t	2381	_ a w i t
@@ -6772,8 +6442,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6771	Moor	Moor	tie	50	aragwì	aragwì	tie-2	a r a gʷ ì	2381	a r a gʷ ì
 6772	Warembori	Warembori	tie	56	eti-o	eti-o	tie-56	e t i o	2393	e t i o
 6773	Cebuano_outgroup	Cebuano	to live		mabuhi	mabuhi	to live-14	m a b u h i	2399	m a b u h i
-6774	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	to live	67	ma-qudip	ma-qudip	to live-	m a ʔ u d i p	2397	m a ʔ u d i p
-6775	Proto_Malayo_Polynesian	PMP	to live	68	ma-qudip	ma-qudip	to live-	m a ʔ u d i p	2397	m a ʔ u d i p
 6776	Wamesa	WAD	to live	30	tenam	tenam	to live-1	t e n a m	2398	t e n a m
 6777	Ambai	Ambai	to live	31	daran	daran	to live-31	d a r a n	2402	d a r a n
 6778	Ansus_EG	Ansus (EG)	to live		weŋ	weŋ	to live-	w e ŋ	2397	w e ŋ
@@ -6799,8 +6467,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6798	Yerisiam	Yerisiam	to live	60	káméeté	káméeté	to live-60	k á m é e t é	2413	k á m é e t é
 6799	Moor	Moor	to live	50	héana	héana	to live-50	h é a n a	2409	h é a n a
 6800	Cebuano_outgroup	Cebuano	today		karon	karon	today-	k a r o n	2414	k a r o n
-6801	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	today	67	qalejaw	qalejaw	today-	ʔ a l e d͡ʒ a w	2414	ʔ a l e d͡ʒ a w
-6802	Proto_Malayo_Polynesian	PMP	today	68	qalejaw	qalejaw	today-	ʔ a l e d͡ʒ a w	2414	ʔ a l e d͡ʒ a w
 6803	Wamesa	WAD	today	30	raria nini	raria nini	today-30	r a r i a _ n i n i	2416	r a r i a _ n i n i
 6804	Ambai	Ambai	today	31	rakida nini	rakida nini	today-30	r a k i d a _ n i n i	2416	r a k i d a _ n i n i
 6805	Ansus_PD	Ansus (P&D)	today	33	anini	anini	today-33	a n i n i	2417	a n i n i
@@ -6826,7 +6492,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6825	Moor	Moor	today	50	marasína néna	marasína néna	today-50	m a r a s í n a _ n é n a	2418	m a r a s í n a _ n é n a
 6826	Warembori	Warembori	today	56	bito-ni	bito-ni	today-56	b i t o n i	2420	b i t o n i
 6827	Cebuano_outgroup	Cebuano	tongue		díla	díla	tongue-4	d í l a	2429	d í l a
-6828	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	tongue	67	maya	maya	tongue-7	m a j a	2437	m a j a
 6829	Wamesa	WAD	tongue	30	sore tapare	sore tapare	tongue-1	s o r e _ t a p a r e	2424	s o r e _ t a p a r e
 6830	Ambai	Ambai	tongue	31	tapere	tapere	tongue-1	t a p e r e	2424	t a p e r e
 6831	Ansus_PD	Ansus (P&D)	tongue	33	woreu pa	woreu pa	tongue-33	w o r e u _ p a	2427	w o r e u _ p a
@@ -6866,8 +6531,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6865	Moor	Moor	tongue	50	nèma	nèma	tongue-4	n è m a	2429	n è m a
 6866	Warembori	Warembori	tongue	56	ke-peren-do, ke-voro-ro	ke-peren-do	tongue-5	k e p e r e n d o	2434	k e p e r e n d o
 6867	Cebuano_outgroup	Cebuano	tooth		ngípon	ngípon	tooth-1	n g í p o n	2439	n g í p o n
-6868	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	tooth	67	ipən	ipən	tooth-3	i p ə n	2441	i p ə n
-6869	Proto_Malayo_Polynesian	PMP	tooth	68	ipen	ipen	tooth-3	i p e n	2441	i p e n
 6870	Wamesa	WAD	tooth	30	dire	dire	tooth-1	d i r e	2439	d i r e
 6871	Ambai	Ambai	tooth	31	dere, dore	dere	tooth-1	d e r e	2439	d e r e
 6872	Ansus_PD	Ansus (P&D)	tooth	33	dereu	dereu	tooth-1	d e r e u	2439	d e r e u
@@ -6907,7 +6570,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6906	Moor	Moor	tooth	50	gwòto	gwòto	tooth-50	gʷ ò t o	2449	gʷ ò t o
 6907	Warembori	Warembori	tooth	56	ke-vo-o-ro	ke-vo-o-ro	tooth-56	k e β o o r o	2451	k e β o o r o
 6908	Cebuano_outgroup	Cebuano	turn		moliko	moliko	turn-21	m o l i k o	2457	m o l i k o
-6909	Proto_Malayo_Polynesian	PMP	turn	68	balik	balik	turn-1	b a l i k	2456	b a l i k
 6910	Wamesa	WAD	turn	30	sovera	sovera	turn-1	s o β e r a	2456	s o β e r a
 6911	Ambai	Ambai	turn	31	bera	bera	turn-1	b e r a	2456	b e r a
 6912	Ansus_EG	Ansus (EG)	turn		taweri	taweri	turn-	t a w e r i	2455	t a w e r i
@@ -6929,8 +6591,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6928	Yerisiam	Yerisiam	turn	60	éekí	éekí	turn-60	é e k í	2467	é e k í
 6929	Moor	Moor	turn	50	igwerà	igwerà	turn-50	i gʷ e r à	2463	i gʷ e r à
 6930	Cebuano_outgroup	Cebuano	two		duhá	duhá	two-1	d u h á	2469	d u h á
-6931	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	two	67	dua	dua	two-1	d u a	2469	d u a
-6932	Proto_Malayo_Polynesian	PMP	two	68	duha	duha	two-1	d u h a	2469	d u h a
 6933	Wamesa	WAD	two	30	muandu	muandu	two-1	m u a n d u	2469	m u a n d u
 6934	Ambai	Ambai	two	31	bo-ru, mandu	bo-ru	two-1	b o r u	2469	b o r u
 6935	Ansus_PD	Ansus (P&D)	two	33	kodu	kodu	two-33	k o d u	2470	k o d u
@@ -6970,7 +6630,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6969	Moor	Moor	two	50	rúró	rúró	two-1	r ú r ó	2469	r ú r ó
 6970	Warembori	Warembori	two	56	waitiso	waitiso	two-56	w a i t i s o	2471	w a i t i s o
 6971	Cebuano_outgroup	Cebuano	village		balangay	balangay	village-	b a l a n g a j	2473	b a l a n g a j
-6972	Proto_Malayo_Polynesian	PMP	village	68	banua	banua	village-1	b a n u a	2474	b a n u a
 6973	Wamesa	WAD	village	30	aniose	aniose	village-2	a n i o s e	2475	a n i o s e
 6974	Ambai	Ambai	village	31	munue	munue	village-1	m u n u e	2474	m u n u e
 6975	Ansus_PD	Ansus (P&D)	village	33	awa	awa	village-3	a w a	2476	a w a
@@ -6998,7 +6657,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 6997	Moor	Moor	village	50	ramárá	ramárá	village-50	r a m á r á	2479	r a m á r á
 6998	Warembori	Warembori	village	56	bunupune	bunupune	village-1	b u n u p u n e	2474	b u n u p u n e
 6999	Cebuano_outgroup	Cebuano	vomit		mosuka	mosuka	vomit-9	m o s u k a	2490	m o s u k a
-7000	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	vomit	67	mutaq	mutaq	vomit-1	m u t a ʔ	2481	m u t a ʔ
 7001	Wamesa	WAD	vomit	30	mamuta	mamuta	vomit-1	m a m u t a	2481	m a m u t a
 7002	Ambai	Ambai	vomit	31	mamuta	mamuta	vomit-1	m a m u t a	2481	m a m u t a
 7003	Ansus_PD	Ansus (P&D)	vomit	33	mamuta	mamuta	vomit-1	m a m u t a	2481	m a m u t a
@@ -7028,10 +6686,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7027	Moor	Moor	vomit	50	mamuá'a	mamuá'a	vomit-1	m a m u á ʔ a	2481	m a m u á ʔ a
 7028	Warembori	Warembori	vomit	56	tite-yo	tite-yo	vomit-56	t i t e j o	2487	t i t e j o
 7029	Cebuano_outgroup	Cebuano	water		túbig	túbig	water-14	t ú b i g	2493	t ú b i g
-7030	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	water	67	danum, waiR	danum	water-2	d a n u m	2494	d a n u m
-7031	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	water	67	danum, waiR	waiR	water-22	_ w a i ʀ	2495	_ w a i ʀ
-7032	Proto_Malayo_Polynesian	PMP	water	68	danum, wahiR	danum	water-2	d a n u m	2494	d a n u m
-7033	Proto_Malayo_Polynesian	PMP	water	68	danum, wahiR	wahiR	water-22	_ w a h i ʀ	2495	_ w a h i ʀ
 7034	Wamesa	WAD	water	30	maria, kambu	maria	water-1	m a r i a	2492	m a r i a
 7035	Ambai	Ambai	water	31	mereha	mereha	water-1	m e r e h a	2492	m e r e h a
 7036	Ansus_PD	Ansus (P&D)	water	33	maria	maria	water-1	m a r i a	2492	m a r i a
@@ -7072,8 +6726,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7071	Warembori	Warembori	water	56	dan-do	dan-do	water-22	d a n d o	2495	d a n d o
 7072	Cebuano_outgroup	Cebuano	wet		basáʔ, umog	basáʔ	wet-1	b a s á ʔ	2499	b a s á ʔ
 7073	Cebuano_outgroup	Cebuano	wet		basáʔ, umog	umog	wet-70	_ u m o g	2515	_ u m o g
-7074	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	wet	67	ma-basəq	ma-basəq	wet-1	m a b a s ə ʔ	2499	m a b a s ə ʔ
-7075	Proto_Malayo_Polynesian	PMP	wet	68	ma-baseq	ma-baseq	wet-1	m a b a s e ʔ	2499	m a b a s e ʔ
 7076	Wamesa	WAD	wet	30	vabasa	vabasa	wet-1	β a b a s a	2499	β a b a s a
 7077	Ambai	Ambai	wet	31	vevasa	vevasa	wet-1	β e β a s a	2499	β e β a s a
 7078	Ansus_PD	Ansus (P&D)	wet	33	wawa	wawa	wet-1	w a w a	2499	w a w a
@@ -7110,8 +6762,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7109	Moor	Moor	wet	50	hararu'î	hararu'î	wet-50	h a r a r u ʔ î	2510	h a r a r u ʔ î
 7110	Warembori	Warembori	wet	56	pere-o	pere-o	wet-56	p e r e o	2512	p e r e o
 7111	Cebuano_outgroup	Cebuano	what		únsa	únsa	what-2	ú n s a	2518	ú n s a
-7112	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	what	67	sapa	sapa	what-1	s a p a	2517	s a p a
-7113	Proto_Malayo_Polynesian	PMP	what	68	apa	apa	what-1	a p a	2517	a p a
 7114	Wamesa	WAD	what	30	vitoi	vitoi	what-30	β i t o i	2520	β i t o i
 7115	Ambai	Ambai	what	31	fiani	fiani	what-31	ɸ i a n i	2521	ɸ i a n i
 7116	Ansus_PD	Ansus (P&D)	what	33	petoi	petoi	what-33	p e t o i	2522	p e t o i
@@ -7150,7 +6800,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7149	Warembori	Warembori	what	56	baisa	baisa	what-56	b a i s a	2529	b a i s a
 7150	Cebuano_outgroup	Cebuano	where		asa, hain	asa	where-70	a s a	2556	a s a
 7151	Cebuano_outgroup	Cebuano	where		asa, hain	hain	where-15	_ h a i n	2535	_ h a i n
-7152	Proto_Malayo_Polynesian	PMP	where	68	i-nu	i-nu	where-55	i n u	2551	i n u
 7153	Wamesa	WAD	where	30	na toi	na toi	where-30	n a _ t o i	2537	n a _ t o i
 7154	Ambai	Ambai	where	31	na-doni	na-doni	where-2	n a d o n i	2536	n a d o n i
 7155	Ansus_PD	Ansus (P&D)	where	33	na tatoi	na tatoi	where-30	n a _ t a t o i	2537	n a _ t a t o i
@@ -7184,9 +6833,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7183	Moor	Moor	where	50	vi	vi	where-50	β i	2548	β i
 7184	Warembori	Warembori	where	56	wate	wate	where-56	w a t e	2552	w a t e
 7185	Cebuano_outgroup	Cebuano	white		putí	putí	white-1	p u t í	2558	p u t í
-7186	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	white	67	ma-putiq	ma-putiq	white-3	m a p u t i ʔ	2560	m a p u t i ʔ
-7187	Proto_Malayo_Polynesian	PMP	white	68	bulan, ma-putiq	bulan	white-2	b u l a n	2559	b u l a n
-7188	Proto_Malayo_Polynesian	PMP	white	68	bulan, ma-putiq	ma-putiq	white-3	_ m a p u t i ʔ	2560	_ m a p u t i ʔ
 7189	Wamesa	WAD	white	30	vusa	vusa	white-1	β u s a	2558	β u s a
 7190	Ambai	Ambai	white	31	bua	bua	white-1	b u a	2558	b u a
 7191	Ansus_PD	Ansus (P&D)	white	33	bua	bua	white-1	b u a	2558	b u a
@@ -7225,8 +6871,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7224	Moor	Moor	white	50	vehúta	vehúta	white-3	β e h ú t a	2560	β e h ú t a
 7225	Warembori	Warembori	white	56	pepera	pepera	white-36	p e p e r a	2562	p e p e r a
 7226	Cebuano_outgroup	Cebuano	who		kinsa	kinsa	who-	k i n s a	2569	k i n s a
-7227	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	who	67	sai	sai	who-3	s a i	2572	s a i
-7228	Proto_Malayo_Polynesian	PMP	who	68	sai	sai	who-3	s a i	2572	s a i
 7229	Wamesa	WAD	who	30	tei	tei	who-1	t e i	2570	t e i
 7230	Ambai	Ambai	who	31	mantei	mantei	who-1	m a n t e i	2570	m a n t e i
 7231	Ansus_PD	Ansus (P&D)	who	33	matei	matei	who-1	m a t e i	2570	m a t e i
@@ -7260,7 +6904,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7259	Moor	Moor	who	50	na'usé	na'usé	who-50	n a ʔ u s é	2580	n a ʔ u s é
 7260	Warembori	Warembori	who	56	iti	iti	who-3	i t i	2572	i t i
 7261	Cebuano_outgroup	Cebuano	wide		lapád	lapád	wide-48	l a p á d	2598	l a p á d
-7262	Proto_Malayo_Polynesian	PMP	wide	68	labeR	labeR	wide-2	l a b e ʀ	2588	l a b e ʀ
 7263	Wamesa	WAD	wide	30	savaveri	savaveri	wide-30	s a β a β e r i	2589	s a β a β e r i
 7264	Ambai	Ambai	wide	31	fyabai	fyabai	wide-31	ɸ j a b a i	2590	ɸ j a b a i
 7265	Ansus_PD	Ansus (P&D)	wide	33	tembaiŋ	tembaiŋ	wide-33	t e m b a i ŋ	2591	t e m b a i ŋ
@@ -7322,8 +6965,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7321	Moor	Moor	wind	50	tìvura	tìvura	wind-50	t ì β u r a	2614	t ì β u r a
 7322	Warembori	Warembori	wind	56	wame-ro	wame-ro	wind-1	w a m e r o	2607	w a m e r o
 7323	Cebuano_outgroup	Cebuano	woman		babáye	babáye	woman-1	b a b á j e	2619	b a b á j e
-7324	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	woman	67	ba-b<in>ai	ba-b<in>ai	woman-1	b a b i n a i	2619	b a b i n a i
-7325	Proto_Malayo_Polynesian	PMP	woman	68	b-in-ahi	b-in-ahi	woman-1	b i n a h i	2619	b i n a h i
 7326	Wamesa	WAD	woman	30	vavi	vavi	woman-1	β a β i	2619	β a β i
 7327	Ambai	Ambai	woman	31	vivi	vivi	woman-1	β i β i	2619	β i β i
 7328	Ansus_PD	Ansus (P&D)	woman	33	wiwiŋ	wiwiŋ	woman-1	w i w i ŋ	2619	w i w i ŋ
@@ -7363,8 +7004,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7362	Moor	Moor	woman	50	vavin	vavin	woman-1	β a β i n	2619	β a β i n
 7363	Warembori	Warembori	woman	56	bin-do	bin-do	woman-1	b i n d o	2619	b i n d o
 7364	Cebuano_outgroup	Cebuano	wood/tree		káhoy	káhoy	wood/tree-1	k á h o j	2626	k á h o j
-7365	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	wood/tree	67	kayu	kayu	wood/tree-1	k a j u	2626	k a j u
-7366	Proto_Malayo_Polynesian	PMP	wood/tree	68	kahiw	kahiw	wood/tree-1	k a h i w	2626	k a h i w
 7367	Wamesa	WAD	wood/tree	30	ai	ai	wood/tree-1	a i	2626	a i
 7368	Ambai	Ambai	wood/tree	31	ai	ai	wood/tree-1	a i	2626	a i
 7369	Ansus_PD	Ansus (P&D)	wood/tree	33	ai	ai	wood/tree-1	a i	2626	a i
@@ -7403,8 +7042,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7402	Moor	Moor	wood/tree	50	ka'úata	ka'úata	wood/tree-1	k a ʔ ú a t a	2626	k a ʔ ú a t a
 7403	Warembori	Warembori	wood/tree	56	ayo-ro	ayo-ro	wood/tree-1	a j o r o	2626	a j o r o
 7404	Cebuano_outgroup	Cebuano	work		mag-uma	mag-uma	work-1	m a g u m a	2629	m a g u m a
-7405	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	work	67	quma	quma	work-	ʔ u m a	2628	ʔ u m a
-7406	Proto_Malayo_Polynesian	PMP	work	68	quma	quma	work-	ʔ u m a	2628	ʔ u m a
 7407	Wamesa	WAD	work	30	nanaripi	nanaripi	work-30	n a n a r i p i	2630	n a n a r i p i
 7408	Ambai	Ambai	work	31	i-ohondomi	i-ohondomi	work-31	i o h o n d o m i	2631	i o h o n d o m i
 7409	Ansus_EG	Ansus (EG)	work		vekeraja, ompi	vekeraja	work-	β e k e r a d͡ʒ a	2628	β e k e r a d͡ʒ a
@@ -7430,8 +7067,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7429	Yerisiam	Yerisiam	work	60	kárádíané	kárádíané	work-60	k á r á d í a n é	2649	k á r á d í a n é
 7430	Moor	Moor	work	50	kardíana	kardíana	work-50	k a r d í a n a	2643	k a r d í a n a
 7431	Cebuano_outgroup	Cebuano	worm		watí	watí	worm-1	w a t í	2651	w a t í
-7432	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	worm	67	kalati	kalati	worm-3	k a l a t i	2653	k a l a t i
-7433	Proto_Malayo_Polynesian	PMP	worm	68	kalati	kalati	worm-3	k a l a t i	2653	k a l a t i
 7434	Wamesa	WAD	worm	30	kasibui	kasibui	worm-1	k a s i b u i	2651	k a s i b u i
 7435	Ambai	Ambai	worm	31	kauboi	kauboi	worm-1	k a u b o i	2651	k a u b o i
 7436	Ansus_PD	Ansus (P&D)	worm	33	piaora	piaora	worm-33	p i a o r a	2655	p i a o r a
@@ -7464,8 +7099,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7463	Moor	Moor	worm	50	korová'a	korová'a	worm-50	k o r o β á ʔ a	2663	k o r o β á ʔ a
 7464	Warembori	Warembori	worm	56	katete-ro	katete-ro	worm-56	k a t e t e r o	2666	k a t e t e r o
 7465	Cebuano_outgroup	Cebuano	year		tu'ig	tu'ig	year-25	t u ʔ i g	2672	t u ʔ i g
-7466	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	year	67	taqun	taqun	year-1	t a ʔ u n	2670	t a ʔ u n
-7467	Proto_Malayo_Polynesian	PMP	year	68	taqun	taqun	year-1	t a ʔ u n	2670	t a ʔ u n
 7468	Wamesa	WAD	year	30	taune	taune	year-1	t a u n e	2670	t a u n e
 7469	Ambai	Ambai	year	31	fuina	fuina	year-31	ɸ u i n a	2673	ɸ u i n a
 7470	Ansus_EG	Ansus (EG)	year		taumi	taumi	year-	t a u m i	2669	t a u m i
@@ -7487,8 +7120,6 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS
 7486	Yerisiam	Yerisiam	year	60	jámà	jámà	year-60	d͡ʒ á m à	2677	d͡ʒ á m à
 7487	Moor	Moor	year	50	táuna	táuna	year-1	t á u n a	2670	t á u n a
 7488	Cebuano_outgroup	Cebuano	yellow		dalág	dalág	yellow-24	d a l á g	2680	d a l á g
-7489	Proto_Central_Eastern_Malayo_Polynesian	PCEMP	yellow	67	ma-kunij	ma-kunij	yellow-1	m a k u n i d͡ʒ	2679	m a k u n i d͡ʒ
-7490	Proto_Malayo_Polynesian	PMP	yellow	68	ma-kunij	ma-kunij	yellow-1	m a k u n i d͡ʒ	2679	m a k u n i d͡ʒ
 7491	Wamesa	WAD	yellow	30	nukuai	nukuai	yellow-30	n u k u a i	2681	n u k u a i
 7492	Ambai	Ambai	yellow	31	byomini	byomini	yellow-1	b j o m i n i	2679	b j o m i n i
 7493	Ansus_PD	Ansus (P&D)	yellow	33	kerawi	kerawi	yellow-33	k e r a w i	2682	k e r a w i
