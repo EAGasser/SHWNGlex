@@ -1,5 +1,9 @@
 ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SONARS	PROSTRINGS	CLASSES	NUMBERS	WEIGHTS	IPA	DUPLICATES	LEXSTATID	ALIGNMENT
+<<<<<<< HEAD
 1	Cebuano_outgroup	Cebuano	1pl incl		kita	kita	1pl incl-1	k i t a	2	k i t a	1 7 1 7	AXBZ	KITA	.K.C .I.V .T.C .A.V	2.0 1.5 1.75 0.8	kita	0	1	( - - ) - k i t a
+=======
+1	Cebuano_outgroup	Cebuano	1pl incl		kita	kita	1pl incl-1	k i t a	2	k i t a	1 7 1 7	AXBZ	KITA	.K.C .I.V .T.C .A.V	2.0 1.5 1.75 0.8	kita	0	1	- k i - t a
+>>>>>>> origin/master
 4	Wamesa	WAD	1pl incl	30	tata	tata	1pl incl-1	t a t a	2	t a t a	1 7 1 7	AXBZ	TATA	30.T.C 30.A.V 30.T.C 30.A.V	2.0 1.5 1.75 0.8	tata	0	3	t a t - - a
 5	Ambai	Ambai	1pl incl	31	tata	tata	1pl incl-1	t a t a	2	t a t a	1 7 1 7	AXBZ	TATA	31.T.C 31.A.V 31.T.C 31.A.V	2.0 1.5 1.75 0.8	tata	0	3	t a t - - a
 6	Ansus_PD	Ansus (P&D)	1pl incl	33	tata	tata	1pl incl-1	t a t a	2	t a t a	1 7 1 7	AXBZ	TATA	33.T.C 33.A.V 33.T.C 33.A.V	2.0 1.5 1.75 0.8	tata	0	3	t a t - - a
@@ -7,6 +11,7 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 8	Serui_Laut	Serui-Laut (slump)	1pl incl	53	tata	tata	1pl incl-1	t a t a	2	t a t a	1 7 1 7	AXBZ	TATA	53.T.C 53.A.V 53.T.C 53.A.V	2.0 1.5 1.75 0.8	tata	0	3	t a t - - a
 9	Kurudu	KURUDU	1pl incl	69	ami	ami	1pl incl-	a m i	1	a m i	7 4 7	XBZ	AMI	69.A.V 69.M.C 69.I.V	1.5 1.75 0.8	ami	0	10	a m i
 10	Biak	Biak	1pl incl	36	ko	ko	1pl incl-1	k o	2	k o	1 7	AX	KU	36.K.C 36.U.V	2.0 1.5	ko	0	6	k o -
+<<<<<<< HEAD
 11	Biak_Betew	Biak Betew (Mutus)	1pl incl		ko	ko	1pl incl-	k o	1	k o	1 7	AX	KU	.K.C .U.V	2.0 1.5	ko	0	1	( - - ) - k o - -
 12	Biak_Numfor	Biak Numfoor (Mandori)	1pl incl		ko	ko	1pl incl-	k o	1	k o	1 7	AX	KU	.K.C .U.V	2.0 1.5	ko	0	1	( - - ) - k o - -
 13	Roswar	Roswar	1pl incl	70	kon	kon	1pl incl-	k o n	1	k o n	1 7 4	AXN	KUN	70.K.C 70.U.V 70.N.c	2.0 1.5 0.8	kon	1	6	k o n
@@ -75,6 +80,76 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 78	Yerisiam	Yerisiam	1plexcl	60	nem, néemé	nem	1plexcl-1	n e m	7	n e m	4 7 4	AXN	NEM	60.N.C 60.E.V 60.M.c	2.0 1.5 0.8	nem	0	19	n e m
 79	Moor	Moor	1plexcl	50	áma	áma	1plexcl-1	á m a	7	á m a	7 4 7	XBZ	AMA	50.A.V 50.M.C 50.A.V	1.5 1.75 0.8	áma	0	13	( - ) - - á m - a - - ( - - - - )
 80	Warembori	Warembori	1plexcl	56	ami	ami	1plexcl-1	a m i	7	a m i	7 4 7	XBZ	AMI	56.A.V 56.M.C 56.I.V	1.5 1.75 0.8	ami	0	13	( - ) - - a m - i - - ( - - - - )
+=======
+11	Biak_Betew	Biak Betew (Mutus)	1pl incl		ko	ko	1pl incl-	k o	1	k o	1 7	AX	KU	.K.C .U.V	2.0 1.5	ko	0	1	- k o - - -
+12	Biak_Numfor	Biak Numfoor (Mandori)	1pl incl		ko	ko	1pl incl-	k o	1	k o	1 7	AX	KU	.K.C .U.V	2.0 1.5	ko	0	1	- k o - - -
+13	Roswar	Roswar	1pl incl	70	kon	kon	1pl incl-	k o n	1	k o n	1 7 4	AXN	KUN	70.K.C 70.U.V 70.N.c	2.0 1.5 0.8	kon	1	6	k o n
+14	Roon	Roon	1pl incl		kon	kon	1pl incl-	k o n	1	k o n	1 7 4	AXN	KUN	.K.C .U.V .N.c	2.0 1.5 0.8	kon	0	1	- k o - n -
+15	Dusner	Dusner	1pl incl	39	ndoen	ndoen	1pl incl-39	n d o e n	5	n d o e n	4 1 7 7 4	ACYYN	NTUEN	39.N.C 39.T.C 39.U.V 39.E.V 39.N.c	2.0 1.5 1.3 1.3 0.8	ndoen	0	7	n d o e n
+16	Arguni	Arguni	1pl incl	34	ite	ite	1pl incl-1	i t e	2	i t e	7 1 7	XBZ	ITE	34.I.V 34.T.C 34.E.V	1.5 1.75 0.8	ite	0	4	i t e
+17	As	As (ABVD)	1pl incl	35	ti	ti	1pl incl-35	t i	4	t i	1 7	AX	TI	35.T.C 35.I.V	2.0 1.5	ti	0	2	t i - - -
+18	Biga	Biga (rem)	1pl incl	37	itba	itba	1pl incl-1	i t b a	2	i t b a	7 1 1 7	XMBZ	ITPA	37.I.V 37.T.c 37.P.C 37.A.V	1.5 1.1 1.75 0.8	itba	0	5	- i t b a
+19	Buli	Buli	1pl incl	38	ite	ite	1pl incl-1	i t e	2	i t e	7 1 7	XBZ	ITE	38.I.V 38.T.C 38.E.V	1.5 1.75 0.8	ite	0	4	i t e
+20	Fiawat	Fiawat (fiawat)	1pl incl	40	atne	atne	1pl incl-2	a t n e	3	a t n e	7 1 4 7	XBCZ	ATNE	40.A.V 40.T.C 40.N.C 40.E.V	1.5 1.75 1.5 0.8	atne	0	2	- a t n e
+21	Gane	Gane	1pl incl	41	kit	kit	1pl incl-1	k i t	2	k i t	1 7 1	AXN	KIT	41.K.C 41.I.V 41.T.c	2.0 1.5 0.8	kit	0	5	k i t - -
+22	Gebe	Gebe	1pl incl	42	itne	itne	1pl incl-1	i t n e	2	i t n e	7 1 4 7	XBCZ	ITNE	42.I.V 42.T.C 42.N.C 42.E.V	1.5 1.75 1.5 0.8	itne	0	2	- i t n e
+23	Kawe	Kawe (rem)	1pl incl	44	ta'fata, titne	ta'fata	1pl incl-1	t a ʔ ɸ a t a	2	t a ʔ ɸ a t a	1 7 1 3 7 1 7	AXBCYBZ	TAHBATA	44.T.C 44.A.V 44.H.C 44.B.C 44.A.V 44.T.C 44.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	taʔɸata	0	9	t a ʔ ɸ a t a
+24	Kowiai	Kowiai	1pl incl	45	íta	íta	1pl incl-1	í t a	2	í t a	7 1 7	XBZ	ITA	45.I.V 45.T.C 45.A.V	1.5 1.75 0.8	íta	0	4	í t a
+25	Laganyan	Laganyan	1pl incl	46	itne	itne	1pl incl-1	i t n e	2	i t n e	7 1 4 7	XBCZ	ITNE	46.I.V 46.T.C 46.N.C 46.E.V	1.5 1.75 1.5 0.8	itne	0	2	- i t n e
+26	Irarutu	Irarutu (Mats)	1pl incl	43	it	it	1pl incl-1	i t	2	i t	7 1	XN	IT	43.I.V 43.T.c	1.5 0.8	it	0	8	i t
+27	Ambel	Ambel (rem)	1pl incl	32	isne	isne	1pl incl-1	i s n e	2	i s n e	7 3 4 7	XBCZ	ISNE	32.I.V 32.S.C 32.N.C 32.E.V	1.5 1.75 1.5 0.8	isne	0	2	- i s n e
+28	Matbat	Matbat	1pl incl	47	ya¹²t	ya¹²t	1pl incl-2	j ¹²/a t	3	j a t	6 7 1	AXN	JAT	47.J.C 47.A.V 47.T.c	2.0 1.5 0.8	jat	0	5	j ¹²/a t - -
+29	Maya_Misool	Ma'ya Misool	1pl incl	48	akne	akne	1pl incl-2	a k n e	3	a k n e	7 1 4 7	XBCZ	AKNE	48.A.V 48.K.C 48.N.C 48.E.V	1.5 1.75 1.5 0.8	akne	0	2	- a k n e
+30	Maya_Salawati	Ma'ya Salawati	1pl incl	49	akne	akne	1pl incl-2	a k n e	3	a k n e	7 1 4 7	XBCZ	AKNE	49.A.V 49.K.C 49.N.C 49.E.V	1.5 1.75 1.5 0.8	akne	0	2	- a k n e
+31	Sawai	Sawai (CAD)	1pl incl	51	it	it	1pl incl-1	i t	2	i t	7 1	XN	IT	51.I.V 51.T.c	1.5 0.8	it	0	5	- i t - -
+32	Sekar	Sekar (ABVD)	1pl incl	52	ita	ita	1pl incl-1	i t a	2	i t a	7 1 7	XBZ	ITA	52.I.V 52.T.C 52.A.V	1.5 1.75 0.8	ita	0	4	i t a
+33	Taba	Taba	1pl incl	54	tit	tit	1pl incl-1	t i t	2	t i t	1 7 1	AXN	TIT	54.T.C 54.I.V 54.T.c	2.0 1.5 0.8	tit	0	3	t i t - - -
+34	Wauyai	Wauyai	1pl incl	58	titne	titne	1pl incl-1	t i t n e	2	t i t n e	1 7 1 4 7	AXBCZ	TITNE	58.T.C 58.I.V 58.T.C 58.N.C 58.E.V	2.0 1.5 1.75 1.5 0.8	titne	0	2	t i t n e
+35	Waropen	Waropen (held)	1pl incl	57	iko	iko	1pl incl-1	i k o	2	i k o	7 1 7	XBZ	IKU	57.I.V 57.K.C 57.U.V	1.5 1.75 0.8	iko	0	1	i k o - - -
+36	Umar	Umar	1pl incl	55	ete	ete	1pl incl-1	e t e	2	e t e	7 1 7	XBZ	ETE	55.E.V 55.T.C 55.E.V	1.5 1.75 0.8	ete	0	4	e t e
+37	Yaur	Yaur	1pl incl	59	o'	o'	1pl incl-1	o ʔ	2	o ʔ	7 1	XN	UH	59.U.V 59.H.c	1.5 0.8	oʔ	0	12	o ʔ
+38	Yerisiam	Yerisiam	1pl incl	60	néeké	néeké	1pl incl-1	n é e k é	2	n é e k é	4 7 7 1 7	AXYBZ	NEEKE	60.N.C 60.E.V 60.E.V 60.K.C 60.E.V	2.0 1.5 1.3 1.75 0.8	néeké	0	1	- n é e k é
+39	Moor	Moor	1pl incl	50	í'a	í'a	1pl incl-1	í ʔ a	2	í ʔ a	7 1 7	XBZ	IHA	50.I.V 50.H.C 50.A.V	1.5 1.75 0.8	íʔa	0	11	í ʔ a
+40	Warembori	Warembori	1pl incl	56	ki	ki	1pl incl-1	k i	2	k i	1 7	AX	KI	56.K.C 56.I.V	2.0 1.5	ki	0	1	- k i - - -
+41	Cebuano_outgroup	Cebuano	1plexcl		kami	kami	1plexcl-2	k a m i	8	k a m i	1 7 4 7	AXBZ	KAMI	.K.C .A.V .M.C .I.V	2.0 1.5 1.75 0.8	kami	0	13	k a m - - i
+44	Wamesa	WAD	1plexcl	30	ama-	ama-	1plexcl-1	a m a	7	a m a	7 4 7	XBZ	AMA	30.A.V 30.M.C 30.A.V	1.5 1.75 0.8	ama	0	13	- a m - - a
+45	Ambai	Ambai	1plexcl	31	amea	amea	1plexcl-1	a m e a	7	a m e a	7 4 7 7	XBYZ	AMEA	31.A.V 31.M.C 31.E.V 31.A.V	1.5 1.75 1.3 0.8	amea	0	13	- a m e - a
+46	Ansus_PD	Ansus (P&D)	1plexcl	33	ama	ama	1plexcl-1	a m a	7	a m a	7 4 7	XBZ	AMA	33.A.V 33.M.C 33.A.V	1.5 1.75 0.8	ama	0	13	- a m - - a
+47	Serui_Laut	Serui-Laut (slump)	1plexcl	53	ama	ama	1plexcl-1	a m a	7	a m a	7 4 7	XBZ	AMA	53.A.V 53.M.C 53.A.V	1.5 1.75 0.8	ama	0	13	- a m - - a
+48	Kurudu	KURUDU	1plexcl	69	nami	nami	1plexcl-	n a m i	6	n a m i	4 7 4 7	AXBZ	NAMI	69.N.C 69.A.V 69.M.C 69.I.V	2.0 1.5 1.75 0.8	nami	0	13	n a m i - -
+49	Biak_Betew	Biak Betew (Mutus)	1plexcl		nko	nko	1plexcl-	n k o	6	n k o	4 1 7	ACZ	NKU	.N.C .K.C .U.V	2.0 1.5 0.8	nko	0	15	- n k o -
+50	Biak_Numfor	Biak Numfoor (Mandori)	1plexcl		inggo	inggo	1plexcl-	i ŋ g o	6	i ŋ g o	7 4 1 7	XMBZ	INKU	.I.V .N.c .K.C .U.V	1.5 1.1 1.75 0.8	iŋgo	0	15	i ŋ g o -
+51	Roswar	Roswar	1plexcl	70	kon	kon	1plexcl-	k o n	6	k o n	1 7 4	AXN	KUN	70.K.C 70.U.V 70.N.c	2.0 1.5 0.8	kon	0	20	k o n
+52	Roon	Roon	1plexcl		nggon	nggon	1plexcl-	ŋ g o n	6	ŋ g o n	4 1 7 4	ACYN	NKUN	.N.C .K.C .U.V .N.c	2.0 1.5 1.3 0.8	ŋgon	0	15	- ŋ g o n
+53	Dusner	Dusner	1plexcl	39	toen	toen	1plexcl-39	t o e n	9	t o e n	1 7 7 4	AXYN	TUEN	39.T.C 39.U.V 39.E.V 39.N.c	2.0 1.5 1.3 0.8	toen	0	22	t o e n
+54	Arguni	Arguni	1plexcl	34	ambami	ambami	1plexcl-1	a m b a m i	7	a m b a m i	7 4 1 7 4 7	XMBYBZ	AMPAMI	34.A.V 34.M.c 34.P.C 34.A.V 34.M.C 34.I.V	1.5 1.1 1.75 1.3 1.75 0.8	ambami	0	17	a m b a m i
+55	As	As (ABVD)	1plexcl	35	am|ne	am|ne	1plexcl-1	a m n e	7	a m n e	7 4 4 7	XMBZ	AMNE	35.A.V 35.M.c 35.N.C 35.E.V	1.5 1.1 1.75 0.8	amne	0	14	- a m n e
+56	Biga	Biga (rem)	1plexcl	37	ambana, amon	ambana	1plexcl-1	a m b a n a	7	a m b a n a	7 4 1 7 4 7	XMBYBZ	AMPANA	37.A.V 37.M.c 37.P.C 37.A.V 37.N.C 37.A.V	1.5 1.1 1.75 1.3 1.75 0.8	ambana	0	16	a m b a n a
+57	Biga	Biga (rem)	1plexcl	37	ambana, amon	amon	1plexcl-2	_ a m o n	8	_ a m o n	9 7 4 7 4	_XBYN	_AMUN	37._._ 37.A.V 37.M.C 37.U.V 37.N.c	0.0 1.5 1.75 1.3 0.8	_amon	0	18	_ a m o n
+58	Buli	Buli	1plexcl	38	ame	ame	1plexcl-1	a m e	7	a m e	7 4 7	XBZ	AME	38.A.V 38.M.C 38.E.V	1.5 1.75 0.8	ame	0	13	- a m - - e
+59	Fiawat	Fiawat (fiawat)	1plexcl	40	ame	ame	1plexcl-1	a m e	7	a m e	7 4 7	XBZ	AME	40.A.V 40.M.C 40.E.V	1.5 1.75 0.8	ame	0	13	- a m - - e
+60	Gane	Gane	1plexcl	41	ame	ame	1plexcl-1	a m e	7	a m e	7 4 7	XBZ	AME	41.A.V 41.M.C 41.E.V	1.5 1.75 0.8	ame	0	13	- a m - - e
+61	Gebe	Gebe	1plexcl	42	amne	amne	1plexcl-1	a m n e	7	a m n e	7 4 4 7	XMBZ	AMNE	42.A.V 42.M.c 42.N.C 42.E.V	1.5 1.1 1.75 0.8	amne	0	14	- a m n e
+62	Kawe	Kawe (rem)	1plexcl	44	amfata, amne	amfata	1plexcl-1	a m ɸ a t a	7	a m ɸ a t a	7 4 3 7 1 7	XMBYBZ	AMBATA	44.A.V 44.M.c 44.B.C 44.A.V 44.T.C 44.A.V	1.5 1.1 1.75 1.3 1.75 0.8	amɸata	0	16	a m ɸ a t a
+63	Kawe	Kawe (rem)	1plexcl	44	amfata, amne	amne	1plexcl-2	_ a m n e	8	_ a m n e	9 7 4 4 7	_XMBZ	_AMNE	44._._ 44.A.V 44.M.c 44.N.C 44.E.V	0.0 1.5 1.1 1.75 0.8	_amne	0	14	_ a m n e
+64	Kowiai	Kowiai	1plexcl	45	am	am	1plexcl-1	a m	7	a m	7 4	XN	AM	45.A.V 45.M.c	1.5 0.8	am	0	13	- a m - - -
+65	Laganyan	Laganyan	1plexcl	46	amne	amne	1plexcl-1	a m n e	7	a m n e	7 4 4 7	XMBZ	AMNE	46.A.V 46.M.c 46.N.C 46.E.V	1.5 1.1 1.75 0.8	amne	0	14	- a m n e
+66	Irarutu	Irarutu (Mats)	1plexcl	43	am	am	1plexcl-1	a m	7	a m	7 4	XN	AM	43.A.V 43.M.c	1.5 0.8	am	0	21	a m
+67	Ambel	Ambel (rem)	1plexcl	32	amne	amne	1plexcl-1	a m n e	7	a m n e	7 4 4 7	XMBZ	AMNE	32.A.V 32.M.c 32.N.C 32.E.V	1.5 1.1 1.75 0.8	amne	0	14	- a m n e
+68	Matbat	Matbat	1plexcl	47	ya²¹m	ya²¹m	1plexcl-1	j ²¹/a m	7	j a m	6 7 4	AXN	JAM	47.J.C 47.A.V 47.M.c	2.0 1.5 0.8	jam	0	13	j ²¹/a m - - -
+69	Maya_Misool	Ma'ya Misool	1plexcl	48	amne	amne	1plexcl-1	a m n e	7	a m n e	7 4 4 7	XMBZ	AMNE	48.A.V 48.M.c 48.N.C 48.E.V	1.5 1.1 1.75 0.8	amne	0	14	- a m n e
+70	Maya_Salawati	Ma'ya Salawati	1plexcl	49	amne	amne	1plexcl-1	a m n e	7	a m n e	7 4 4 7	XMBZ	AMNE	49.A.V 49.M.c 49.N.C 49.E.V	1.5 1.1 1.75 0.8	amne	0	14	- a m n e
+71	Sawai	Sawai (CAD)	1plexcl	51	am	am	1plexcl-1	a m	7	a m	7 4	XN	AM	51.A.V 51.M.c	1.5 0.8	am	0	14	- a m - -
+72	Sekar	Sekar (ABVD)	1plexcl	52	yami	yami	1plexcl-1	j a m i	7	j a m i	6 7 4 7	AXBZ	JAMI	52.J.C 52.A.V 52.M.C 52.I.V	2.0 1.5 1.75 0.8	jami	0	13	j a m - - i
+73	Taba	Taba	1plexcl	54	am	am	1plexcl-1	a m	7	a m	7 4	XN	AM	54.A.V 54.M.c	1.5 0.8	am	1	13	- a m - - -
+74	Wauyai	Wauyai	1plexcl	58	amfata	amfata	1plexcl-2	a m ɸ a t a	8	a m ɸ a t a	7 4 3 7 1 7	XMBYBZ	AMBATA	58.A.V 58.M.c 58.B.C 58.A.V 58.T.C 58.A.V	1.5 1.1 1.75 1.3 1.75 0.8	amɸata	0	16	a m ɸ a t a
+75	Waropen	Waropen (held)	1plexcl	57	ami, amo	ami	1plexcl-1	a m i	7	a m i	7 4 7	XBZ	AMI	57.A.V 57.M.C 57.I.V	1.5 1.75 0.8	ami	0	13	- a m - - i
+76	Umar	Umar	1plexcl	55	emi	emi	1plexcl-1	e m i	7	e m i	7 4 7	XBZ	EMI	55.E.V 55.M.C 55.I.V	1.5 1.75 0.8	emi	0	13	- e m - - i
+77	Yaur	Yaur	1plexcl	59	omí'é	omí'é	1plexcl-1	o m í ʔ é	7	o m í ʔ é	7 4 7 1 7	XBYBZ	UMIHE	59.U.V 59.M.C 59.I.V 59.H.C 59.E.V	1.5 1.75 1.3 1.75 0.8	omíʔé	0	13	- o m í ʔ é
+78	Yerisiam	Yerisiam	1plexcl	60	nem, néemé	nem	1plexcl-1	n e m	7	n e m	4 7 4	AXN	NEM	60.N.C 60.E.V 60.M.c	2.0 1.5 0.8	nem	0	19	n e m
+79	Moor	Moor	1plexcl	50	áma	áma	1plexcl-1	á m a	7	á m a	7 4 7	XBZ	AMA	50.A.V 50.M.C 50.A.V	1.5 1.75 0.8	áma	0	13	- á m - - a
+80	Warembori	Warembori	1plexcl	56	ami	ami	1plexcl-1	a m i	7	a m i	7 4 7	XBZ	AMI	56.A.V 56.M.C 56.I.V	1.5 1.75 0.8	ami	0	13	- a m - - i
+>>>>>>> origin/master
 81	Cebuano_outgroup	Cebuano	1sg		ako	ako	1sg-1	a k o	11	a k o	7 1 7	XBZ	AKU	.A.V .K.C .U.V	1.5 1.75 0.8	ako	0	25	- a k o
 84	Wamesa	WAD	1sg	30	yau	yau	1sg-1	j a u	11	j a u	6 7 7	AXZ	JAY	30.J.C 30.A.V 30.Y.V	2.0 1.5 0.8	jau	0	23	- j a - u
 85	Ambai	Ambai	1sg	31	yau	yau	1sg-1	j a u	11	j a u	6 7 7	AXZ	JAY	31.J.C 31.A.V 31.Y.V	2.0 1.5 0.8	jau	0	23	- j a - u
@@ -90,6 +165,7 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 95	Roon	Roon	1sg		ya	ya	1sg-	j a	10	j a	6 7	AX	JA	.J.C .A.V	2.0 1.5	ja	0	23	- j a - -
 96	Dusner	Dusner	1sg	39	ya	ya	1sg-1	j a	11	j a	6 7	AX	JA	39.J.C 39.A.V	2.0 1.5	ja	0	23	- j a - -
 97	Arguni	Arguni	1sg	34	embie	embie	1sg-2	e m b i e	12	e m b i e	7 4 1 7 7	XMBYZ	EMPIE	34.E.V 34.M.c 34.P.C 34.I.V 34.E.V	1.5 1.1 1.75 1.3 0.8	embie	0	26	e m b i e
+<<<<<<< HEAD
 98	As	As (ABVD)	1sg	35	anɛ	anɛ	1sg-2	a n ɛ	12	a n ɛ	7 4 7	XBZ	ANE	35.A.V 35.N.C 35.E.V	1.5 1.75 0.8	anɛ	0	32	- a n ɛ
 99	Biga	Biga (rem)	1sg	37	ini	ini	1sg-2	i n i	12	i n i	7 4 7	XBZ	INI	37.I.V 37.N.C 37.I.V	1.5 1.75 0.8	ini	0	32	- i n i
 100	Buli	Buli	1sg	38	ya	ya	1sg-1	j a	11	j a	6 7	AX	JA	38.J.C 38.A.V	2.0 1.5	ja	0	23	- j a - -
@@ -269,6 +345,187 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 283	Gane	Gane	above	41	payau	payau	above-1	p a j a u	29	p a j a u	1 7 6 7 7	AXBYZ	PAJAY	41.P.C 41.A.V 41.J.C 41.A.V 41.Y.V	2.0 1.5 1.75 1.3 0.8	pajau	0	62	p a j a u
 284	Gebe	Gebe	above	42	la-ya	la-ya	above-42	l a j a	34	l a j a	5 7 6 7	AXBZ	LAJA	42.L.C 42.A.V 42.J.C 42.A.V	2.0 1.5 1.75 0.8	laja	0	66	l a j a
 285	Kowiai	Kowiai	above	45	féfa	féfa	above-1	ɸ é ɸ a	29	ɸ é ɸ a	3 7 3 7	AXBZ	BEBA	45.B.C 45.E.V 45.B.C 45.A.V	2.0 1.5 1.75 0.8	ɸéɸa	0	61	( - - - ) ɸ é ɸ a - - ( - - - - )
+=======
+98	As	As (ABVD)	1sg	35	anɛ	anɛ	1sg-2	a n ɛ	12	a n ɛ	7 4 7	XBZ	ANE	35.A.V 35.N.C 35.E.V	1.5 1.75 0.8	anɛ	0	24	- a n ɛ
+99	Biga	Biga (rem)	1sg	37	ini	ini	1sg-2	i n i	12	i n i	7 4 7	XBZ	INI	37.I.V 37.N.C 37.I.V	1.5 1.75 0.8	ini	0	24	- i n i
+100	Buli	Buli	1sg	38	ya	ya	1sg-1	j a	11	j a	6 7	AX	JA	38.J.C 38.A.V	2.0 1.5	ja	0	23	- j a - -
+101	Fiawat	Fiawat (fiawat)	1sg	40	ine	ine	1sg-2	i n e	12	i n e	7 4 7	XBZ	INE	40.I.V 40.N.C 40.E.V	1.5 1.75 0.8	ine	0	24	- i n e
+102	Gane	Gane	1sg	41	yak	yak	1sg-1	j a k	11	j a k	6 7 1	AXN	JAK	41.J.C 41.A.V 41.K.c	2.0 1.5 0.8	jak	0	23	- j a k -
+103	Gebe	Gebe	1sg	42	ane	ane	1sg-2	a n e	12	a n e	7 4 7	XBZ	ANE	42.A.V 42.N.C 42.E.V	1.5 1.75 0.8	ane	0	24	- a n e
+104	Kawe	Kawe (rem)	1sg	44	yene	yene	1sg-2	j e n e	12	j e n e	6 7 4 7	AXBZ	JENE	44.J.C 44.E.V 44.N.C 44.E.V	2.0 1.5 1.75 0.8	jene	0	24	j e n e
+105	Kowiai	Kowiai	1sg	45	laʔ	laʔ	1sg-1	l a ʔ	11	l a ʔ	5 7 1	AXN	LAH	45.L.C 45.A.V 45.H.c	2.0 1.5 0.8	laʔ	0	27	l a ʔ
+106	Laganyan	Laganyan	1sg	46	yene	yene	1sg-2	j e n e	12	j e n e	6 7 4 7	AXBZ	JENE	46.J.C 46.E.V 46.N.C 46.E.V	2.0 1.5 1.75 0.8	jene	0	24	j e n e
+107	Irarutu	Irarutu (Mats)	1sg	43	já	já	1sg-1	d͡ʒ á	11	d͡ʒ á	2 7	AX	CA	43.C.C 43.A.V	2.0 1.5	d͡ʒá	0	23	- d͡ʒ á - -
+108	Ambel	Ambel (rem)	1sg	32	yene	yene	1sg-2	j e n e	12	j e n e	6 7 4 7	AXBZ	JENE	32.J.C 32.E.V 32.N.C 32.E.V	2.0 1.5 1.75 0.8	jene	0	24	j e n e
+109	Matbat	Matbat	1sg	47	ya²¹ka	ya²¹ka	1sg-1	j ²¹/a k a	11	j a k a	6 7 1 7	AXBZ	JAKA	47.J.C 47.A.V 47.K.C 47.A.V	2.0 1.5 1.75 0.8	jaka	0	25	j ²¹/a k a
+110	Maya_Misool	Ma'ya Misool	1sg	48	ene	ene	1sg-2	e n e	12	e n e	7 4 7	XBZ	ENE	48.E.V 48.N.C 48.E.V	1.5 1.75 0.8	ene	0	24	- e n e
+111	Maya_Salawati	Ma'ya Salawati	1sg	49	ene	ene	1sg-2	e n e	12	e n e	7 4 7	XBZ	ENE	49.E.V 49.N.C 49.E.V	1.5 1.75 0.8	ene	0	24	- e n e
+112	Sawai	Sawai (CAD)	1sg	51	ya	ya	1sg-1	j a	11	j a	6 7	AX	JA	51.J.C 51.A.V	2.0 1.5	ja	0	23	- j a - -
+113	Sekar	Sekar (ABVD)	1sg	52	yai	yai	1sg-1	j a i	11	j a i	6 7 7	AXZ	JAI	52.J.C 52.A.V 52.I.V	2.0 1.5 0.8	jai	0	23	- j a - i
+114	Taba	Taba	1sg	54	yak	yak	1sg-1	j a k	11	j a k	6 7 1	AXN	JAK	54.J.C 54.A.V 54.K.c	2.0 1.5 0.8	jak	0	23	- j a k -
+115	Wauyai	Wauyai	1sg	58	yene	yene	1sg-2	j e n e	12	j e n e	6 7 4 7	AXBZ	JENE	58.J.C 58.E.V 58.N.C 58.E.V	2.0 1.5 1.75 0.8	jene	0	24	j e n e
+116	Waropen	Waropen (held)	1sg	57	ra, ya	ra	1sg-1	r a	11	r a	5 7	AX	RA	57.R.C 57.A.V	2.0 1.5	ra	0	30	r a
+117	Umar	Umar	1sg	55	e, ene	e	1sg-1	e	11	e	7	X	E	55.E.V	1.5	e	0	28	e
+118	Umar	Umar	1sg	55	e, ene	ene	1sg-2	_ e n e	12	_ e n e	9 7 4 7	_XBZ	_ENE	55._._ 55.E.V 55.N.C 55.E.V	0.0 1.5 1.75 0.8	_ene	0	31	_ e n e
+119	Yaur	Yaur	1sg	59	ìgwá, ne	ìgwá	1sg-1	ì gʷ á	11	ì gʷ á	7 1 7	XBZ	IKA	59.I.V 59.K.C 59.A.V	1.5 1.75 0.8	ìgʷá	0	25	- ì gʷ á
+120	Yaur	Yaur	1sg	59	ìgwá, ne	ne	1sg-2	_ n e	12	_ n e	9 4 7	_AX	_NE	59._._ 59.N.C 59.E.V	0.0 2.0 1.5	_ne	0	32	_ n e
+121	Yerisiam	Yerisiam	1sg	60	né	né	1sg-2	n é	12	n é	4 7	AX	NE	60.N.C 60.E.V	2.0 1.5	né	0	24	- - n é
+122	Moor	Moor	1sg	50	ígwa	ígwa	1sg-1	í gʷ a	11	í gʷ a	7 1 7	XBZ	IKA	50.I.V 50.K.C 50.A.V	1.5 1.75 0.8	ígʷa	0	25	- í gʷ a
+123	Warembori	Warembori	1sg	56	iwi	iwi	1sg-1	i w i	11	i w i	7 6 7	XBZ	IWI	56.I.V 56.W.C 56.I.V	1.5 1.75 0.8	iwi	0	29	i w i
+124	Cebuano_outgroup	Cebuano	2pl		kamu	kamu	2pl-1	k a m u	14	k a m u	1 7 4 7	AXBZ	KAMY	.K.C .A.V .M.C .Y.V	2.0 1.5 1.75 0.8	kamu	0	33	k a - m u - -
+127	Wamesa	WAD	2pl	30	mia	mia	2pl-1	m i a	14	m i a	4 7 7	AXZ	MIA	30.M.C 30.I.V 30.A.V	2.0 1.5 0.8	mia	0	33	m i - - - - a
+128	Ambai	Ambai	2pl	31	mea	mea	2pl-1	m e a	14	m e a	4 7 7	AXZ	MEA	31.M.C 31.E.V 31.A.V	2.0 1.5 0.8	mea	0	33	m e - - - - a
+129	Ansus_PD	Ansus (P&D)	2pl	33	mia	mia	2pl-1	m i a	14	m i a	4 7 7	AXZ	MIA	33.M.C 33.I.V 33.A.V	2.0 1.5 0.8	mia	0	33	m i - - - - a
+130	Pom	Pom	2pl		mintoru	mintoru	2pl-	m i n t o r u	13	m i n t o r u	4 7 4 1 7 5 7	AXMBYBZ	MINTURY	.M.C .I.V .N.c .T.C .U.V .R.C .Y.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	mintoru	0	33	m i n t o r u
+131	Serui_Laut	Serui-Laut (slump)	2pl	53	ma	ma	2pl-1	m a	14	m a	4 7	AX	MA	53.M.C 53.A.V	2.0 1.5	ma	1	33	m a - - - - -
+132	Kurudu	KURUDU	2pl	69	awati	awati	2pl-	a w a t i	13	a w a t i	7 6 7 1 7	XBYBZ	AWATI	69.A.V 69.W.C 69.A.V 69.T.C 69.I.V	1.5 1.75 1.3 1.75 0.8	awati	0	35	a w a t i
+133	Biak_Betew	Biak Betew (Mutus)	2pl		mko	mko	2pl-	m k o	13	m k o	4 1 7	ACZ	MKU	.M.C .K.C .U.V	2.0 1.5 0.8	mko	0	33	m - - k o - -
+134	Biak_Numfor	Biak Numfoor (Mandori)	2pl		mgo	mgo	2pl-	m g o	13	m g o	4 1 7	ACZ	MKU	.M.C .K.C .U.V	2.0 1.5 0.8	mgo	0	33	m - - g o - -
+135	Roswar	Roswar	2pl	70	mkon	mkon	2pl-	m k o n	13	m k o n	4 1 7 4	ACYN	MKUN	70.M.C 70.K.C 70.U.V 70.N.c	2.0 1.5 1.3 0.8	mkon	0	36	m k o n
+136	Roon	Roon	2pl		mokon	mokon	2pl-	m o k o n	13	m o k o n	4 7 1 7 4	AXBYN	MUKUN	.M.C .U.V .K.C .U.V .N.c	2.0 1.5 1.75 1.3 0.8	mokon	0	33	m o - k o n -
+137	Dusner	Dusner	2pl	39	mtoen	mtoen	2pl-39	m t o e n	15	m t o e n	4 1 7 7 4	ACYYN	MTUEN	39.M.C 39.T.C 39.U.V 39.E.V 39.N.c	2.0 1.5 1.3 1.3 0.8	mtoen	0	34	m t o e n
+138	Arguni	Arguni	2pl	34	mbu|amu	mbu|amu	2pl-1	m b u a m u	14	m b u a m u	4 1 7 7 4 7	ACYYBZ	MPYAMY	34.M.C 34.P.C 34.Y.V 34.A.V 34.M.C 34.Y.V	2.0 1.5 1.3 1.3 1.75 0.8	mbuamu	0	38	m b u a m u
+139	As	As (ABVD)	2pl	35	mɔu	mɔu	2pl-1	m ɔ u	14	m ɔ u	4 7 7	AXZ	MUY	35.M.C 35.U.V 35.Y.V	2.0 1.5 0.8	mɔu	0	33	m ɔ - - - - u
+140	Buli	Buli	2pl	38	meu	meu	2pl-1	m e u	14	m e u	4 7 7	AXZ	MEY	38.M.C 38.E.V 38.Y.V	2.0 1.5 0.8	meu	0	33	m e - - u - -
+141	Gane	Gane	2pl	41	meu	meu	2pl-1	m e u	14	m e u	4 7 7	AXZ	MEY	41.M.C 41.E.V 41.Y.V	2.0 1.5 0.8	meu	0	33	m e - - u - -
+142	Gebe	Gebe	2pl	42	mevia	mevia	2pl-1	m e β i a	14	m e β i a	4 7 3 7 7	AXBYZ	MEBIA	42.M.C 42.E.V 42.B.C 42.I.V 42.A.V	2.0 1.5 1.75 1.3 0.8	meβia	0	33	m e β - i - a
+143	Ambel	Ambel (rem)	2pl	32	mewa	mewa	2pl-1	m e w a	14	m e w a	4 7 6 7	AXBZ	MEWA	32.M.C 32.E.V 32.W.C 32.A.V	2.0 1.5 1.75 0.8	mewa	0	33	m e w - - - a
+144	Matbat	Matbat	2pl	47	mi²¹na	mi²¹na	2pl-1	m ²¹/i n a	14	m i n a	4 7 4 7	AXBZ	MINA	47.M.C 47.I.V 47.N.C 47.A.V	2.0 1.5 1.75 0.8	mina	0	33	m ²¹/i n - - - a
+145	Maya_Salawati	Ma'ya Salawati	2pl	49	mi	mi	2pl-1	m i	14	m i	4 7	AX	MI	49.M.C 49.I.V	2.0 1.5	mi	0	33	m i - - - - -
+146	Sawai	Sawai (CAD)	2pl	51	mew	mew	2pl-1	m e w	14	m e w	4 7 6	AXN	MEW	51.M.C 51.E.V 51.W.c	2.0 1.5 0.8	mew	0	33	m e w - - - -
+147	Sekar	Sekar (ABVD)	2pl	52	imi	imi	2pl-1	i m i	14	i m i	7 4 7	XBZ	IMI	52.I.V 52.M.C 52.I.V	1.5 1.75 0.8	imi	0	33	- i - m i - -
+148	Taba	Taba	2pl	54	meu	meu	2pl-1	m e u	14	m e u	4 7 7	AXZ	MEY	54.M.C 54.E.V 54.Y.V	2.0 1.5 0.8	meu	0	33	m e - - u - -
+149	Waropen	Waropen (held)	2pl	57	mu	mu	2pl-1	m u	14	m u	4 7	AX	MY	57.M.C 57.Y.V	2.0 1.5	mu	0	33	m u - - - - -
+150	Umar	Umar	2pl	55	amu	amu	2pl-1	a m u	14	a m u	7 4 7	XBZ	AMY	55.A.V 55.M.C 55.Y.V	1.5 1.75 0.8	amu	0	33	- a - m u - -
+151	Yaur	Yaur	2pl	59	ámú'è	ámú'è	2pl-1	á m ú ʔ è	14	á m ú ʔ è	7 4 7 1 7	XBYBZ	AMYHE	59.A.V 59.M.C 59.Y.V 59.H.C 59.E.V	1.5 1.75 1.3 1.75 0.8	ámúʔè	0	33	- á - m ú ʔ è
+152	Yerisiam	Yerisiam	2pl	60	ánéemé	ánéemé	2pl-1	á n é e m é	14	á n é e m é	7 4 7 7 4 7	XBYYBZ	ANEEME	60.A.V 60.N.C 60.E.V 60.E.V 60.M.C 60.E.V	1.5 1.75 1.3 1.3 1.75 0.8	ánéemé	0	37	á n é e m é
+153	Moor	Moor	2pl	50	amù, mu'ó	amù	2pl-1	a m ù	14	a m ù	7 4 7	XBZ	AMY	50.A.V 50.M.C 50.Y.V	1.5 1.75 0.8	amù	0	33	- a - m ù - -
+154	Warembori	Warembori	2pl	56	mi	mi	2pl-1	m i	14	m i	4 7	AX	MI	56.M.C 56.I.V	2.0 1.5	mi	0	33	m i - - - - -
+155	Cebuano_outgroup	Cebuano	2sg		ikáw	ikáw	2sg-1	i k á w	17	i k á w	7 1 7 6	XBYN	IKAW	.I.V .K.C .A.V .W.c	1.5 1.75 1.3 0.8	ikáw	0	41	i k á w
+158	Wamesa	WAD	2sg	30	au	au	2sg-1	a u	17	a u	7 7	XZ	AY	30.A.V 30.Y.V	1.5 0.8	au	0	39	- a u -
+159	Ambai	Ambai	2sg	31	wau	wau	2sg-1	w a u	17	w a u	6 7 7	AXZ	WAY	31.W.C 31.A.V 31.Y.V	2.0 1.5 0.8	wau	0	39	w a u -
+160	Ansus_PD	Ansus (P&D)	2sg	33	au	au	2sg-1	a u	17	a u	7 7	XZ	AY	33.A.V 33.Y.V	1.5 0.8	au	0	39	- a u -
+161	Ansus_EG	Ansus (EG)	2sg		au	au	2sg-	a u	16	a u	7 7	XZ	AY	.A.V .Y.V	1.5 0.8	au	1	39	- a u -
+162	Pom	Pom	2sg		au	au	2sg-	a u	16	a u	7 7	XZ	AY	.A.V .Y.V	1.5 0.8	au	0	39	- a u -
+163	Serui_Laut	Serui-Laut (slump)	2sg	53	wau	wau	2sg-1	w a u	17	w a u	6 7 7	AXZ	WAY	53.W.C 53.A.V 53.Y.V	2.0 1.5 0.8	wau	0	39	w a u -
+164	Kurudu	KURUDU	2sg	69	awa	awa	2sg-	a w a	16	a w a	7 6 7	XBZ	AWA	69.A.V 69.W.C 69.A.V	1.5 1.75 0.8	awa	0	40	- a w a
+165	Biak	Biak	2sg	36	au	au	2sg-1	a u	17	a u	7 7	XZ	AY	36.A.V 36.Y.V	1.5 0.8	au	0	39	- a u -
+166	Biak_Betew	Biak Betew (Mutus)	2sg		au	au	2sg-	a u	16	a u	7 7	XZ	AY	.A.V .Y.V	1.5 0.8	au	0	39	- a u -
+167	Biak_Numfor	Biak Numfoor (Mandori)	2sg		au	au	2sg-	a u	16	a u	7 7	XZ	AY	.A.V .Y.V	1.5 0.8	au	0	39	- a u -
+168	Roswar	Roswar	2sg	70	au	au	2sg-	a u	16	a u	7 7	XZ	AY	70.A.V 70.Y.V	1.5 0.8	au	0	39	- a u -
+169	Roon	Roon	2sg		aw	aw	2sg-	a w	16	a w	7 6	XN	AW	.A.V .W.c	1.5 0.8	aw	0	41	- - a w
+170	Dusner	Dusner	2sg	39	au	au	2sg-1	a u	17	a u	7 7	XZ	AY	39.A.V 39.Y.V	1.5 0.8	au	0	39	- a u -
+171	As	As (ABVD)	2sg	35	awa	awa	2sg-1	a w a	17	a w a	7 6 7	XBZ	AWA	35.A.V 35.W.C 35.A.V	1.5 1.75 0.8	awa	0	40	- a w a
+172	Biga	Biga (rem)	2sg	37	awa	awa	2sg-1	a w a	17	a w a	7 6 7	XBZ	AWA	37.A.V 37.W.C 37.A.V	1.5 1.75 0.8	awa	0	40	- a w a
+173	Buli	Buli	2sg	38	au	au	2sg-1	a u	17	a u	7 7	XZ	AY	38.A.V 38.Y.V	1.5 0.8	au	0	39	- a u -
+174	Fiawat	Fiawat (fiawat)	2sg	40	aw	aw	2sg-1	a w	17	a w	7 6	XN	AW	40.A.V 40.W.c	1.5 0.8	aw	0	40	- a w -
+175	Gane	Gane	2sg	41	au	au	2sg-1	a u	17	a u	7 7	XZ	AY	41.A.V 41.Y.V	1.5 0.8	au	0	39	- a u -
+176	Gebe	Gebe	2sg	42	auya	auya	2sg-1	a u j a	17	a u j a	7 7 6 7	XYBZ	AYJA	42.A.V 42.Y.V 42.J.C 42.A.V	1.5 1.3 1.75 0.8	auja	0	43	a u j a
+177	Kawe	Kawe (rem)	2sg	44	wawa	wawa	2sg-1	w a w a	17	w a w a	6 7 6 7	AXBZ	WAWA	44.W.C 44.A.V 44.W.C 44.A.V	2.0 1.5 1.75 0.8	wawa	0	40	w a w a
+178	Kowiai	Kowiai	2sg	45	au, o	au	2sg-1	a u	17	a u	7 7	XZ	AY	45.A.V 45.Y.V	1.5 0.8	au	0	39	- a u -
+179	Laganyan	Laganyan	2sg	46	awa	awa	2sg-1	a w a	17	a w a	7 6 7	XBZ	AWA	46.A.V 46.W.C 46.A.V	1.5 1.75 0.8	awa	0	40	- a w a
+180	Irarutu	Irarutu (Mats)	2sg	43	ó	ó	2sg-1	ó	17	ó	7	X	U	43.U.V	1.5	ó	0	42	ó
+181	Ambel	Ambel (rem)	2sg	32	awa	awa	2sg-1	a w a	17	a w a	7 6 7	XBZ	AWA	32.A.V 32.W.C 32.A.V	1.5 1.75 0.8	awa	0	40	- a w a
+182	Matbat	Matbat	2sg	47	ya²¹w	ya²¹w	2sg-1	j ²¹/a w	17	j a w	6 7 6	AXN	JAW	47.J.C 47.A.V 47.W.c	2.0 1.5 0.8	jaw	1	41	- j ²¹/a w
+183	Maya_Misool	Ma'ya Misool	2sg	48	awa	awa	2sg-1	a w a	17	a w a	7 6 7	XBZ	AWA	48.A.V 48.W.C 48.A.V	1.5 1.75 0.8	awa	0	40	- a w a
+184	Maya_Salawati	Ma'ya Salawati	2sg	49	awa	awa	2sg-1	a w a	17	a w a	7 6 7	XBZ	AWA	49.A.V 49.W.C 49.A.V	1.5 1.75 0.8	awa	0	40	- a w a
+185	Sawai	Sawai (CAD)	2sg	51	aw	aw	2sg-1	a w	17	a w	7 6	XN	AW	51.A.V 51.W.c	1.5 0.8	aw	0	41	- - a w
+186	Sekar	Sekar (ABVD)	2sg	52	o	o	2sg-1	o	17	o	7	X	U	52.U.V	1.5	o	0	42	o
+187	Taba	Taba	2sg	54	au	au	2sg-1	a u	17	a u	7 7	XZ	AY	54.A.V 54.Y.V	1.5 0.8	au	0	39	- a u -
+188	Wauyai	Wauyai	2sg	58	awa	awa	2sg-1	a w a	17	a w a	7 6 7	XBZ	AWA	58.A.V 58.W.C 58.A.V	1.5 1.75 0.8	awa	0	40	- a w a
+189	Waropen	Waropen (held)	2sg	57	auo	auo	2sg-1	a u o	17	a u o	7 7 7	XYZ	AYU	57.A.V 57.Y.V 57.U.V	1.5 1.3 0.8	auo	0	39	- a u o
+190	Umar	Umar	2sg	55	ate	ate	2sg-1	a t e	17	a t e	7 1 7	XBZ	ATE	55.A.V 55.T.C 55.E.V	1.5 1.75 0.8	ate	0	44	a t e
+191	Yaur	Yaur	2sg	59	a, á'è	a	2sg-1	a	17	a	7	X	A	59.A.V	1.5	a	0	39	- a - -
+192	Yerisiam	Yerisiam	2sg	60	a, àné	a	2sg-1	a	17	a	7	X	A	60.A.V	1.5	a	0	39	- a - -
+193	Moor	Moor	2sg	50	á	á	2sg-1	á	17	á	7	X	A	50.A.V	1.5	á	0	39	- á - -
+194	Warembori	Warembori	2sg	56	awi	awi	2sg-1	a w i	17	a w i	7 6 7	XBZ	AWI	56.A.V 56.W.C 56.I.V	1.5 1.75 0.8	awi	0	40	- a w i
+195	Cebuano_outgroup	Cebuano	3pl		sila	sila	3pl-1	s i l a	19	s i l a	3 7 5 7	AXBZ	SILA	.S.C .I.V .L.C .A.V	2.0 1.5 1.75 0.8	sila	0	45	- s - i l a
+198	Wamesa	WAD	3pl	30	sia	sia	3pl-1	s i a	19	s i a	3 7 7	AXZ	SIA	30.S.C 30.I.V 30.A.V	2.0 1.5 0.8	sia	0	45	- s - i - a
+199	Ambai	Ambai	3pl	31	ea	ea	3pl-1	e a	19	e a	7 7	XZ	EA	31.E.V 31.A.V	1.5 0.8	ea	0	47	e a
+200	Ansus_PD	Ansus (P&D)	3pl	33	ya	ya	3pl-1	j a	19	j a	6 7	AX	JA	33.J.C 33.A.V	2.0 1.5	ja	0	45	- j - - - a
+201	Pom	Pom	3pl		tioru	tioru	3pl-	t i o r u	18	t i o r u	1 7 7 5 7	AXYBZ	TIURY	.T.C .I.V .U.V .R.C .Y.V	2.0 1.5 1.3 1.75 0.8	tioru	0	46	t i o r u
+202	Serui_Laut	Serui-Laut (slump)	3pl	53	sa	sa	3pl-1	s a	19	s a	3 7	AX	SA	53.S.C 53.A.V	2.0 1.5	sa	0	45	- s - - - a
+203	Kurudu	KURUDU	3pl	69	manekripesi	manekripesi	3pl-	m a n e k r i p e s i	18	m a n e k r i p e s i	4 7 4 7 1 5 7 1 7 3 7	AXBYBCYBYBZ	MANEKRIPESI	69.M.C 69.A.V 69.N.C 69.E.V 69.K.C 69.R.C 69.I.V 69.P.C 69.E.V 69.S.C 69.I.V	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.75 1.3 1.75 0.8	manekripesi	0	48	m a n e k r i p e s i
+204	Biak	Biak	3pl	36	si	si	3pl-1	s i	19	s i	3 7	AX	SI	36.S.C 36.I.V	2.0 1.5	si	0	45	- s i - - -
+205	Biak_Betew	Biak Betew (Mutus)	3pl		tko, ti, si	tko	3pl-	t k o	18	t k o	1 1 7	ACZ	TKU	.T.C .K.C .U.V	2.0 1.5 0.8	tko	0	45	- t - - k o
+206	Biak_Numfor	Biak Numfoor (Mandori)	3pl		sko, si	sko	3pl-	s k o	18	s k o	3 1 7	ACZ	SKU	.S.C .K.C .U.V	2.0 1.5 0.8	sko	0	45	- s - - k o
+207	Roswar	Roswar	3pl	70	sia	sia	3pl-	s i a	18	s i a	3 7 7	AXZ	SIA	70.S.C 70.I.V 70.A.V	2.0 1.5 0.8	sia	0	45	- s i a - -
+208	Roon	Roon	3pl		si, na	si	3pl-	s i	18	s i	3 7	AX	SI	.S.C .I.V	2.0 1.5	si	0	45	- s - - - i
+209	Dusner	Dusner	3pl	39	si	si	3pl-1	s i	19	s i	3 7	AX	SI	39.S.C 39.I.V	2.0 1.5	si	0	45	- s i - - -
+210	Arguni	Arguni	3pl	34	sire	sire	3pl-1	s i r e	19	s i r e	3 7 5 7	AXBZ	SIRE	34.S.C 34.I.V 34.R.C 34.E.V	2.0 1.5 1.75 0.8	sire	0	45	- s - i r e
+211	As	As (ABVD)	3pl	35	sia, sire	sia	3pl-1	s i a	19	s i a	3 7 7	AXZ	SIA	35.S.C 35.I.V 35.A.V	2.0 1.5 0.8	sia	0	45	- s i a - -
+212	Buli	Buli	3pl	38	sile	sile	3pl-1	s i l e	19	s i l e	3 7 5 7	AXBZ	SILE	38.S.C 38.I.V 38.L.C 38.E.V	2.0 1.5 1.75 0.8	sile	0	45	- s - i l e
+213	Fiawat	Fiawat (fiawat)	3pl	40	hane	hane	3pl-40	h a n e	21	h a n e	3 7 4 7	AXBZ	HANE	40.H.C 40.A.V 40.N.C 40.E.V	2.0 1.5 1.75 0.8	hane	0	45	- h - a n e
+214	Gane	Gane	3pl	41	si	si	3pl-1	s i	19	s i	3 7	AX	SI	41.S.C 41.I.V	2.0 1.5	si	0	45	- s i - - -
+215	Gebe	Gebe	3pl	42	sia	sia	3pl-1	s i a	19	s i a	3 7 7	AXZ	SIA	42.S.C 42.I.V 42.A.V	2.0 1.5 0.8	sia	0	45	- s i a - -
+216	Kawe	Kawe (rem)	3pl	44	sia, ha'fata	sia	3pl-1	s i a	19	s i a	3 7 7	AXZ	SIA	44.S.C 44.I.V 44.A.V	2.0 1.5 0.8	sia	0	45	- s i a - -
+217	Kawe	Kawe (rem)	3pl	44	sia, ha'fata	ha'fata	3pl-2	_ h a ʔ ɸ a t a	20	_ h a ʔ ɸ a t a	9 3 7 1 3 7 1 7	_AXBCYBZ	_HAHBATA	44._._ 44.H.C 44.A.V 44.H.C 44.B.C 44.A.V 44.T.C 44.A.V	0.0 2.0 1.5 1.75 1.5 1.3 1.75 0.8	_haʔɸata	0	51	_ h a ʔ ɸ a t a
+218	Kowiai	Kowiai	3pl	45	si	si	3pl-1	s i	19	s i	3 7	AX	SI	45.S.C 45.I.V	2.0 1.5	si	0	45	- s i - - -
+219	Laganyan	Laganyan	3pl	46	hia	hia	3pl-1	h i a	19	h i a	3 7 7	AXZ	HIA	46.H.C 46.I.V 46.A.V	2.0 1.5 0.8	hia	0	45	- h i a - -
+220	Irarutu	Irarutu (Mats)	3pl	43	ire, írə	ire	3pl-1	i r e	19	i r e	7 5 7	XBZ	IRE	43.I.V 43.R.C 43.E.V	1.5 1.75 0.8	ire	0	45	- - - i r e
+221	Ambel	Ambel (rem)	3pl	32	sia	sia	3pl-1	s i a	19	s i a	3 7 7	AXZ	SIA	32.S.C 32.I.V 32.A.V	2.0 1.5 0.8	sia	0	45	- s i a - -
+222	Matbat	Matbat	3pl	47	hafo²¹	hafo²¹	3pl-2	h a ɸ ²¹/o	20	h a ɸ o	3 7 3 7	AXBZ	HABU	47.H.C 47.A.V 47.B.C 47.U.V	2.0 1.5 1.75 0.8	haɸo	0	49	h a ɸ ²¹/o
+223	Maya_Misool	Ma'ya Misool	3pl	48	sia	sia	3pl-1	s i a	19	s i a	3 7 7	AXZ	SIA	48.S.C 48.I.V 48.A.V	2.0 1.5 0.8	sia	0	45	- s i a - -
+224	Maya_Salawati	Ma'ya Salawati	3pl	49	sia	sia	3pl-1	s i a	19	s i a	3 7 7	AXZ	SIA	49.S.C 49.I.V 49.A.V	2.0 1.5 0.8	sia	0	45	- s i a - -
+225	Sawai	Sawai (CAD)	3pl	51	si	si	3pl-1	s i	19	s i	3 7	AX	SI	51.S.C 51.I.V	2.0 1.5	si	0	45	- s i - - -
+226	Sekar	Sekar (ABVD)	3pl	52	sina	sina	3pl-1	s i n a	19	s i n a	3 7 4 7	AXBZ	SINA	52.S.C 52.I.V 52.N.C 52.A.V	2.0 1.5 1.75 0.8	sina	0	45	- s - i n a
+227	Taba	Taba	3pl	54	si	si	3pl-1	s i	19	s i	3 7	AX	SI	54.S.C 54.I.V	2.0 1.5	si	0	45	- s i - - -
+228	Waropen	Waropen (held)	3pl	57	ki	ki	3pl-1	k i	19	k i	1 7	AX	KI	57.K.C 57.I.V	2.0 1.5	ki	0	45	- - - - k i
+229	Umar	Umar	3pl	55	ihi	ihi	3pl-1	i h i	19	i h i	7 3 7	XBZ	IHI	55.I.V 55.H.C 55.I.V	1.5 1.75 0.8	ihi	0	45	- - - i h i
+230	Yaur	Yaur	3pl	59	óhè	óhè	3pl-1	ó h è	19	ó h è	7 3 7	XBZ	UHE	59.U.V 59.H.C 59.E.V	1.5 1.75 0.8	óhè	0	45	- - - ó h è
+231	Yerisiam	Yerisiam	3pl	60	íníihí	íníihí	3pl-1	í n í i h í	19	í n í i h í	7 4 7 7 3 7	XBYYBZ	INIIHI	60.I.V 60.N.C 60.I.V 60.I.V 60.H.C 60.I.V	1.5 1.75 1.3 1.3 1.75 0.8	íníihí	0	45	í n í i h í
+232	Moor	Moor	3pl	50	ti'ó	ti'ó	3pl-1	t i ʔ ó	19	t i ʔ ó	1 7 1 7	AXBZ	TIHU	50.T.C 50.I.V 50.H.C 50.U.V	2.0 1.5 1.75 0.8	tiʔó	0	50	t i ʔ ó
+233	Warembori	Warembori	3pl	56	ti	ti	3pl-1	t i	19	t i	1 7	AX	TI	56.T.C 56.I.V	2.0 1.5	ti	0	46	t i - - -
+234	Cebuano_outgroup	Cebuano	3sg		siya	siya	3sg-1	s i j a	23	s i j a	3 7 6 7	AXBZ	SIJA	.S.C .I.V .J.C .A.V	2.0 1.5 1.75 0.8	sija	0	52	s i j a
+236	Wamesa	WAD	3sg	30	andi, i	andi	3sg-1	a n d i	23	a n d i	7 4 1 7	XMBZ	ANTI	30.A.V 30.N.c 30.T.C 30.I.V	1.5 1.1 1.75 0.8	andi	0	59	a n d i
+237	Wamesa	WAD	3sg	30	andi, i	i	3sg-2	_ i	24	_ i	9 7	_X	_I	30._._ 30.I.V	0.0 1.5	_i	0	53	_ i - -
+238	Ambai	Ambai	3sg	31	i	i	3sg-2	i	24	i	7	X	I	31.I.V	1.5	i	0	52	- i - -
+239	Ansus_PD	Ansus (P&D)	3sg	33	i	i	3sg-2	i	24	i	7	X	I	33.I.V	1.5	i	0	52	- i - -
+240	Pom	Pom	3sg		i	i	3sg-	i	22	i	7	X	I	.I.V	1.5	i	0	52	- i - -
+241	Serui_Laut	Serui-Laut (slump)	3sg	53	ia	ia	3sg-2	i a	24	i a	7 7	XZ	IA	53.I.V 53.A.V	1.5 0.8	ia	0	52	- i - a
+242	Kurudu	KURUDU	3sg	69	i wane	i wane	3sg-	i _ w a n e	22	i _ w a n e	7 9 6 7 4 7	X_AXBZ	I_WANE	69.I.V 69._._ 69.W.C 69.A.V 69.N.C 69.E.V	1.5 0.0 2.0 1.5 1.75 0.8	i_wane	0	56	i _ w a n e
+243	Biak	Biak	3sg	36	i	i	3sg-2	i	24	i	7	X	I	36.I.V	1.5	i	0	52	- i - -
+244	Biak_Betew	Biak Betew (Mutus)	3sg		i	i	3sg-	i	22	i	7	X	I	.I.V	1.5	i	0	52	- i - -
+245	Biak_Numfor	Biak Numfoor (Mandori)	3sg		i	i	3sg-	i	22	i	7	X	I	.I.V	1.5	i	0	52	- i - -
+246	Roswar	Roswar	3sg	70	i	i	3sg-	i	22	i	7	X	I	70.I.V	1.5	i	0	52	- i - -
+247	Roon	Roon	3sg		i, ti, ri	i	3sg-	i	22	i	7	X	I	.I.V	1.5	i	0	52	- i - -
+248	Dusner	Dusner	3sg	39	ndi, i	ndi	3sg-1	n d i	23	n d i	4 1 7	ACZ	NTI	39.N.C 39.T.C 39.I.V	2.0 1.5 0.8	ndi	0	55	n d i
+249	Dusner	Dusner	3sg	39	ndi, i	i	3sg-2	_ i	24	_ i	9 7	_X	_I	39._._ 39.I.V	0.0 1.5	_i	0	53	_ i - -
+250	Arguni	Arguni	3sg	34	i	i	3sg-2	i	24	i	7	X	I	34.I.V	1.5	i	0	52	- i - -
+251	As	As (ABVD)	3sg	35	ia	ia	3sg-2	i a	24	i a	7 7	XZ	IA	35.I.V 35.A.V	1.5 0.8	ia	0	52	- i - a
+252	Buli	Buli	3sg	38	i	i	3sg-2	i	24	i	7	X	I	38.I.V	1.5	i	0	52	- i - -
+253	Gane	Gane	3sg	41	i	i	3sg-2	i	24	i	7	X	I	41.I.V	1.5	i	0	52	- i - -
+254	Gebe	Gebe	3sg	42	ia	ia	3sg-2	i a	24	i a	7 7	XZ	IA	42.I.V 42.A.V	1.5 0.8	ia	0	52	- i - a
+255	Kowiai	Kowiai	3sg	45	i	i	3sg-2	i	24	i	7	X	I	45.I.V	1.5	i	0	52	- i - -
+256	Irarutu	Irarutu (Mats)	3sg	43	ia	ia	3sg-2	i a	24	i a	7 7	XZ	IA	43.I.V 43.A.V	1.5 0.8	ia	0	52	- i - a
+257	Ambel	Ambel (rem)	3sg	32	iya	iya	3sg-2	i j a	24	i j a	7 6 7	XBZ	IJA	32.I.V 32.J.C 32.A.V	1.5 1.75 0.8	ija	0	54	i j a
+258	Maya_Salawati	Ma'ya Salawati	3sg	49	ak	ak	3sg-49	a k	26	a k	7 1	XN	AK	49.A.V 49.K.c	1.5 0.8	ak	0	57	a k
+259	Sawai	Sawai (CAD)	3sg	51	i	i	3sg-2	i	24	i	7	X	I	51.I.V	1.5	i	0	52	- i - -
+260	Sekar	Sekar (ABVD)	3sg	52	ia	ia	3sg-2	i a	24	i a	7 7	XZ	IA	52.I.V 52.A.V	1.5 0.8	ia	0	52	- i - a
+261	Taba	Taba	3sg	54	i	i	3sg-2	i	24	i	7	X	I	54.I.V	1.5	i	0	52	- i - -
+262	Waropen	Waropen (held)	3sg	57	i	i	3sg-2	i	24	i	7	X	I	57.I.V	1.5	i	0	52	- i - -
+263	Umar	Umar	3sg	55	ije	ije	3sg-3	i d͡ʒ e	25	i d͡ʒ e	7 2 7	XBZ	ICE	55.I.V 55.C.C 55.E.V	1.5 1.75 0.8	id͡ʒe	0	58	i d͡ʒ e
+264	Yaur	Yaur	3sg	59	náràvè	náràvè	3sg-59	n á r à β è	27	n á r à β è	4 7 5 7 3 7	AXBYBZ	NARABE	59.N.C 59.A.V 59.R.C 59.A.V 59.B.C 59.E.V	2.0 1.5 1.75 1.3 1.75 0.8	náràβè	0	60	n á r à β è
+265	Yerisiam	Yerisiam	3sg	60	ìní	ìní	3sg-3	ì n í	25	ì n í	7 4 7	XBZ	INI	60.I.V 60.N.C 60.I.V	1.5 1.75 0.8	ìní	0	52	- ì n í
+266	Moor	Moor	3sg	50	î, ìjo	î	3sg-2	î	24	î	7	X	I	50.I.V	1.5	î	0	52	- î - -
+267	Moor	Moor	3sg	50	î, ìjo	ìjo	3sg-3	_ ì d͡ʒ o	25	_ ì d͡ʒ o	9 7 2 7	_XBZ	_ICU	50._._ 50.I.V 50.C.C 50.U.V	0.0 1.5 1.75 0.8	_ìd͡ʒo	0	53	_ ì d͡ʒ o
+268	Warembori	Warembori	3sg	56	yi	yi	3sg-2	j i	24	j i	6 7	AX	JI	56.J.C 56.I.V	2.0 1.5	ji	0	52	- - j i
+269	Cebuano_outgroup	Cebuano	above		sa itaʔas, ibabaw	sa itaʔas	above-1	s a _ i t a ʔ a s	29	s a _ i t a ʔ a s	3 7 9 7 1 7 1 7 3	AX_XBYBYN	SA_ITAHAS	.S.C .A.V ._._ .I.V .T.C .A.V .H.C .A.V .S.c	2.0 1.5 0.0 1.5 1.75 1.3 1.75 1.3 0.8	sa_itaʔas	0	65	s a _ i t a ʔ a s
+270	Cebuano_outgroup	Cebuano	above		sa itaʔas, ibabaw	ibabaw	above-2	_ i b a b a w	30	_ i b a b a w	9 7 1 7 1 7 6	_XBYBYN	_IPAPAW	._._ .I.V .P.C .A.V .P.C .A.V .W.c	0.0 1.5 1.75 1.3 1.75 1.3 0.8	_ibabaw	0	75	_ i b a b a w
+273	Wamesa	WAD	above	30	vavo	vavo	above-1	β a β o	29	β a β o	3 7 3 7	AXBZ	BABU	30.B.C 30.A.V 30.B.C 30.U.V	2.0 1.5 1.75 0.8	βaβo	0	61	β a β - - o
+274	Ambai	Ambai	above	31	aiayi	aiayi	above-31	a i a j i	31	a i a j i	7 7 7 6 7	XYYBZ	AIAJI	31.A.V 31.I.V 31.A.V 31.J.C 31.I.V	1.5 1.3 1.3 1.75 0.8	aiaji	0	63	a i a j i
+275	Ansus_PD	Ansus (P&D)	above	33	yei	yei	above-33	j e i	33	j e i	6 7 7	AXZ	JEI	33.J.C 33.E.V 33.I.V	2.0 1.5 0.8	jei	0	64	j e i
+276	Pom	Pom	above		ro wawonjei	ro wawonjei	above-33	r o _ w a w o n d͡ʒ e i	33	r o _ w a w o n d͡ʒ e i	5 7 9 6 7 6 7 4 2 7 7	AX_AXBYMBYZ	RU_WAWUNCEI	.R.C .U.V ._._ .W.C .A.V .W.C .U.V .N.c .C.C .E.V .I.V	2.0 1.5 0.0 2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	ro_wawond͡ʒei	0	69	r o _ w a w o n d͡ʒ e i
+277	Serui_Laut	Serui-Laut (slump)	above	53	babo	babo	above-1	b a b o	29	b a b o	1 7 1 7	AXBZ	PAPU	53.P.C 53.A.V 53.P.C 53.U.V	2.0 1.5 1.75 0.8	babo	0	61	b a b - - o
+278	Biak	Biak	above	36	bo	bo	above-1	b o	29	b o	1 7	AX	PU	36.P.C 36.U.V	2.0 1.5	bo	0	61	b - - - - o
+279	Roon	Roon	above		bwo	bwo	above-	b w o	28	b w o	1 6 7	ACX	PWU	.P.C .W.C .U.V	2.0 1.5 1.5	bwo	0	61	b - w - - o
+280	Arguni	Arguni	above	34	apo	apo	above-1	a p o	29	a p o	7 1 7	XBZ	APU	34.A.V 34.P.C 34.U.V	1.5 1.75 0.8	apo	0	61	- a p - - o
+281	Biga	Biga (rem)	above	37	pa|pɔwɔ	pa|pɔwɔ	above-1	p a p ɔ w ɔ	29	p a p ɔ w ɔ	1 7 1 7 6 7	AXBYBZ	PAPUWU	37.P.C 37.A.V 37.P.C 37.U.V 37.W.C 37.U.V	2.0 1.5 1.75 1.3 1.75 0.8	papɔwɔ	0	61	p a p ɔ w ɔ
+282	Buli	Buli	above	38	popô	popô	above-1	p o p ô	29	p o p ô	1 7 1 7	AXBZ	PUPU	38.P.C 38.U.V 38.P.C 38.U.V	2.0 1.5 1.75 0.8	popô	0	61	p o p - - ô
+283	Gane	Gane	above	41	payau	payau	above-1	p a j a u	29	p a j a u	1 7 6 7 7	AXBYZ	PAJAY	41.P.C 41.A.V 41.J.C 41.A.V 41.Y.V	2.0 1.5 1.75 1.3 0.8	pajau	0	62	p a j a u
+284	Gebe	Gebe	above	42	la-ya	la-ya	above-42	l a j a	34	l a j a	5 7 6 7	AXBZ	LAJA	42.L.C 42.A.V 42.J.C 42.A.V	2.0 1.5 1.75 0.8	laja	0	66	l a j a
+285	Kowiai	Kowiai	above	45	féfa	féfa	above-1	ɸ é ɸ a	29	ɸ é ɸ a	3 7 3 7	AXBZ	BEBA	45.B.C 45.E.V 45.B.C 45.A.V	2.0 1.5 1.75 0.8	ɸéɸa	0	61	ɸ é ɸ - - a
+>>>>>>> origin/master
 286	Irarutu	Irarutu (Mats)	above	43	adietə, fəfú	adietə	above-43	a d i e t ə	35	a d i e t ə	7 1 7 7 1 7	XBYYBZ	ATIETE	43.A.V 43.T.C 43.I.V 43.E.V 43.T.C 43.E.V	1.5 1.75 1.3 1.3 1.75 0.8	adietə	0	67	a d i e t ə
 287	Ambel	Ambel (rem)	above	32	-i	-i	above-32	i	32	i	7	X	I	32.I.V	1.5	i	0	76	i
 288	Sekar	Sekar (ABVD)	above	52	ami-nasin	ami-nasin	above-52	a m i n a s i n	36	a m i n a s i n	7 4 7 4 7 3 7 4	XBYBYBYN	AMINASIN	52.A.V 52.M.C 52.I.V 52.N.C 52.A.V 52.S.C 52.I.V 52.N.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	aminasin	0	70	a m i n a s i n
@@ -296,6 +553,7 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 310	Yerisiam	Yerisiam	adik	60	ráaó	ráaó	adik-2	r á a ó	42	r á a ó	5 7 7 7	AXYZ	RAAU	60.R.C 60.A.V 60.A.V 60.U.V	2.0 1.5 1.3 0.8	ráaó	0	87	r á a ó
 311	Moor	Moor	adik	50	raróti	raróti	adik-2	r a r ó t i	42	r a r ó t i	5 7 5 7 1 7	AXBYBZ	RARUTI	50.R.C 50.A.V 50.R.C 50.U.V 50.T.C 50.I.V	2.0 1.5 1.75 1.3 1.75 0.8	raróti	0	78	- r a r ó t i -
 312	Cebuano_outgroup	Cebuano	afraid, fear		mahádlok	mahádlok	afraid, fear-16	m a h á d l o k	48	m a h á d l o k	4 7 3 7 1 5 7 1	AXBYBCYN	MAHATLUK	.M.C .A.V .H.C .A.V .T.C .L.C .U.V .K.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 0.8	mahádlok	0	91	m a h á d l o k
+<<<<<<< HEAD
 315	Wamesa	WAD	afraid, fear	30	matai	matai	afraid, fear-1	m a t a i	47	m a t a i	4 7 1 7 7	AXBYZ	MATAI	30.M.C 30.A.V 30.T.C 30.A.V 30.I.V	2.0 1.5 1.75 1.3 0.8	matai	0	88	( - - ) - m a - t a i - - - -
 316	Ambai	Ambai	afraid, fear	31	matai	matai	afraid, fear-1	m a t a i	47	m a t a i	4 7 1 7 7	AXBYZ	MATAI	31.M.C 31.A.V 31.T.C 31.A.V 31.I.V	2.0 1.5 1.75 1.3 0.8	matai	0	88	( - - ) - m a - t a i - - - -
 317	Ansus_PD	Ansus (P&D)	afraid, fear	33	matai	matai	afraid, fear-1	m a t a i	47	m a t a i	4 7 1 7 7	AXBYZ	MATAI	33.M.C 33.A.V 33.T.C 33.A.V 33.I.V	2.0 1.5 1.75 1.3 0.8	matai	0	88	( - - ) - m a - t a i - - - -
@@ -317,6 +575,29 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 333	Umar	Umar	afraid, fear	55	mtat	mtat	afraid, fear-1	m t a t	47	m t a t	4 1 7 1	ACYN	MTAT	55.M.C 55.T.C 55.A.V 55.T.c	2.0 1.5 1.3 0.8	mtat	0	88	( - - ) - m - - t a - t - - -
 334	Yaur	Yaur	afraid, fear	59	gèé'rè	gèé'rè	afraid, fear-59	g è é ʔ r è	50	g è é ʔ r è	1 7 7 1 5 7	AXYBCZ	KEEHRE	59.K.C 59.E.V 59.E.V 59.H.C 59.R.C 59.E.V	2.0 1.5 1.3 1.75 1.5 0.8	gèéʔrè	0	96	g è é ʔ r è
 335	Yerisiam	Yerisiam	afraid, fear	60	ngkáké	ngkáké	afraid, fear-1	n g k á k é	47	n g k á k é	4 1 1 7 1 7	AMBYBZ	NKKAKE	60.N.C 60.K.c 60.K.C 60.A.V 60.K.C 60.E.V	2.0 1.1 1.75 1.3 1.75 0.8	ngkáké	0	88	( n g ) - - - - k á - k é - -
+=======
+315	Wamesa	WAD	afraid, fear	30	matai	matai	afraid, fear-1	m a t a i	47	m a t a i	4 7 1 7 7	AXBYZ	MATAI	30.M.C 30.A.V 30.T.C 30.A.V 30.I.V	2.0 1.5 1.75 1.3 0.8	matai	0	89	m a - t a i
+316	Ambai	Ambai	afraid, fear	31	matai	matai	afraid, fear-1	m a t a i	47	m a t a i	4 7 1 7 7	AXBYZ	MATAI	31.M.C 31.A.V 31.T.C 31.A.V 31.I.V	2.0 1.5 1.75 1.3 0.8	matai	0	89	m a - t a i
+317	Ansus_PD	Ansus (P&D)	afraid, fear	33	matai	matai	afraid, fear-1	m a t a i	47	m a t a i	4 7 1 7 7	AXBYZ	MATAI	33.M.C 33.A.V 33.T.C 33.A.V 33.I.V	2.0 1.5 1.75 1.3 0.8	matai	0	89	m a - t a i
+318	Ansus_EG	Ansus (EG)	afraid, fear		matai	matai	afraid, fear-	m a t a i	46	m a t a i	4 7 1 7 7	AXBYZ	MATAI	.M.C .A.V .T.C .A.V .I.V	2.0 1.5 1.75 1.3 0.8	matai	0	89	m a - t a i
+319	Pom	Pom	afraid, fear		matai	matai	afraid, fear-	m a t a i	46	m a t a i	4 7 1 7 7	AXBYZ	MATAI	.M.C .A.V .T.C .A.V .I.V	2.0 1.5 1.75 1.3 0.8	matai	0	89	m a - t a i
+320	Serui_Laut	Serui-Laut (slump)	afraid, fear	53	maitai	maitai	afraid, fear-1	m a i t a i	47	m a i t a i	4 7 7 1 7 7	AXYBYZ	MAITAI	53.M.C 53.A.V 53.I.V 53.T.C 53.A.V 53.I.V	2.0 1.5 1.3 1.75 1.3 0.8	maitai	0	89	m a i t a i
+321	Biak	Biak	afraid, fear	36	mkāk	mkāk	afraid, fear-1	m k ā k	47	m k ā k	4 1 7 1	ACYN	MKAK	36.M.C 36.K.C 36.A.V 36.K.c	2.0 1.5 1.3 0.8	mkāk	0	88	- - m k ā - k -
+322	Roon	Roon	afraid, fear		makak	makak	afraid, fear-	m a k a k	46	m a k a k	4 7 1 7 1	AXBYN	MAKAK	.M.C .A.V .K.C .A.V .K.c	2.0 1.5 1.75 1.3 0.8	makak	0	90	m a - k a k -
+323	Dusner	Dusner	afraid, fear	39	mtat	mtat	afraid, fear-1	m t a t	47	m t a t	4 1 7 1	ACYN	MTAT	39.M.C 39.T.C 39.A.V 39.T.c	2.0 1.5 1.3 0.8	mtat	0	88	- - m t a - t -
+324	Biga	Biga (rem)	afraid, fear	37	mtat	mtat	afraid, fear-1	m t a t	47	m t a t	4 1 7 1	ACYN	MTAT	37.M.C 37.T.C 37.A.V 37.T.c	2.0 1.5 1.3 0.8	mtat	0	88	- - m t a - t -
+325	Buli	Buli	afraid, fear	38	am-cait	am-cait	afraid, fear-1	a m c a i t	47	a m c a i t	7 4 1 7 7 1	XMBYYN	AMCAIT	38.A.V 38.M.c 38.C.C 38.A.V 38.I.V 38.T.c	1.5 1.1 1.75 1.3 1.3 0.8	amcait	0	88	- a m c a i t -
+326	Gebe	Gebe	afraid, fear	42	mtait	mtait	afraid, fear-1	m t a i t	47	m t a i t	4 1 7 7 1	ACYYN	MTAIT	42.M.C 42.T.C 42.A.V 42.I.V 42.T.c	2.0 1.5 1.3 1.3 0.8	mtait	0	88	- - m t a i t -
+327	Kowiai	Kowiai	afraid, fear	45	matatu	matatu	afraid, fear-1	m a t a t u	47	m a t a t u	4 7 1 7 1 7	AXBYBZ	MATATY	45.M.C 45.A.V 45.T.C 45.A.V 45.T.C 45.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	matatu	0	88	m a - t a - t u
+328	Irarutu	Irarutu (Mats)	afraid, fear	43	mta-t|e	mta-t|e	afraid, fear-1	m t a t e	47	m t a t e	4 1 7 1 7	ACYBZ	MTATE	43.M.C 43.T.C 43.A.V 43.T.C 43.E.V	2.0 1.5 1.3 1.75 0.8	mtate	0	88	m - - t a - t e
+329	Ambel	Ambel (rem)	afraid, fear	32	n-amcát	n-amcát	afraid, fear-1	n a m c á t	47	n a m c á t	4 7 4 1 7 1	AXMBYN	NAMCAT	32.N.C 32.A.V 32.M.c 32.C.C 32.A.V 32.T.c	2.0 1.5 1.1 1.75 1.3 0.8	namcát	0	88	n a m c á - t -
+330	Matbat	Matbat	afraid, fear	47	sa²¹t	sa²¹t	afraid, fear-47	s ²¹/a t	49	s a t	3 7 1	AXN	SAT	47.S.C 47.A.V 47.T.c	2.0 1.5 0.8	sat	0	92	s ²¹/a t
+331	Maya_Salawati	Ma'ya Salawati	afraid, fear	49	wa-m’ta12T	wa-m’ta12T	afraid, fear-1	w a m ʔ t ¹²/a T/t	47	w a m ʔ t a t	6 7 4 1 1 7 1	AXLMBYN	WAMHTAT	49.W.C 49.A.V 49.M.c 49.H.c 49.T.C 49.A.V 49.T.c	2.0 1.5 1.1 1.1 1.75 1.3 0.8	wamʔtat	0	93	w a m ʔ t ¹²/a T/t
+332	Waropen	Waropen (held)	afraid, fear	57	akako	akako	afraid, fear-1	a k a k o	47	a k a k o	7 1 7 1 7	XBYBZ	AKAKU	57.A.V 57.K.C 57.A.V 57.K.C 57.U.V	1.5 1.75 1.3 1.75 0.8	akako	0	90	- a - k a k o
+333	Umar	Umar	afraid, fear	55	mtat	mtat	afraid, fear-1	m t a t	47	m t a t	4 1 7 1	ACYN	MTAT	55.M.C 55.T.C 55.A.V 55.T.c	2.0 1.5 1.3 0.8	mtat	0	88	- - m t a - t -
+334	Yaur	Yaur	afraid, fear	59	gèé'rè	gèé'rè	afraid, fear-59	g è é ʔ r è	50	g è é ʔ r è	1 7 7 1 5 7	AXYBCZ	KEEHRE	59.K.C 59.E.V 59.E.V 59.H.C 59.R.C 59.E.V	2.0 1.5 1.3 1.75 1.5 0.8	gèéʔrè	0	96	g è é ʔ r è
+335	Yerisiam	Yerisiam	afraid, fear	60	ngkáké	ngkáké	afraid, fear-1	n g k á k é	47	n g k á k é	4 1 1 7 1 7	AMBYBZ	NKKAKE	60.N.C 60.K.c 60.K.C 60.A.V 60.K.C 60.E.V	2.0 1.1 1.75 1.3 1.75 0.8	ngkáké	0	90	n - g k á k é
+>>>>>>> origin/master
 336	Moor	Moor	afraid, fear	50	muká'a	muká'a	afraid, fear-1	m u k á ʔ a	47	m u k á ʔ a	4 7 1 7 1 7	AXBYBZ	MYKAHA	50.M.C 50.Y.V 50.K.C 50.A.V 50.H.C 50.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mukáʔa	0	94	m u k á ʔ a
 337	Warembori	Warembori	afraid, fear	56	avori-o	avori-o	afraid, fear-	a β o r i o	46	a β o r i o	7 3 7 5 7 7	XBYBYZ	ABURIU	56.A.V 56.B.C 56.U.V 56.R.C 56.I.V 56.U.V	1.5 1.75 1.3 1.75 1.3 0.8	aβorio	1	95	a β o r i o
 338	Cebuano_outgroup	Cebuano	all		tanán	tanán	all-24	t a n á n	54	t a n á n	1 7 4 7 4	AXBYN	TANAN	.T.C .A.V .N.C .A.V .N.c	2.0 1.5 1.75 1.3 0.8	tanán	0	98	t a n á n -
@@ -386,6 +667,7 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 404	Yerisiam	Yerisiam	anchor	60	kámútúuve	kámútúuve	anchor-1	k á m ú t ú u β e	85	k á m ú t ú u β e	1 7 4 7 1 7 7 3 7	AXBYBYYBZ	KAMYTYYBE	60.K.C 60.A.V 60.M.C 60.Y.V 60.T.C 60.Y.V 60.Y.V 60.B.C 60.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	kámútúuβe	0	124	k á m ú t ú u β - e
 405	Moor	Moor	anchor	50	kamitúa	kamitúa	anchor-1	k a m i t ú a	85	k a m i t ú a	1 7 4 7 1 7 7	AXBYBYZ	KAMITYA	50.K.C 50.A.V 50.M.C 50.I.V 50.T.C 50.Y.V 50.A.V	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kamitúa	0	124	k a m i t ú a - - -
 406	Warembori	Warembori	anchor	56	avori-o	avori-o	anchor-56	a β o r i o	87	a β o r i o	7 3 7 5 7 7	XBYBYZ	ABURIU	56.A.V 56.B.C 56.U.V 56.R.C 56.I.V 56.U.V	1.5 1.75 1.3 1.75 1.3 0.8	aβorio	0	125	a β o r i o
+<<<<<<< HEAD
 407	Cebuano_outgroup	Cebuano	and		ug	ug	and-25	u g	90	u g	7 1	XN	YK	.Y.V .K.c	1.5 0.8	ug	0	129	- u ( - ) - - - - g
 410	Wamesa	WAD	and	30	ma	ma	and-1	m a	89	m a	4 7	AX	MA	30.M.C 30.A.V	2.0 1.5	ma	0	128	m a -
 411	Ambai	Ambai	and	31	mae	mae	and-1	m a e	89	m a e	4 7 7	AXZ	MAE	31.M.C 31.A.V 31.E.V	2.0 1.5 0.8	mae	0	128	m a e
@@ -406,6 +688,28 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 426	Taba	Taba	and	54	lo	lo	and-54	l o	95	l o	5 7	AX	LU	54.L.C 54.U.V	2.0 1.5	lo	0	136	l o
 427	Waropen	Waropen (held)	and	57	ma	ma	and-1	m a	89	m a	4 7	AX	MA	57.M.C 57.A.V	2.0 1.5	ma	0	128	m a -
 428	Yaur	Yaur	and	59	ènèhě	ènèhě	and-59	è n è h ě	96	è n è h ě	7 4 7 3 7	XBYBZ	ENEHE	59.E.V 59.N.C 59.E.V 59.H.C 59.E.V	1.5 1.75 1.3 1.75 0.8	ènèhě	0	129	- è ( - ) n è h ě -
+=======
+407	Cebuano_outgroup	Cebuano	and		ug	ug	and-25	u g	90	u g	7 1	XN	YK	.Y.V .K.c	1.5 0.8	ug	0	129	- - - u g - -
+410	Wamesa	WAD	and	30	ma	ma	and-1	m a	89	m a	4 7	AX	MA	30.M.C 30.A.V	2.0 1.5	ma	0	128	m a -
+411	Ambai	Ambai	and	31	mae	mae	and-1	m a e	89	m a e	4 7 7	AXZ	MAE	31.M.C 31.A.V 31.E.V	2.0 1.5 0.8	mae	0	128	m a e
+412	Ansus_EG	Ansus (EG)	and		ko	ko	and-	k o	88	k o	1 7	AX	KU	.K.C .U.V	2.0 1.5	ko	1	129	- - k o - - -
+413	Pom	Pom	and		kon	kon	and-	k o n	88	k o n	1 7 4	AXN	KUN	.K.C .U.V .N.c	2.0 1.5 0.8	kon	0	129	- - k o n - -
+414	Serui_Laut	Serui-Laut (slump)	and	53	ma	ma	and-	m a	88	m a	4 7	AX	MA	53.M.C 53.A.V	2.0 1.5	ma	0	128	m a -
+415	Kurudu	KURUDU	and	69	tutre	tutre	and-	t u t r e	88	t u t r e	1 7 1 5 7	AXBCZ	TYTRE	69.T.C 69.Y.V 69.T.C 69.R.C 69.E.V	2.0 1.5 1.75 1.5 0.8	tutre	0	134	t u t r e
+416	Biak	Biak	and	36	ma	ma	and-1	m a	89	m a	4 7	AX	MA	36.M.C 36.A.V	2.0 1.5	ma	0	128	m a -
+417	Biak_Betew	Biak Betew (Mutus)	and		i-fnouk, ma	i-fnouk	and-	i ɸ n o u k	88	i ɸ n o u k	7 3 4 7 7 1	XBCYYN	IBNUYK	.I.V .B.C .N.C .U.V .Y.V .K.c	1.5 1.75 1.5 1.3 1.3 0.8	iɸnouk	0	129	i ɸ n o - u k
+418	Biak_Numfor	Biak Numfoor (Mandori)	and		ma	ma	and-	m a	88	m a	4 7	AX	MA	.M.C .A.V	2.0 1.5	ma	0	128	m a -
+419	Roswar	Roswar	and	70	na	na	and-	n a	88	n a	4 7	AX	NA	70.N.C 70.A.V	2.0 1.5	na	0	135	n a
+420	Roon	Roon	and		kuker	kuker	and-	k u k e r	88	k u k e r	1 7 1 7 5	AXBYN	KYKER	.K.C .Y.V .K.C .E.V .R.c	2.0 1.5 1.75 1.3 0.8	kuker	0	129	- - k u k e r
+421	Dusner	Dusner	and	39	me, erve	me	and-1	m e	89	m e	4 7	AX	ME	39.M.C 39.E.V	2.0 1.5	me	0	128	m e -
+422	Buli	Buli	and	38	re	re	and-38	r e	91	r e	5 7	AX	RE	38.R.C 38.E.V	2.0 1.5	re	0	130	r e
+423	Gane	Gane	and	41	de	de	and-41	d e	92	d e	1 7	AX	TE	41.T.C 41.E.V	2.0 1.5	de	0	131	d e
+424	Kowiai	Kowiai	and	45	ia, nata	ia	and-45	i a	94	i a	7 7	XZ	IA	45.I.V 45.A.V	1.5 0.8	ia	0	133	i a
+425	Irarutu	Irarutu (Mats)	and	43	nere	nere	and-43	n e r e	93	n e r e	4 7 5 7	AXBZ	NERE	43.N.C 43.E.V 43.R.C 43.E.V	2.0 1.5 1.75 0.8	nere	0	132	n e r e
+426	Taba	Taba	and	54	lo	lo	and-54	l o	95	l o	5 7	AX	LU	54.L.C 54.U.V	2.0 1.5	lo	0	136	l o
+427	Waropen	Waropen (held)	and	57	ma	ma	and-1	m a	89	m a	4 7	AX	MA	57.M.C 57.A.V	2.0 1.5	ma	0	128	m a -
+428	Yaur	Yaur	and	59	ènèhě	ènèhě	and-59	è n è h ě	96	è n è h ě	7 4 7 3 7	XBYBZ	ENEHE	59.E.V 59.N.C 59.E.V 59.H.C 59.E.V	1.5 1.75 1.3 1.75 0.8	ènèhě	0	129	è - n è h ě -
+>>>>>>> origin/master
 429	Warembori	Warembori	and	56	tu	tu	and-	t u	88	t u	1 7	AX	TY	56.T.C 56.Y.V	2.0 1.5	tu	0	137	t u
 430	Cebuano_outgroup	Cebuano	angry		nasuko	nasuko	angry-	n a s u k o	97	n a s u k o	4 7 3 7 1 7	AXBYBZ	NASYKU	.N.C .A.V .S.C .Y.V .K.C .U.V	2.0 1.5 1.75 1.3 1.75 0.8	nasuko	0	138	n a - s u k o
 431	Wamesa	WAD	angry	30	kasio	kasio	angry-1	k a s i o	98	k a s i o	1 7 3 7 7	AXBYZ	KASIU	30.K.C 30.A.V 30.S.C 30.I.V 30.U.V	2.0 1.5 1.75 1.3 0.8	kasio	0	138	k a - s i - o
@@ -415,8 +719,13 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 435	Kurudu	KURUDU	angry	69	wertndo	wertndo	angry-	w e r t n d o	97	w e r t n d o	6 7 5 1 4 1 7	AXMBYBZ	WERTNTU	69.W.C 69.E.V 69.R.c 69.T.C 69.N.V 69.T.C 69.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	wertndo	0	146	w e r t n d o
 436	Biak_Betew	Biak Betew (Mutus)	angry		ya-mtoer	ya-mtoer	angry-	j a m t o e r	97	j a m t o e r	6 7 4 1 7 7 5	AXMBYYN	JAMTUER	.J.C .A.V .M.c .T.C .U.V .E.V .R.c	2.0 1.5 1.1 1.75 1.3 1.3 0.8	jamtoer	0	149	j a m t o e r
 437	Biak_Numfor	Biak Numfoor (Mandori)	angry		ya-rmomen	ya-rmomen	angry-	j a r m o m e n	97	j a r m o m e n	6 7 5 4 7 4 7 4	AXMBYBYN	JARMUMEN	.J.C .A.V .R.c .M.C .U.V .M.C .E.V .N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	jarmomen	0	148	j a r m o m e n
+<<<<<<< HEAD
 438	Roswar	Roswar	angry	70	ay-msor	ay-msor	angry-	a j m s o r	97	a j m s o r	7 6 4 3 7 5	XLMBYN	AJMSUR	70.A.V 70.J.c 70.M.c 70.S.C 70.U.V 70.R.c	1.5 1.1 1.1 1.75 1.3 0.8	ajmsor	0	139	a j m - s o r -
 439	Roon	Roon	angry		mosor	mosor	angry-	m o s o r	97	m o s o r	4 7 3 7 5	AXBYN	MUSUR	.M.C .U.V .S.C .U.V .R.c	2.0 1.5 1.75 1.3 0.8	mosor	0	139	- - m o s o r -
+=======
+438	Roswar	Roswar	angry	70	ay-msor	ay-msor	angry-	a j m s o r	97	a j m s o r	7 6 4 3 7 5	XLMBYN	AJMSUR	70.A.V 70.J.c 70.M.c 70.S.C 70.U.V 70.R.c	1.5 1.1 1.1 1.75 1.3 0.8	ajmsor	0	144	a j m s o r
+439	Roon	Roon	angry		mosor	mosor	angry-	m o s o r	97	m o s o r	4 7 3 7 5	AXBYN	MUSUR	.M.C .U.V .S.C .U.V .R.c	2.0 1.5 1.75 1.3 0.8	mosor	0	139	m o s o r -
+>>>>>>> origin/master
 440	Dusner	Dusner	angry	39	arsai	arsai	angry-39	a r s a i	99	a r s a i	7 5 3 7 7	XMBYZ	ARSAI	39.A.V 39.R.c 39.S.C 39.A.V 39.I.V	1.5 1.1 1.75 1.3 0.8	arsai	0	147	a r s a i
 441	Maya_Misool	Ma'ya Misool	angry	48	ga¹²t	ga¹²t	angry-48	g ¹²/a t	100	g a t	1 7 1	AXN	KAT	48.K.C 48.A.V 48.T.c	2.0 1.5 0.8	gat	0	140	g ¹²/a t
 442	Maya_Salawati	Ma'ya Salawati	angry	49	ga¹²t	ga¹²t	angry-48	g ¹²/a t	100	g a t	1 7 1	AXN	KAT	49.K.C 49.A.V 49.T.c	2.0 1.5 0.8	gat	0	140	g ¹²/a t
@@ -424,7 +733,11 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 444	Yaur	Yaur	angry	59	hnáu'rè	hnáu'rè	angry-59	h n á u ʔ r è	103	h n á u ʔ r è	3 4 7 7 1 5 7	ACXYBCZ	HNAYHRE	59.H.C 59.N.C 59.A.V 59.Y.V 59.H.C 59.R.C 59.E.V	2.0 1.5 1.5 1.3 1.75 1.5 0.8	hnáuʔrè	0	142	h n á u ʔ r è
 445	Yerisiam	Yerisiam	angry	60	mátúùnè	mátúùnè	angry-60	m á t ú ù n è	104	m á t ú ù n è	4 7 1 7 7 4 7	AXBYYBZ	MATYYNE	60.M.C 60.A.V 60.T.C 60.Y.V 60.Y.V 60.N.C 60.E.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	mátúùnè	0	141	m á t ú ù n è
 446	Moor	Moor	angry	50	rorarî, tohamî	rorarî	angry-50	r o r a r î	101	r o r a r î	5 7 5 7 5 7	AXBYBZ	RURARI	50.R.C 50.U.V 50.R.C 50.A.V 50.R.C 50.I.V	2.0 1.5 1.75 1.3 1.75 0.8	rorarî	0	145	r o r a r î
+<<<<<<< HEAD
 447	Warembori	Warembori	angry	56	dore	dore	angry-	d o r e	97	d o r e	1 7 5 7	AXBZ	TURE	56.T.C 56.U.V 56.R.C 56.E.V	2.0 1.5 1.75 0.8	dore	0	139	- d - - - o r e
+=======
+447	Warembori	Warembori	angry	56	dore	dore	angry-	d o r e	97	d o r e	1 7 5 7	AXBZ	TURE	56.T.C 56.U.V 56.R.C 56.E.V	2.0 1.5 1.75 0.8	dore	0	139	- - d o r e
+>>>>>>> origin/master
 448	Cebuano_outgroup	Cebuano	ant		hulmigas	hulmigas	ant-	h u l m i g a s	105	h u l m i g a s	3 7 5 4 7 1 7 3	AXMBYBYN	HYLMIKAS	.H.C .Y.V .L.c .M.C .I.V .K.C .A.V .S.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	hulmigas	0	155	h u l m i g a s
 449	Wamesa	WAD	ant	30	anana	anana	ant-1	a n a n a	106	a n a n a	7 4 7 4 7	XBYBZ	ANANA	30.A.V 30.N.C 30.A.V 30.N.C 30.A.V	1.5 1.75 1.3 1.75 0.8	anana	0	150	a - - n a n a -
 450	Ambai	Ambai	ant	31	anana	anana	ant-1	a n a n a	106	a n a n a	7 4 7 4 7	XBYBZ	ANANA	31.A.V 31.N.C 31.A.V 31.N.C 31.A.V	1.5 1.75 1.3 1.75 0.8	anana	0	150	a - - n a n a -
@@ -440,6 +753,7 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 460	Yaur	Yaur	ant	59	réndìiré	réndìiré	ant-59	r é n d ì i r é	111	r é n d ì i r é	5 7 4 1 7 7 5 7	AXMBYYBZ	RENTIIRE	59.R.C 59.E.V 59.N.c 59.T.C 59.I.V 59.I.V 59.R.C 59.E.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	réndìiré	0	151	r é n d ì i r é
 461	Yerisiam	Yerisiam	ant	60	ánííní	ánííní	ant-1	á n íː n í	106	á n íː n í	7 4 7 4 7	XBYBZ	ANINI	60.A.V 60.N.C 60.I.V 60.N.C 60.I.V	1.5 1.75 1.3 1.75 0.8	áníːní	0	150	á - - n íː n í -
 462	Moor	Moor	ant	50	rìrama	rìrama	ant-50	r ì r a m a	109	r ì r a m a	5 7 5 7 4 7	AXBYBZ	RIRAMA	50.R.C 50.I.V 50.R.C 50.A.V 50.M.C 50.A.V	2.0 1.5 1.75 1.3 1.75 0.8	rìrama	0	153	r ì r a m a
+<<<<<<< HEAD
 463	Cebuano_outgroup	Cebuano	ash		ágiw	ágiw	ash-1	á g i w	113	á g i w	7 1 7 6	XBYN	AKIW	.A.V .K.C .I.V .W.c	1.5 1.75 1.3 0.8	ágiw	0	157	á g - - i w - -
 466	Wamesa	WAD	ash	30	wabu	wabu	ash-1	w a b u	113	w a b u	6 7 1 7	AXBZ	WAPY	30.W.C 30.A.V 30.P.C 30.Y.V	2.0 1.5 1.75 0.8	wabu	0	157	- w a b u - - -
 467	Ambai	Ambai	ash	31	kaŋgana	kaŋgana	ash-31	k a ŋ g a n a	114	k a ŋ g a n a	1 7 4 1 7 4 7	AXMBYBZ	KANKANA	31.K.C 31.A.V 31.N.c 31.K.C 31.A.V 31.N.C 31.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	kaŋgana	0	171	k a ŋ g a n a
@@ -452,6 +766,20 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 474	Biak	Biak	ash	36	pàt	pàt	ash-36	p à t	115	p à t	1 7 1	AXN	PAT	36.P.C 36.A.V 36.T.c	2.0 1.5 0.8	pàt	0	172	p à t
 475	Biak_Betew	Biak Betew (Mutus)	ash		fafen	fafen	ash-	ɸ a ɸ e n	112	ɸ a ɸ e n	3 7 3 7 4	AXBYN	BABEN	.B.C .A.V .B.C .E.V .N.c	2.0 1.5 1.75 1.3 0.8	ɸaɸen	0	157	- ɸ a ɸ e n - -
 476	Biak_Numfor	Biak Numfoor (Mandori)	ash		woref	woref	ash-	w o r e ɸ	112	w o r e ɸ	6 7 5 7 3	AXBYN	WUREB	.W.C .U.V .R.C .E.V .B.c	2.0 1.5 1.75 1.3 0.8	woreɸ	0	157	- w o - - r e ɸ
+=======
+463	Cebuano_outgroup	Cebuano	ash		ágiw	ágiw	ash-1	á g i w	113	á g i w	7 1 7 6	XBYN	AKIW	.A.V .K.C .I.V .W.c	1.5 1.75 1.3 0.8	ágiw	0	157	- - - á g i w
+466	Wamesa	WAD	ash	30	wabu	wabu	ash-1	w a b u	113	w a b u	6 7 1 7	AXBZ	WAPY	30.W.C 30.A.V 30.P.C 30.Y.V	2.0 1.5 1.75 0.8	wabu	0	157	- - w a b u -
+467	Ambai	Ambai	ash	31	kaŋgana	kaŋgana	ash-31	k a ŋ g a n a	114	k a ŋ g a n a	1 7 4 1 7 4 7	AXMBYBZ	KANKANA	31.K.C 31.A.V 31.N.c 31.K.C 31.A.V 31.N.C 31.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	kaŋgana	0	171	k a ŋ g a n a
+468	Ansus_PD	Ansus (P&D)	ash	33	wawu	wawu	ash-1	w a w u	113	w a w u	6 7 6 7	AXBZ	WAWY	33.W.C 33.A.V 33.W.C 33.Y.V	2.0 1.5 1.75 0.8	wawu	0	157	- - w a w u -
+469	Ansus_EG	Ansus (EG)	ash		wavu	wavu	ash-	w a β u	112	w a β u	6 7 3 7	AXBZ	WABY	.W.C .A.V .B.C .Y.V	2.0 1.5 1.75 0.8	waβu	0	157	- - w a β u -
+470	Pom	Pom	ash		wavu	wavu	ash-	w a β u	112	w a β u	6 7 3 7	AXBZ	WABY	.W.C .A.V .B.C .Y.V	2.0 1.5 1.75 0.8	waβu	0	157	- - w a β u -
+471	Serewen	Serewen	ash		wavu	wavu	ash-	w a β u	112	w a β u	6 7 3 7	AXBZ	WABY	.W.C .A.V .B.C .Y.V	2.0 1.5 1.75 0.8	waβu	0	157	- - w a β u -
+472	Serui_Laut	Serui-Laut (slump)	ash	53	wawu	wawu	ash-1	w a w u	113	w a w u	6 7 6 7	AXBZ	WAWY	53.W.C 53.A.V 53.W.C 53.Y.V	2.0 1.5 1.75 0.8	wawu	0	157	- - w a w u -
+473	Kurudu	KURUDU	ash	69	pinse	pinse	ash-	p i n s e	112	p i n s e	1 7 4 3 7	AXMBZ	PINSE	69.P.C 69.I.V 69.N.c 69.S.C 69.E.V	2.0 1.5 1.1 1.75 0.8	pinse	0	159	- - p i n s e
+474	Biak	Biak	ash	36	pàt	pàt	ash-36	p à t	115	p à t	1 7 1	AXN	PAT	36.P.C 36.A.V 36.T.c	2.0 1.5 0.8	pàt	0	172	p à t
+475	Biak_Betew	Biak Betew (Mutus)	ash		fafen	fafen	ash-	ɸ a ɸ e n	112	ɸ a ɸ e n	3 7 3 7 4	AXBYN	BABEN	.B.C .A.V .B.C .E.V .N.c	2.0 1.5 1.75 1.3 0.8	ɸaɸen	0	157	- - ɸ a ɸ e n
+476	Biak_Numfor	Biak Numfoor (Mandori)	ash		woref	woref	ash-	w o r e ɸ	112	w o r e ɸ	6 7 5 7 3	AXBYN	WUREB	.W.C .U.V .R.C .E.V .B.c	2.0 1.5 1.75 1.3 0.8	woreɸ	0	157	- - w o r e ɸ
+>>>>>>> origin/master
 477	Roswar	Roswar	ash	70	fafen	fafen	ash-	ɸ a ɸ e n	112	ɸ a ɸ e n	3 7 3 7 4	AXBYN	BABEN	70.B.C 70.A.V 70.B.C 70.E.V 70.N.c	2.0 1.5 1.75 1.3 0.8	ɸaɸen	0	161	- - ɸ a ɸ e n
 478	Roon	Roon	ash		for yuv	for yuv	ash-	ɸ o r _ j u β	112	ɸ o r _ j u β	3 7 5 9 6 7 3	AXN_AXN	BUR_JYB	.B.C .U.V .R.c ._._ .J.C .Y.V .B.c	2.0 1.5 0.8 0.0 2.0 1.5 0.8	ɸor_juβ	0	166	ɸ o r _ j u β
 479	Arguni	Arguni	ash	34	avu|ne	avu|ne	ash-1	a β u n e	113	a β u n e	7 3 7 4 7	XBYBZ	ABYNE	34.A.V 34.B.C 34.Y.V 34.N.C 34.E.V	1.5 1.75 1.3 1.75 0.8	aβune	0	170	a β u n e
@@ -473,11 +801,19 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 495	Sekar	Sekar (ABVD)	ash	52	afiruk	afiruk	ash-1	a ɸ i r u k	113	a ɸ i r u k	7 3 7 5 7 1	XBYBYN	ABIRYK	52.A.V 52.B.C 52.I.V 52.R.C 52.Y.V 52.K.c	1.5 1.75 1.3 1.75 1.3 0.8	aɸiruk	0	165	a ɸ i r u k
 496	Taba	Taba	ash	54	yapyap	yapyap	ash-1	j a p j a p	113	j a p j a p	6 7 1 6 7 1	AXBCYN	JAPJAP	54.J.C 54.A.V 54.P.C 54.J.C 54.A.V 54.P.c	2.0 1.5 1.75 1.5 1.3 0.8	japjap	0	164	j a p j a p
 497	Wauyai	Wauyai	ash	58	galap	galap	ash-1	g a l a p	113	g a l a p	1 7 5 7 1	AXBYN	KALAP	58.K.C 58.A.V 58.L.C 58.A.V 58.P.c	2.0 1.5 1.75 1.3 0.8	galap	0	158	g - - a l a p
+<<<<<<< HEAD
 498	Waropen	Waropen (held)	ash	57	awu	awu	ash-1	a w u	113	a w u	7 6 7	XBZ	AWY	57.A.V 57.W.C 57.Y.V	1.5 1.75 0.8	awu	0	157	a w - - u - - -
 499	Umar	Umar	ash	55	au	au	ash-1	a u	113	a u	7 7	XZ	AY	55.A.V 55.Y.V	1.5 0.8	au	0	163	a u
 500	Yaur	Yaur	ash	59	gwép née'rè	gwép née'rè	ash-59	gʷ é p _ n é e ʔ r è	120	gʷ é p _ n é e ʔ r è	1 7 1 9 4 7 7 1 5 7	AXN_AXYBCZ	KEP_NEEHRE	59.K.C 59.E.V 59.P.c 59._._ 59.N.C 59.E.V 59.E.V 59.H.C 59.R.C 59.E.V	2.0 1.5 0.8 0.0 2.0 1.5 1.3 1.75 1.5 0.8	gʷép_néeʔrè	0	162	gʷ é p _ n é e ʔ r è
 501	Moor	Moor	ash	50	áha	áha	ash-50	á h a	119	á h a	7 3 7	XBZ	AHA	50.A.V 50.H.C 50.A.V	1.5 1.75 0.8	áha	0	167	á h a
 502	Warembori	Warembori	ash	56	aivu-ro	aivu-ro	ash-1	a i β u r o	113	a i β u r o	7 7 3 7 5 7	XYBYBZ	AIBYRU	56.A.V 56.I.V 56.B.C 56.Y.V 56.R.C 56.U.V	1.5 1.3 1.75 1.3 1.75 0.8	aiβuro	0	157	a i - β u r o -
+=======
+498	Waropen	Waropen (held)	ash	57	awu	awu	ash-1	a w u	113	a w u	7 6 7	XBZ	AWY	57.A.V 57.W.C 57.Y.V	1.5 1.75 0.8	awu	0	157	a - w u - - -
+499	Umar	Umar	ash	55	au	au	ash-1	a u	113	a u	7 7	XZ	AY	55.A.V 55.Y.V	1.5 0.8	au	0	163	a u
+500	Yaur	Yaur	ash	59	gwép née'rè	gwép née'rè	ash-59	gʷ é p _ n é e ʔ r è	120	gʷ é p _ n é e ʔ r è	1 7 1 9 4 7 7 1 5 7	AXN_AXYBCZ	KEP_NEEHRE	59.K.C 59.E.V 59.P.c 59._._ 59.N.C 59.E.V 59.E.V 59.H.C 59.R.C 59.E.V	2.0 1.5 0.8 0.0 2.0 1.5 1.3 1.75 1.5 0.8	gʷép_néeʔrè	0	162	gʷ é p _ n é e ʔ r è
+501	Moor	Moor	ash	50	áha	áha	ash-50	á h a	119	á h a	7 3 7	XBZ	AHA	50.A.V 50.H.C 50.A.V	1.5 1.75 0.8	áha	0	167	á h a
+502	Warembori	Warembori	ash	56	aivu-ro	aivu-ro	ash-1	a i β u r o	113	a i β u r o	7 7 3 7 5 7	XYBYBZ	AIBYRU	56.A.V 56.I.V 56.B.C 56.Y.V 56.R.C 56.U.V	1.5 1.3 1.75 1.3 1.75 0.8	aiβuro	0	157	a i β u r o -
+>>>>>>> origin/master
 503	Cebuano_outgroup	Cebuano	ask		mangutana	mangutana	ask-	m a n g u t a n a	121	m a n g u t a n a	4 7 4 1 7 1 7 4 7	AXMBYBYBZ	MANKYTANA	.M.C .A.V .N.c .K.C .Y.V .T.C .A.V .N.C .A.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8	mangutana	0	173	m a n g u t - a n a
 505	Wamesa	WAD	ask	30	uta	uta	ask-1	u t a	122	u t a	7 1 7	XBZ	YTA	30.Y.V 30.T.C 30.A.V	1.5 1.75 0.8	uta	1	173	- - - - u t - a - -
 506	Ambai	Ambai	ask	31	utan	utan	ask-1	u t a n	122	u t a n	7 1 7 4	XBYN	YTAN	31.Y.V 31.T.C 31.A.V 31.N.c	1.5 1.75 1.3 0.8	utan	0	173	- - - - u t - a n -
@@ -489,6 +825,7 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 512	Dusner	Dusner	ask	39	putna	putna	ask-1	p u t n a	122	p u t n a	1 7 1 4 7	AXBCZ	PYTNA	39.P.C 39.Y.V 39.T.C 39.N.C 39.A.V	2.0 1.5 1.75 1.5 0.8	putna	0	173	p - - - u t n a - -
 513	Buli	Buli	ask	38	fa-utan	fa-utan	ask-1	ɸ a u t a n	122	ɸ a u t a n	3 7 7 1 7 4	AXYBYN	BAYTAN	38.B.C 38.A.V 38.Y.V 38.T.C 38.A.V 38.N.c	2.0 1.5 1.3 1.75 1.3 0.8	ɸautan	0	173	ɸ a - - u t - a n -
 514	Umar	Umar	ask	55	hinto	hinto	ask-55	h i n t o	123	h i n t o	3 7 4 1 7	AXMBZ	HINTU	55.H.C 55.I.V 55.N.c 55.T.C 55.U.V	2.0 1.5 1.1 1.75 0.8	hinto	0	175	h i n t o
+<<<<<<< HEAD
 515	Yaur	Yaur	ask	59	hùhùú'ré	hùhùú'ré	ask-59	h ù h ù ú ʔ r é	124	h ù h ù ú ʔ r é	3 7 3 7 7 1 5 7	AXBYYBCZ	HYHYYHRE	59.H.C 59.Y.V 59.H.C 59.Y.V 59.Y.V 59.H.C 59.R.C 59.E.V	2.0 1.5 1.75 1.3 1.3 1.75 1.5 0.8	hùhùúʔré	0	174	- h ù h ù ú ʔ r é
 516	Yerisiam	Yerisiam	ask	60	àhàhú	àhàhú	ask-59	à h à h ú	124	à h à h ú	7 3 7 3 7	XBYBZ	AHAHY	60.A.V 60.H.C 60.A.V 60.H.C 60.Y.V	1.5 1.75 1.3 1.75 0.8	àhàhú	0	174	à h à h - ú - - -
 517	Moor	Moor	ask	50	u'uná	u'uná	ask-1	u ʔ u n á	122	u ʔ u n á	7 1 7 4 7	XBYBZ	YHYNA	50.Y.V 50.H.C 50.Y.V 50.N.C 50.A.V	1.5 1.75 1.3 1.75 0.8	uʔuná	0	174	- - u ʔ u n - á -
@@ -510,13 +847,42 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 536	Roon	Roon	at/in/loc		ro	ro	at/in/loc-	r o	125	r o	5 7	AX	RU	.R.C .U.V	2.0 1.5	ro	0	189	- r o - - -
 537	Dusner	Dusner	at/in/loc	39	ve, ro	ve	at/in/loc-3	β e	129	β e	3 7	AX	BE	39.B.C 39.E.V	2.0 1.5	βe	1	183	β e
 538	Dusner	Dusner	at/in/loc	39	ve, ro	ro	at/in/loc-5	_ r o	135	_ r o	9 5 7	_AX	_RU	39._._ 39.R.C 39.U.V	0.0 2.0 1.5	_ro	0	189	_ r o - - -
+=======
+515	Yaur	Yaur	ask	59	hùhùú'ré	hùhùú'ré	ask-59	h ù h ù ú ʔ r é	124	h ù h ù ú ʔ r é	3 7 3 7 7 1 5 7	AXBYYBCZ	HYHYYHRE	59.H.C 59.Y.V 59.H.C 59.Y.V 59.Y.V 59.H.C 59.R.C 59.E.V	2.0 1.5 1.75 1.3 1.3 1.75 1.5 0.8	hùhùúʔré	0	176	h ù h ù ú ʔ r é
+516	Yerisiam	Yerisiam	ask	60	àhàhú	àhàhú	ask-59	à h à h ú	124	à h à h ú	7 3 7 3 7	XBYBZ	AHAHY	60.A.V 60.H.C 60.A.V 60.H.C 60.Y.V	1.5 1.75 1.3 1.75 0.8	àhàhú	0	177	à h à h ú
+517	Moor	Moor	ask	50	u'uná	u'uná	ask-1	u ʔ u n á	122	u ʔ u n á	7 1 7 4 7	XBYBZ	YHYNA	50.Y.V 50.H.C 50.Y.V 50.N.C 50.A.V	1.5 1.75 1.3 1.75 0.8	uʔuná	0	174	u ʔ u n á
+518	Cebuano_outgroup	Cebuano	at/in/loc		sa sulod	sa sulod	at/in/loc-14	s a _ s u l o d	127	s a _ s u l o d	3 7 9 3 7 5 7 1	AX_AXBYN	SA_SYLUT	.S.C .A.V ._._ .S.C .Y.V .L.C .U.V .T.c	2.0 1.5 0.0 2.0 1.5 1.75 1.3 0.8	sa_sulod	0	190	s a _ s u l o d
+522	Wamesa	WAD	at/in/loc	30	na, raro	na	at/in/loc-1	n a	126	n a	4 7	AX	NA	30.N.C 30.A.V	2.0 1.5	na	0	178	n a
+523	Wamesa	WAD	at/in/loc	30	na, raro	raro	at/in/loc-5	_ r a r o	135	_ r a r o	9 5 7 5 7	_AXBZ	_RARU	30._._ 30.R.C 30.A.V 30.R.C 30.U.V	0.0 2.0 1.5 1.75 0.8	_raro	0	179	_ r a r o -
+524	Ambai	Ambai	at/in/loc	31	na, we, roron	na	at/in/loc-1	n a	126	n a	4 7	AX	NA	31.N.C 31.A.V	2.0 1.5	na	0	178	n a
+525	Ambai	Ambai	at/in/loc	31	na, we, roron	we	at/in/loc-3	_ w e	129	_ w e	9 6 7	_AX	_WE	31._._ 31.W.C 31.E.V	0.0 2.0 1.5	_we	0	182	_ w e
+526	Ambai	Ambai	at/in/loc	31	na, we, roron	roron	at/in/loc-5	_ r o r o n	135	_ r o r o n	9 5 7 5 7 4	_AXBYN	_RURUN	31._._ 31.R.C 31.U.V 31.R.C 31.U.V 31.N.c	0.0 2.0 1.5 1.75 1.3 0.8	_roron	0	179	_ r o r o n
+527	Ansus_PD	Ansus (P&D)	at/in/loc	33	na, we, raroŋ	na	at/in/loc-1	n a	126	n a	4 7	AX	NA	33.N.C 33.A.V	2.0 1.5	na	0	178	n a
+528	Ansus_PD	Ansus (P&D)	at/in/loc	33	na, we, raroŋ	we	at/in/loc-3	_ w e	129	_ w e	9 6 7	_AX	_WE	33._._ 33.W.C 33.E.V	0.0 2.0 1.5	_we	0	182	_ w e
+529	Ansus_PD	Ansus (P&D)	at/in/loc	33	na, we, raroŋ	raroŋ	at/in/loc-5	_ r a r o ŋ	135	_ r a r o ŋ	9 5 7 5 7 4	_AXBYN	_RARUN	33._._ 33.R.C 33.A.V 33.R.C 33.U.V 33.N.c	0.0 2.0 1.5 1.75 1.3 0.8	_raroŋ	0	179	_ r a r o ŋ
+530	Ansus_EG	Ansus (EG)	at/in/loc		raro	raro	at/in/loc-	r a r o	125	r a r o	5 7 5 7	AXBZ	RARU	.R.C .A.V .R.C .U.V	2.0 1.5 1.75 0.8	raro	0	180	r a - - - - - r o
+531	Pom	Pom	at/in/loc		ro	ro	at/in/loc-	r o	125	r o	5 7	AX	RU	.R.C .U.V	2.0 1.5	ro	0	180	- - - - - - - r o
+532	Serui_Laut	Serui-Laut (slump)	at/in/loc	53	na, raron	na	at/in/loc-1	n a	126	n a	4 7	AX	NA	53.N.C 53.A.V	2.0 1.5	na	0	178	n a
+533	Serui_Laut	Serui-Laut (slump)	at/in/loc	53	na, raron	raron	at/in/loc-5	_ r a r o n	135	_ r a r o n	9 5 7 5 7 4	_AXBYN	_RARUN	53._._ 53.R.C 53.A.V 53.R.C 53.U.V 53.N.c	0.0 2.0 1.5 1.75 1.3 0.8	_raron	0	179	_ r a r o n
+534	Biak	Biak	at/in/loc	36	be, ro	be	at/in/loc-3	b e	129	b e	1 7	AX	PE	36.P.C 36.E.V	2.0 1.5	be	0	183	b e
+535	Biak	Biak	at/in/loc	36	be, ro	ro	at/in/loc-5	_ r o	135	_ r o	9 5 7	_AX	_RU	36._._ 36.R.C 36.U.V	0.0 2.0 1.5	_ro	0	179	_ r o - - -
+536	Roon	Roon	at/in/loc		ro	ro	at/in/loc-	r o	125	r o	5 7	AX	RU	.R.C .U.V	2.0 1.5	ro	0	180	- - - - - - - r o
+537	Dusner	Dusner	at/in/loc	39	ve, ro	ve	at/in/loc-3	β e	129	β e	3 7	AX	BE	39.B.C 39.E.V	2.0 1.5	βe	1	183	β e
+538	Dusner	Dusner	at/in/loc	39	ve, ro	ro	at/in/loc-5	_ r o	135	_ r o	9 5 7	_AX	_RU	39._._ 39.R.C 39.U.V	0.0 2.0 1.5	_ro	0	179	_ r o - - -
+>>>>>>> origin/master
 539	Arguni	Arguni	at/in/loc	34	ramo	ramo	at/in/loc-34	r a m o	130	r a m o	5 7 4 7	AXBZ	RAMU	34.R.C 34.A.V 34.M.C 34.U.V	2.0 1.5 1.75 0.8	ramo	0	186	r a m o
 540	As	As (ABVD)	at/in/loc	35	nulum	nulum	at/in/loc-35	n u l u m	131	n u l u m	4 7 5 7 4	AXBYN	NYLYM	35.N.C 35.Y.V 35.L.C 35.Y.V 35.M.c	2.0 1.5 1.75 1.3 0.8	nulum	0	185	n u l u m
 541	Biga	Biga (rem)	at/in/loc	37	malaman	malaman	at/in/loc-37	m a l a m a n	132	m a l a m a n	4 7 5 7 4 7 4	AXBYBYN	MALAMAN	37.M.C 37.A.V 37.L.C 37.A.V 37.M.C 37.A.V 37.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	malaman	0	181	m a l a m a n
 542	Buli	Buli	at/in/loc	38	mali, loló	mali	at/in/loc-2	m a l i	128	m a l i	4 7 5 7	AXBZ	MALI	38.M.C 38.A.V 38.L.C 38.I.V	2.0 1.5 1.75 0.8	mali	0	181	m a l - - i -
+<<<<<<< HEAD
 543	Buli	Buli	at/in/loc	38	mali, loló	loló	at/in/loc-5	_ l o l ó	135	_ l o l ó	9 5 7 5 7	_AXBZ	_LULU	38._._ 38.L.C 38.U.V 38.L.C 38.U.V	0.0 2.0 1.5 1.75 0.8	_loló	0	189	_ l o l ó -
 544	Gane	Gane	at/in/loc	41	li	li	at/in/loc-2	l i	128	l i	5 7	AX	LI	41.L.C 41.I.V	2.0 1.5	li	0	181	- - l - - i -
 545	Gebe	Gebe	at/in/loc	42	i-lalɔ	i-lalɔ	at/in/loc-5	i l a l ɔ	135	i l a l ɔ	7 5 7 5 7	XBYBZ	ILALU	42.I.V 42.L.C 42.A.V 42.L.C 42.U.V	1.5 1.75 1.3 1.75 0.8	ilalɔ	0	189	i l a l ɔ -
+=======
+543	Buli	Buli	at/in/loc	38	mali, loló	loló	at/in/loc-5	_ l o l ó	135	_ l o l ó	9 5 7 5 7	_AXBZ	_LULU	38._._ 38.L.C 38.U.V 38.L.C 38.U.V	0.0 2.0 1.5 1.75 0.8	_loló	0	179	_ l o l ó -
+544	Gane	Gane	at/in/loc	41	li	li	at/in/loc-2	l i	128	l i	5 7	AX	LI	41.L.C 41.I.V	2.0 1.5	li	0	181	- - l - - i -
+545	Gebe	Gebe	at/in/loc	42	i-lalɔ	i-lalɔ	at/in/loc-5	i l a l ɔ	135	i l a l ɔ	7 5 7 5 7	XBYBZ	ILALU	42.I.V 42.L.C 42.A.V 42.L.C 42.U.V	1.5 1.75 1.3 1.75 0.8	ilalɔ	0	189	i l a l ɔ
+>>>>>>> origin/master
 546	Kowiai	Kowiai	at/in/loc	45	na	na	at/in/loc-1	n a	126	n a	4 7	AX	NA	45.N.C 45.A.V	2.0 1.5	na	0	178	n a
 547	Irarutu	Irarutu (Mats)	at/in/loc	43	ne	ne	at/in/loc-43	n e	133	n e	4 7	AX	NE	43.N.C 43.E.V	2.0 1.5	ne	0	178	n e
 548	Ambel	Ambel (rem)	at/in/loc	32	po, lo	po	at/in/loc-5	p o	135	p o	1 7	AX	PU	32.P.C 32.U.V	2.0 1.5	po	1	183	p o
@@ -526,10 +892,17 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 552	Waropen	Waropen (held)	at/in/loc	57	na, we	na	at/in/loc-1	n a	126	n a	4 7	AX	NA	57.N.C 57.A.V	2.0 1.5	na	0	178	n a
 553	Waropen	Waropen (held)	at/in/loc	57	na, we	we	at/in/loc-3	_ w e	129	_ w e	9 6 7	_AX	_WE	57._._ 57.W.C 57.E.V	0.0 2.0 1.5	_we	1	182	_ w e
 554	Umar	Umar	at/in/loc	55	te	te	at/in/loc-55	t e	136	t e	1 7	AX	TE	55.T.C 55.E.V	2.0 1.5	te	0	184	t e
+<<<<<<< HEAD
 555	Yaur	Yaur	at/in/loc	59	ódògrè	ódògrè	at/in/loc-59	ó d ò g r è	138	ó d ò g r è	7 1 7 1 5 7	XBYBCZ	UTUKRE	59.U.V 59.T.C 59.U.V 59.K.C 59.R.C 59.E.V	1.5 1.75 1.3 1.75 1.5 0.8	ódògrè	0	2	- ó - d - ò g r è
 556	Yerisiam	Yerisiam	at/in/loc	60	námóoné	námóoné	at/in/loc-60	n á m ó o n é	139	n á m ó o n é	4 7 4 7 7 4 7	AXBYYBZ	NAMUUNE	60.N.C 60.A.V 60.M.C 60.U.V 60.U.V 60.N.C 60.E.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	námóoné	0	187	n á m ó o n é
 557	Moor	Moor	at/in/loc	50	na	na	at/in/loc-1	n a	126	n a	4 7	AX	NA	50.N.C 50.A.V	2.0 1.5	na	0	178	n a
 558	Warembori	Warembori	at/in/loc	56	mundiu-ro	mundiu-ro	at/in/loc-56	m u n d i u r o	137	m u n d i u r o	4 7 4 1 7 7 5 7	AXMBYYBZ	MYNTIYRU	56.M.C 56.Y.V 56.N.c 56.T.C 56.I.V 56.Y.V 56.R.C 56.U.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	mundiuro	0	2	m u n d i u - r o
+=======
+555	Yaur	Yaur	at/in/loc	59	ódògrè	ódògrè	at/in/loc-59	ó d ò g r è	138	ó d ò g r è	7 1 7 1 5 7	XBYBCZ	UTUKRE	59.U.V 59.T.C 59.U.V 59.K.C 59.R.C 59.E.V	1.5 1.75 1.3 1.75 1.5 0.8	ódògrè	0	180	- ó - d - ò g r è
+556	Yerisiam	Yerisiam	at/in/loc	60	námóoné	námóoné	at/in/loc-60	n á m ó o n é	139	n á m ó o n é	4 7 4 7 7 4 7	AXBYYBZ	NAMUUNE	60.N.C 60.A.V 60.M.C 60.U.V 60.U.V 60.N.C 60.E.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	námóoné	0	187	n á m ó o n é
+557	Moor	Moor	at/in/loc	50	na	na	at/in/loc-1	n a	126	n a	4 7	AX	NA	50.N.C 50.A.V	2.0 1.5	na	0	178	n a
+558	Warembori	Warembori	at/in/loc	56	mundiu-ro	mundiu-ro	at/in/loc-56	m u n d i u r o	137	m u n d i u r o	4 7 4 1 7 7 5 7	AXMBYYBZ	MYNTIYRU	56.M.C 56.Y.V 56.N.c 56.T.C 56.I.V 56.Y.V 56.R.C 56.U.V	2.0 1.5 1.1 1.75 1.3 1.3 1.75 0.8	mundiuro	0	180	m u n d i u - r o
+>>>>>>> origin/master
 559	Cebuano_outgroup	Cebuano	back (anat)		likód	likód	back (anat)-1	l i k ó d	141	l i k ó d	5 7 1 7 1	AXBYN	LIKUT	.L.C .I.V .K.C .U.V .T.c	2.0 1.5 1.75 1.3 0.8	likód	0	191	l i k ó - d - - -
 561	Wamesa	WAD	back (anat)	30	karu	karu	back (anat)-1	k a r u	141	k a r u	1 7 5 7	AXBZ	KARY	30.K.C 30.A.V 30.R.C 30.Y.V	2.0 1.5 1.75 0.8	karu	0	191	k a r u - - - - -
 562	Ambai	Ambai	back (anat)	31	kuruu	kuruu	back (anat)-1	k u r uː	141	k u r uː	1 7 5 7	AXBZ	KYRY	31.K.C 31.Y.V 31.R.C 31.Y.V	2.0 1.5 1.75 0.8	kuruː	0	191	k u r uː - - - - -
@@ -558,8 +931,13 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 585	Cebuano_outgroup	Cebuano	bad		da-után	da-után	bad-	d a u t á n	158	d a u t á n	1 7 7 1 7 4	AXYBYN	TAYTAN	.T.C .A.V .Y.V .T.C .A.V .N.c	2.0 1.5 1.3 1.75 1.3 0.8	daután	0	227	d a u t á n
 588	Wamesa	WAD	bad	30	kariria	kariria	bad-1	k a r i r i a	159	k a r i r i a	1 7 5 7 5 7 7	AXBYBYZ	KARIRIA	30.K.C 30.A.V 30.R.C 30.I.V 30.R.C 30.I.V 30.A.V	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kariria	0	209	- k a r - i r i a
 589	Ambai	Ambai	bad	31	kerira	kerira	bad-1	k e r i r a	159	k e r i r a	1 7 5 7 5 7	AXBYBZ	KERIRA	31.K.C 31.E.V 31.R.C 31.I.V 31.R.C 31.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kerira	0	209	- k e r - i r - a
+<<<<<<< HEAD
 590	Ansus_PD	Ansus (P&D)	bad	33	moiawa	moiawa	bad-33	m o i a w a	160	m o i a w a	4 7 7 7 6 7	AXYYBZ	MUIAWA	33.M.C 33.U.V 33.I.V 33.A.V 33.W.C 33.A.V	2.0 1.5 1.3 1.3 1.75 0.8	moiawa	0	213	m - o i a ( - ) w a
 591	Ansus_EG	Ansus (EG)	bad		mioya va	mioya va	bad-	m i o j a _ β a	158	m i o j a _ β a	4 7 7 6 7 9 3 7	AXYBZ_AX	MIUJA_BA	.M.C .I.V .U.V .J.C .A.V ._._ .B.C .A.V	2.0 1.5 1.3 1.75 0.8 0.0 2.0 1.5	mioja_βa	0	213	m i o j a ( _ ) β a
+=======
+590	Ansus_PD	Ansus (P&D)	bad	33	moiawa	moiawa	bad-33	m o i a w a	160	m o i a w a	4 7 7 7 6 7	AXYYBZ	MUIAWA	33.M.C 33.U.V 33.I.V 33.A.V 33.W.C 33.A.V	2.0 1.5 1.3 1.3 1.75 0.8	moiawa	0	212	m o i a w a
+591	Ansus_EG	Ansus (EG)	bad		mioya va	mioya va	bad-	m i o j a _ β a	158	m i o j a _ β a	4 7 7 6 7 9 3 7	AXYBZ_AX	MIUJA_BA	.M.C .I.V .U.V .J.C .A.V ._._ .B.C .A.V	2.0 1.5 1.3 1.75 0.8 0.0 2.0 1.5	mioja_βa	0	213	m i o j a _ β a
+>>>>>>> origin/master
 592	Kurudu	KURUDU	bad	69	dodaw	dodaw	bad-	d o d a w	158	d o d a w	1 7 1 7 6	AXBYN	TUTAW	69.T.C 69.U.V 69.T.C 69.A.V 69.W.c	2.0 1.5 1.75 1.3 0.8	dodaw	0	223	d o d a w
 593	Biak	Biak	bad	36	bàrbòr	bàrbòr	bad-36	b à r b ò r	162	b à r b ò r	1 7 5 1 7 5	AXMBYN	PARPUR	36.P.C 36.A.V 36.R.c 36.P.C 36.U.V 36.R.c	2.0 1.5 1.1 1.75 1.3 0.8	bàrbòr	0	231	b à r b ò r
 594	Biak_Betew	Biak Betew (Mutus)	bad		i-karfiwa	i-karfiwa	bad-	i k a r ɸ i w a	158	i k a r ɸ i w a	7 1 7 5 3 7 6 7	XBYMBYBZ	IKARBIWA	.I.V .K.C .A.V .R.c .B.C .I.V .W.C .A.V	1.5 1.75 1.3 1.1 1.75 1.3 1.75 0.8	ikarɸiwa	0	209	i k a r ɸ i w - a
@@ -632,6 +1010,7 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 662	Moor	Moor	bathe	50	marìvu'a	marìvu'a	bathe-50	m a r ì β u ʔ a	184	m a r ì β u ʔ a	4 7 5 7 3 7 1 7	AXBYBYBZ	MARIBYHA	50.M.C 50.A.V 50.R.C 50.I.V 50.B.C 50.Y.V 50.H.C 50.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	marìβuʔa	0	253	m a r ì β u ʔ a
 663	Warembori	Warembori	bathe	56	asi-o, matin-do	asi-o	bathe-	a s i o	182	a s i o	7 3 7 7	XBYZ	ASIU	56.A.V 56.S.C 56.I.V 56.U.V	1.5 1.75 1.3 0.8	asio	0	248	- - - a s i o
 664	Cebuano_outgroup	Cebuano	bean		batong	batong	bean-	b a t o n g	187	b a t o n g	1 7 1 7 4 1	AXBYLN	PATUNK	.P.C .A.V .T.C .U.V .N.c .K.c	2.0 1.5 1.75 1.3 1.1 0.8	batong	0	260	b a t o n g
+<<<<<<< HEAD
 665	Wamesa	WAD	bean	30	kavaru	kavaru	bean-1	k a β a r u	188	k a β a r u	1 7 3 7 5 7	AXBYBZ	KABARY	30.K.C 30.A.V 30.B.C 30.A.V 30.R.C 30.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kaβaru	0	258	k a β a r u - - -
 666	Ansus_PD	Ansus (P&D)	bean	33	kawaru	kawaru	bean-1	k a w a r u	188	k a w a r u	1 7 6 7 5 7	AXBYBZ	KAWARY	33.K.C 33.A.V 33.W.C 33.A.V 33.R.C 33.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kawaru	0	258	k a w a r u - - -
 667	Ansus_EG	Ansus (EG)	bean		kawaru	kawaru	bean-	k a w a r u	187	k a w a r u	1 7 6 7 5 7	AXBYBZ	KAWARY	.K.C .A.V .W.C .A.V .R.C .Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kawaru	0	258	k a w a r u - - -
@@ -644,6 +1023,20 @@ ID	DOCULECT	DOCULECT_OLD	CONCEPT	LANGID	VALUE	FORM	COG	TOKENS	COGID	SEGMENTS	SON
 674	Yaur	Yaur	bean	59	óvárùuré	óvárùuré	bean-1	ó β á r ù u r é	188	ó β á r ù u r é	7 3 7 5 7 7 5 7	XBYBYYBZ	UBARYYRE	59.U.V 59.B.C 59.A.V 59.R.C 59.Y.V 59.Y.V 59.R.C 59.E.V	1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	óβárùuré	0	258	- ó β á r ù u r é
 675	Yerisiam	Yerisiam	bean	60	kávárúùrà	kávárúùrà	bean-1	k á β á r ú ù r à	188	k á β á r ú ù r à	1 7 3 7 5 7 7 5 7	AXBYBYYBZ	KABARYYRA	60.K.C 60.A.V 60.B.C 60.A.V 60.R.C 60.Y.V 60.Y.V 60.R.C 60.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	káβárúùrà	0	258	k á β á r ú ù r à
 676	Moor	Moor	bean	50	urá	urá	bean-50	u r á	190	u r á	7 5 7	XBZ	YRA	50.Y.V 50.R.C 50.A.V	1.5 1.75 0.8	urá	0	258	- - - - - u - r á
+=======
+665	Wamesa	WAD	bean	30	kavaru	kavaru	bean-1	k a β a r u	188	k a β a r u	1 7 3 7 5 7	AXBYBZ	KABARY	30.K.C 30.A.V 30.B.C 30.A.V 30.R.C 30.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kaβaru	0	257	k a β a - - - - r u
+666	Ansus_PD	Ansus (P&D)	bean	33	kawaru	kawaru	bean-1	k a w a r u	188	k a w a r u	1 7 6 7 5 7	AXBYBZ	KAWARY	33.K.C 33.A.V 33.W.C 33.A.V 33.R.C 33.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kawaru	0	257	k a w a - - - - r u
+667	Ansus_EG	Ansus (EG)	bean		kawaru	kawaru	bean-	k a w a r u	187	k a w a r u	1 7 6 7 5 7	AXBYBZ	KAWARY	.K.C .A.V .W.C .A.V .R.C .Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kawaru	0	257	k a w a - - - - r u
+668	Pom	Pom	bean		kawaru	kawaru	bean-	k a w a r u	187	k a w a r u	1 7 6 7 5 7	AXBYBZ	KAWARY	.K.C .A.V .W.C .A.V .R.C .Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kawaru	0	257	k a w a - - - - r u
+669	Serui_Laut	Serui-Laut (slump)	bean	53	kawaru	kawaru	bean-1	k a w a r u	188	k a w a r u	1 7 6 7 5 7	AXBYBZ	KAWARY	53.K.C 53.A.V 53.W.C 53.A.V 53.R.C 53.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kawaru	0	257	k a w a - - - - r u
+670	Biak	Biak	bean	36	abru	abru	bean-1	a b r u	188	a b r u	7 1 5 7	XBCZ	APRY	36.A.V 36.P.C 36.R.C 36.Y.V	1.5 1.75 1.5 0.8	abru	0	257	- - - a b r - u - -
+671	Roon	Roon	bean		kavorur	kavorur	bean-	k a β o r u r	187	k a β o r u r	1 7 3 7 5 7 5	AXBYBYN	KABURYR	.K.C .A.V .B.C .U.V .R.C .Y.V .R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kaβorur	0	257	k a β o - r - u r -
+672	Maya_Salawati	Ma'ya Salawati	bean	49	palyu³	palyu³	bean-49	p a l j ³/u	189	p a l j u	1 7 5 6 7	AXBCZ	PALJY	49.P.C 49.A.V 49.L.C 49.J.C 49.Y.V	2.0 1.5 1.75 1.5 0.8	palju	0	259	p a l j ³/u
+673	Umar	Umar	bean	55	kvaru	kvaru	bean-1	k β a r u	188	k β a r u	1 3 7 5 7	ACXBZ	KBARY	55.K.C 55.B.C 55.A.V 55.R.C 55.Y.V	2.0 1.5 1.5 1.75 0.8	kβaru	0	257	k - β a - r - u - -
+674	Yaur	Yaur	bean	59	óvárùuré	óvárùuré	bean-1	ó β á r ù u r é	188	ó β á r ù u r é	7 3 7 5 7 7 5 7	XBYBYYBZ	UBARYYRE	59.U.V 59.B.C 59.A.V 59.R.C 59.Y.V 59.Y.V 59.R.C 59.E.V	1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	óβárùuré	0	257	- ó β á - r ù u r é
+675	Yerisiam	Yerisiam	bean	60	kávárúùrà	kávárúùrà	bean-1	k á β á r ú ù r à	188	k á β á r ú ù r à	1 7 3 7 5 7 7 5 7	AXBYBYYBZ	KABARYYRA	60.K.C 60.A.V 60.B.C 60.A.V 60.R.C 60.Y.V 60.Y.V 60.R.C 60.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	káβárúùrà	0	257	k á β á - r ú ù r à
+676	Moor	Moor	bean	50	urá	urá	bean-50	u r á	190	u r á	7 5 7	XBZ	YRA	50.Y.V 50.R.C 50.A.V	1.5 1.75 0.8	urá	0	258	u r á
+>>>>>>> origin/master
 677	Cebuano_outgroup	Cebuano	bee, wasp		put͡ʃokan, tambuboan, lampinig	put͡ʃokan	bee, wasp-	p u t � ʃ o k a n	191	p u t � ʃ o k a n	1 7 1 0 3 7 1 7 4	AXMBCYBYN	PYT0SUKAN	.P.C .Y.V .T.c .0.C .S.C .U.V .K.C .A.V .N.c	2.0 1.5 1.1 1.75 1.5 1.3 1.75 1.3 0.8	put�ʃokan	0	273	p u t � ʃ o k a n
 678	Wamesa	WAD	bee, wasp	30	anibar, maniai	anibar	bee, wasp-1	a n i b a r	192	a n i b a r	7 4 7 1 7 5	XBYBYN	ANIPAR	30.A.V 30.N.C 30.I.V 30.P.C 30.A.V 30.R.c	1.5 1.75 1.3 1.75 1.3 0.8	anibar	0	261	a n - i b a r
 679	Wamesa	WAD	bee, wasp	30	anibar, maniai	maniai	bee, wasp-2	_ m a n i a i	193	_ m a n i a i	9 4 7 4 7 7 7	_AXBYYZ	_MANIAI	30._._ 30.M.C 30.A.V 30.N.C 30.I.V 30.A.V 30.I.V	0.0 2.0 1.5 1.75 1.3 1.3 0.8	_maniai	0	264	_ m a n i a i
